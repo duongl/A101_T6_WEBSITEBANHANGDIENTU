@@ -31,4 +31,5 @@ Phát triển ứng dụng phần mềm thông minh
   + Quản lý doanh thu
 ### AI: Chăm sóc khách hàng (Web)
 ### Nguồn tham khảo
+Link: https://gearvn.com/
   
