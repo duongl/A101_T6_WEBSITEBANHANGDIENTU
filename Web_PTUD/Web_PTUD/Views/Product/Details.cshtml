@@ -1,0 +1,176 @@
+﻿@model ShopBanLaptop2.Models.Laptop
+
+@{
+    ViewBag.Title = "Details2";
+    Layout = "~/Views/Shared/_secondLayout.cshtml";
+}
+@{
+    var user = Session["account"] as ShopBanLaptop2.Models.Account;
+}
+
+<div class="container">
+    <div class="row">
+        <!--hien thi ten may-->
+        <h3 style="color: blue;">@Model.Name</h3>
+
+    </div>
+    <hr />
+    <div class="row">
+        <div class="col-6">
+            <!-- hien thi ben trai-->
+            <div id="bg_img">
+                <img style=" width: 90%;" class="rounded mx-auto d-block" src="~/Access/background/background_laptop.png" />
+                <img id="lap" style=" width: 50%;" class="rounded mx-auto d-block" src="~/Access/images/@Model.Image" />
+                <div id="price">
+                    @string.Format("{0:#,##0.00}", Model.Price)  vnđ
+                </div>
+            </div>
+
+
+            <div class="col-12 bg-light" id="info">
+                man hinh @Model.monitor inch<br />
+                CPU @Model.CPU<br />
+                RAM @Model.RAM<br />
+                Hardisk @Model.HardDisk <br />
+                GPU @Model.GPU<br />
+                <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModalLong">
+                    xem thông tin chi tiết
+                </button>
+            </div>
+
+
+        </div>
+
+        <div class="col-6 bg-light">
+            <!-- hien thi ben phai-->
+            @if (user != null)
+            {
+                if (user.type == 1)
+                {
+                    <p>
+                        @Html.ActionLink("Edit", "suaThongTinLaptop", new { id = Model.Id }) |
+                        @Html.ActionLink("Delete", "xoaLoaiSanPhan", new { id = Model.Id }) |
+                    </p>
+                }
+            }
+        <div class="row p-2">
+            <div class="col-12" style="font-size: 2vw;">
+                <p>
+                    <img src="~/Access/icons/Dau_tich.JPG" class="icon" />
+                    Bảo hành chính hãng 24 tháng.
+                </p>
+                <p>
+                    <img src="~/Access/icons/Dau_tich.JPG" class="icon" />
+                    Hỗ trợ đổi mới trong 7 ngày.
+                </p>
+                <p>
+                    <img src="~/Access/icons/Dau_tich.JPG" class="icon" />
+                    Windows bản quyền tích hợp.
+                </p>
+                <p>
+                    <img src="~/Access/icons/Dau_tich.JPG" class="icon" />
+                    Miễn phí giao hàng toàn quốc.
+                </p>
+                <p>
+                    <img src="~/Access/icons/Dau_tich.JPG" class="icon" />
+                    Tặng PMH 100.000đ mua Microsoft 365 Personal/Family Xem chi tiết
+                </p>
+                <p>
+                    <img src="~/Access/icons/Dau_tich.JPG" class="icon" />
+                    Giảm 30% Sim MobiFone Siêu Data 3T - 2GB/ngày - miễn phí 3 tháng - giá chỉ 266.000đ
+                </p>
+                <p>
+                    <img src="~/Access/icons/Dau_tich.JPG" class="icon" />
+                    Cơ hội trúng Jackpot đến 2 tỷ Xem chi tiết
+                </p>
+            </div>
+            <a href="/Product/Search/@Model.Id?quatity=1" class="col-12 bg-secondary rounded selectedBTN">mua tiếp</a>
+            <a href="#" class="col-12 bg-danger rounded my-1 selectedBTN">mua ngay</a>
+            <a href="/Product/addShopcart/@Model.Id?quatity=1" class="col-12 bg-primary rounded selectedBTN">thêm vào giỏ hàng</a>
+        </div>
+
+        </div>
+    </div>
+</div>
+
+<!-- Button trigger modal -->
+<!-- Modal -->
+<div class="modal fade" id="exampleModalLong" tabindex="-1" role="dialog" aria-labelledby="exampleModalLongTitle" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLongTitle"> thông tin chi tiết @Model.Name</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body bg-light">
+
+                <p><img src="~/Access/images/@Model.Image" /></p>
+                <p>thông tin hàng hóa</p> <hr />
+                <p>
+                    danh mục: @{
+                        if (Model.IdCategory == 1)
+                        {
+                            <span>gaming </span>
+                        }
+                        else
+                        {
+                            <span>văn phòng </span>
+                        }
+                    }
+                </p>
+                <p>thương hiệu: @Model.ProductCompany </p>
+                <p>thông tin cấu hình</p> <hr />
+                <p>Chiều rộng màn hình: @Model.monitor inch</p>
+                <p>CPU: @Model.CPU</p>
+                <p>GPU: @Model.GPU</p>
+                <p>RAM: @Model.RAM</p>
+                <p>Ổ cứng: @Model.HardDisk</p>
+
+            </div>
+
+        </div>
+    </div>
+</div>
+
+<style>
+
+    .icon {
+        width: 1rem;
+    }
+
+
+    #price {
+        position: absolute;
+        top: 94%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        color: rgb(18, 176, 234);
+        font-size: 2vw;
+        font-family: 'Times New Roman', Times, serif;
+    }
+
+    #lap {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+    }
+
+    #bg_img {
+        position: relative;
+        text-align: center;
+        color: white;
+    }
+
+
+    .selectedBTN {
+        font-size: 3vw;
+        font-family: 'Times New Roman', Times, serif;
+        color: black;
+        text-align: center;
+    }
+</style>
+
+

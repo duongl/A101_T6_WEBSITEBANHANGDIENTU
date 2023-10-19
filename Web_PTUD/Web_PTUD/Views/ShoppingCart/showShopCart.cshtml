@@ -1,0 +1,90 @@
+﻿
+@{
+    ViewBag.Title = "showShopCart";
+    Layout = "~/Views/Shared/_secondLayout.cshtml";
+}
+
+
+@{
+    var shopcart = Session["ShopCart"] as List<ShopBanLaptop2.Models.SCartInfo>;
+    if (shopcart == null)
+    {
+        //display this if null
+        <div class="container">
+            <div class="row justify-content-md-center">
+                <div>
+                    <img class="" src="~/Access/icons/empty-cart.png" width="300" /><br />
+                    không có sản phẩm nào trong giỏ hàng
+                </div>
+            </div>
+            <div class="row justify-content-md-center" style="height:100px">
+                <a href="/Product/Search">quay về trang chủ</a>
+            </div>
+        </div>
+
+    }
+    else if (shopcart.Count <= 0)
+    {
+        <div class="container">
+            <div class="row justify-content-md-center">
+                <div>
+                    <img class="" src="~/Access/icons/empty-cart.png" width="300" /><br />
+                    không có sản phẩm nào trong giỏ hàng
+                </div>
+            </div>
+            <div class="row justify-content-md-center" style="height:100px">
+                <a href="/Product/Search">quay về trang chủ</a>
+            </div>
+        </div>
+    }
+    else
+    {
+        //display this if had product
+<div class="container">
+    <div class="row" style="height:50px"> </div>
+    <div class="row">
+        <div class="col-6">Tên Máy </div>
+        <div class="col-2">Số Lượng</div>
+        <div class="col-2">Đơn giá</div>
+        <div class="col-2">Tùy Chọn</div>
+    </div>
+    <hr />
+    @foreach (var item in shopcart)
+    {
+        <div class="row">
+            <div class="col-6"><img src="~/Access/images/@item.lap.Image" width="100" /> @item.lap.Name</div>
+            <div class="col-2">@item.soLuong</div>
+            <div class="col-2">@item.lap.Price</div>
+            <div class="col-2">
+                @Html.ActionLink("delete", "delete", new { id = item.lap.Id }) |
+                @Html.ActionLink("add", "addItem", new { id = item.lap.Id }) |
+                @Html.ActionLink("minus", "minusItem", new { id = item.lap.Id })
+            </div>
+
+        </div>
+        <hr />
+    }
+<div class="row">
+    <p class="col-6"> tổng tiền: @ViewBag.totalPrice </p>
+    <p class="col-4"> tổng sản phẩm: @ViewBag.sl </p>
+    <p class="col-2">     @Html.ActionLink("xóa hết", "setNullForShopCart") </p>
+</div>
+
+    @{
+        if (Session["account"] != null)
+        {
+            <p>@Html.ActionLink("thanh toán", "thanhToan")</p>
+        }
+        else
+        {
+            <p class="text-danger">vui lòng đăng nhập để thanh toán</p>
+        }
+    }
+
+    <div class="row" style="height:50px"> </div>
+</div>
+    }
+}
+
+
+

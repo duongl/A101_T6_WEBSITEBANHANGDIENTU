@@ -1,0 +1,212 @@
+﻿<!DOCTYPE html>
+<head>
+    <title>Shop Ban laptop</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+</head>
+
+<body >
+    @{
+        var user = Session["account"] as ShopBanLaptop2.Models.Account;
+    }
+    <nav class="navbar navbar-expand-md navbar-dark bg-danger">
+        <!--           LOGO               -->
+        <a class="navbar-brand" href="/Product/Search">Laptop Shopp</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse"
+                data-target="#navbarSupportedContent">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse " id="navbarSupportedContent">
+            <ul class="navbar-nav ml-auto ">
+                <!--            search box          -->
+                @using (Html.BeginForm("Search", "Product"))
+                {
+                    <div class="form-inline">
+                        <input class="form-control mr-ms-2 col-10" name="txt_search" type="search" placeholder="Search" aria-lable="Search" style="width: 500px">
+                        <input type="hidden" name="page" value="0" />
+                        <button class="btn btn-light my-ms-2 col-2" type="submit">Search</button>
+                    </div>
+                }
+
+                <!--                        -->
+                <li class="nav-item active">
+                    <a class="nav-link" href="/Product/Search">Trang chủ </a>
+                </li>
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown"
+                       role="button" data-toggle="dropdown">Tin tức</a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                        <a class="dropdown-item" href="#">tin  mới</a>
+                        <a class="dropdown-item" href="#">Khuyến mãi</a>
+                        <a class="dropdown-item" href="#">Thủ thuật</a>
+                        <a class="dropdown-item" href="#">App & Game</a>
+                        <a class="dropdown-item" href="#">Sự kiện</a>
+                    </div>
+                </li>
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown"
+                       role="button" data-toggle="dropdown">Tài khoản</a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+
+                        @{
+                            if (user == null)
+                            {
+                                <a class="dropdown-item" href="/Login/login#">Đăng nhập</a>
+                            }
+                            else
+                            {
+                                <a class="dropdown-item" href="/Login/accountInfo/@user.id">Thông tin tài khoản</a>
+                                <a class="dropdown-item" href="/Login/logout#">Đăng xuất</a>
+
+                            }
+                        }
+
+
+
+                    </div>
+                </li>
+                @{
+                    if (user != null)
+                    {
+                        if (user.type == 1)
+                        {
+                            <li class="nav-item dropdown">
+                                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown"
+                                   role="button" data-toggle="dropdown">Admin</a>
+                                <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                    <a class="dropdown-item" href="/Product/AddLaptop">thêm sản phẩm</a>
+                                    <a class="dropdown-item" href="#">no service </a>
+                                    <a class="dropdown-item" href="#">no service</a>
+                                </div>
+                            </li>
+                        }
+                    }
+
+                }
+
+
+                <li class="nav-item active">
+                    <a class="nav-link" href="/ShoppingCart/showShopCart">Giỏ hàng </a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+    <!--                           body        -->
+    <div class="container">
+        <div class="row">
+            <div class="col-12" id="banner">
+                <img src="~/Access/banner_Image/hinh2.jpg" width="1100" height="200"/>
+                @*@RenderPage("~/Views/Shared/_Banner.cshtml")*@
+            </div>
+        </div>
+
+        <div class="row">
+            <!-- select menu -->
+            <div class="col-3 bg-light">
+                <div style="height:1000px">
+                    @RenderPage("~/Views/Shared/select.cshtml")
+                    @Html.ActionLink("sap xep theo gia", "sortByPrice")
+                </div>
+            </div>
+
+            <div class="col-9">
+                @*@RenderPage("~/Views/Shared/_displayAcc.cshtml")*@
+                @*<div class="row">
+                    <div class="col-12" style="background-color: rgb(36, 149, 190) ; height:100px ">
+                        hang san xuat
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-12" style="background-color: rgb(29, 171, 103) ; height:150px ">
+                        laptop theo nhu cau
+                    </div>
+                </div>*@
+                @RenderBody()
+            </div>
+        </div>
+
+
+
+
+
+    </div>
+    <!--                 footer                -->
+    <div class="contaner bg-light">
+        <div class="row">
+            <div class="col-lg-3 col-sm-6">
+                <ul>
+                    <li>
+                        <a href="#"> giới thiệu về công ty</a>
+                    </li>
+                    <li>
+                        <a href="#"> câu hỏi thường gặp khi mua hàng</a>
+                    </li>
+                    <li>
+                        <a href="#">chính sách bảo mật</a>
+                    </li>
+                    <li>
+                        <a href="#">quy chế hoạt động </a>
+                    </li>
+                    <li>
+                        <a href="#">kiểm tra hóa đơn điện tử</a>
+                    </li>
+                    <li>
+                        <a href="#">kiểm tra bảo hành </a>
+                    </li>
+                </ul>
+            </div>
+
+            <div class="col-lg-3 col-sm-6">
+                <ul>
+                    <li>
+                        <a href="#"> tin tuyển dụng</a>
+                    </li>
+                    <li>
+                        <a href="#"> tin khuyến mãi</a>
+                    </li>
+                    <li>
+                        <a href="#">Hướng dẫn mua online </a>
+                    </li>
+                    <li>
+                        <a href="#">hướng dẫn mua trả góp </a>
+                    </li>
+                    <li>
+                        <a href="#">chính sách trả góp</a>
+                    </li>
+                </ul>
+            </div>
+
+            <div class="col-lg-3 col-sm-6 footer">
+                <ul>
+                    <li>
+                        <a href="#"> hệ thống của hàng</a>
+                    </li>
+                    <li>
+                        <a href="#"> hệ thống bảo hành</a>
+                    </li>
+                    <li>
+                        <a href="#"> bán hàng doanh nghiệp </a>
+                    </li>
+                    <li>
+                        <a href="#">giới thiệu đổ trả </a>
+                    </li>
+                    <li>
+                        <a href="#">chính sách đổi trả</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="row bg-gray">
+            <p style="text-align:center">
+                © 2007 - 2022 Công Ty Cổ Phần Bán Lẻ Kỹ Thuật Số FPT / Địa chỉ: 261 - 263 Khánh Hội, P2, Q4, TP. Hồ Chí Minh / GPĐKKD số 0311609355 do Sở KHĐT TP.HCM cấp ngày 08/03/2012.
+                GP số 47/GP-TTĐT do sở TTTT TP HCM cấp ngày 02/07/2018. Điện thoại: (028)73023456. Email: fptshop@fpt.com.vn. Chịu trách nhiệm nội dung: Nguyễn Trịnh Nhật Linh.
+            </p>
+        </div>
+    </div>
+
+</body>

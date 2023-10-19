@@ -1,0 +1,288 @@
+D:\học tập\kỳ 5\ASP .NET MVC\do an\ShopBanLaptop2\bin\ShopBanLaptop2.dll.config
+D:\học tập\kỳ 5\ASP .NET MVC\do an\ShopBanLaptop2\bin\ShopBanLaptop2.dll
+D:\học tập\kỳ 5\ASP .NET MVC\do an\ShopBanLaptop2\bin\ShopBanLaptop2.pdb
+D:\học tập\kỳ 5\ASP .NET MVC\do an\ShopBanLaptop2\bin\roslyn\csc.exe
+D:\học tập\kỳ 5\ASP .NET MVC\do an\ShopBanLaptop2\bin\roslyn\csc.exe.config
+D:\học tập\kỳ 5\ASP .NET MVC\do an\ShopBanLaptop2\bin\roslyn\csc.rsp
+D:\học tập\kỳ 5\ASP .NET MVC\do an\ShopBanLaptop2\bin\roslyn\csi.exe
+D:\học tập\kỳ 5\ASP .NET MVC\do an\ShopBanLaptop2\bin\roslyn\csi.exe.config
+D:\học tập\kỳ 5\ASP .NET MVC\do an\ShopBanLaptop2\bin\roslyn\csi.rsp
+D:\học tập\kỳ 5\ASP .NET MVC\do an\ShopBanLaptop2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\học tập\kỳ 5\ASP .NET MVC\do an\ShopBanLaptop2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\học tập\kỳ 5\ASP .NET MVC\do an\ShopBanLaptop2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\học tập\kỳ 5\ASP .NET MVC\do an\ShopBanLaptop2\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\học tập\kỳ 5\ASP .NET MVC\do an\ShopBanLaptop2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\học tập\kỳ 5\ASP .NET MVC\do an\ShopBanLaptop2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\học tập\kỳ 5\ASP .NET MVC\do an\ShopBanLaptop2\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\học tập\kỳ 5\ASP .NET MVC\do an\ShopBanLaptop2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\học tập\kỳ 5\ASP .NET MVC\do an\ShopBanLaptop2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\học tập\kỳ 5\ASP .NET MVC\do an\ShopBanLaptop2\bin\roslyn\Microsoft.Managed.Core.targets
+D:\học tập\kỳ 5\ASP .NET MVC\do an\ShopBanLaptop2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\học tập\kỳ 5\ASP .NET MVC\do an\ShopBanLaptop2\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\học tập\kỳ 5\ASP .NET MVC\do an\ShopBanLaptop2\bin\roslyn\System.AppContext.dll
+D:\học tập\kỳ 5\ASP .NET MVC\do an\ShopBanLaptop2\bin\roslyn\System.Collections.Immutable.dll
+D:\học tập\kỳ 5\ASP .NET MVC\do an\ShopBanLaptop2\bin\roslyn\System.Console.dll
+D:\học tập\kỳ 5\ASP .NET MVC\do an\ShopBanLaptop2\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\học tập\kỳ 5\ASP .NET MVC\do an\ShopBanLaptop2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\học tập\kỳ 5\ASP .NET MVC\do an\ShopBanLaptop2\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\học tập\kỳ 5\ASP .NET MVC\do an\ShopBanLaptop2\bin\roslyn\System.Globalization.Calendars.dll
+D:\học tập\kỳ 5\ASP .NET MVC\do an\ShopBanLaptop2\bin\roslyn\System.IO.Compression.dll
+D:\học tập\kỳ 5\ASP .NET MVC\do an\ShopBanLaptop2\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\học tập\kỳ 5\ASP .NET MVC\do an\ShopBanLaptop2\bin\roslyn\System.IO.FileSystem.dll
+D:\học tập\kỳ 5\ASP .NET MVC\do an\ShopBanLaptop2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\học tập\kỳ 5\ASP .NET MVC\do an\ShopBanLaptop2\bin\roslyn\System.Net.Http.dll
+D:\học tập\kỳ 5\ASP .NET MVC\do an\ShopBanLaptop2\bin\roslyn\System.Net.Sockets.dll
+D:\học tập\kỳ 5\ASP .NET MVC\do an\ShopBanLaptop2\bin\roslyn\System.Reflection.Metadata.dll
+D:\học tập\kỳ 5\ASP .NET MVC\do an\ShopBanLaptop2\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\học tập\kỳ 5\ASP .NET MVC\do an\ShopBanLaptop2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\học tập\kỳ 5\ASP .NET MVC\do an\ShopBanLaptop2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\học tập\kỳ 5\ASP .NET MVC\do an\ShopBanLaptop2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\học tập\kỳ 5\ASP .NET MVC\do an\ShopBanLaptop2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\học tập\kỳ 5\ASP .NET MVC\do an\ShopBanLaptop2\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\học tập\kỳ 5\ASP .NET MVC\do an\ShopBanLaptop2\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\học tập\kỳ 5\ASP .NET MVC\do an\ShopBanLaptop2\bin\roslyn\System.ValueTuple.dll
+D:\học tập\kỳ 5\ASP .NET MVC\do an\ShopBanLaptop2\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\học tập\kỳ 5\ASP .NET MVC\do an\ShopBanLaptop2\bin\roslyn\System.Xml.XmlDocument.dll
+D:\học tập\kỳ 5\ASP .NET MVC\do an\ShopBanLaptop2\bin\roslyn\System.Xml.XPath.dll
+D:\học tập\kỳ 5\ASP .NET MVC\do an\ShopBanLaptop2\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\học tập\kỳ 5\ASP .NET MVC\do an\ShopBanLaptop2\bin\roslyn\vbc.exe
+D:\học tập\kỳ 5\ASP .NET MVC\do an\ShopBanLaptop2\bin\roslyn\vbc.exe.config
+D:\học tập\kỳ 5\ASP .NET MVC\do an\ShopBanLaptop2\bin\roslyn\vbc.rsp
+D:\học tập\kỳ 5\ASP .NET MVC\do an\ShopBanLaptop2\bin\roslyn\VBCSCompiler.exe
+D:\học tập\kỳ 5\ASP .NET MVC\do an\ShopBanLaptop2\bin\roslyn\VBCSCompiler.exe.config
+D:\học tập\kỳ 5\ASP .NET MVC\do an\ShopBanLaptop2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\học tập\kỳ 5\ASP .NET MVC\do an\ShopBanLaptop2\bin\Microsoft.Web.Infrastructure.dll
+D:\học tập\kỳ 5\ASP .NET MVC\do an\ShopBanLaptop2\bin\System.Web.Helpers.dll
+D:\học tập\kỳ 5\ASP .NET MVC\do an\ShopBanLaptop2\bin\System.Web.Mvc.dll
+D:\học tập\kỳ 5\ASP .NET MVC\do an\ShopBanLaptop2\bin\System.Web.Razor.dll
+D:\học tập\kỳ 5\ASP .NET MVC\do an\ShopBanLaptop2\bin\System.Web.Webpages.Deployment.dll
+D:\học tập\kỳ 5\ASP .NET MVC\do an\ShopBanLaptop2\bin\System.Web.Webpages.dll
+D:\học tập\kỳ 5\ASP .NET MVC\do an\ShopBanLaptop2\bin\System.Web.Webpages.Razor.dll
+D:\học tập\kỳ 5\ASP .NET MVC\do an\ShopBanLaptop2\bin\System.Web.Razor.xml
+D:\học tập\kỳ 5\ASP .NET MVC\do an\ShopBanLaptop2\bin\System.Web.Webpages.xml
+D:\học tập\kỳ 5\ASP .NET MVC\do an\ShopBanLaptop2\bin\System.Web.Webpages.Deployment.xml
+D:\học tập\kỳ 5\ASP .NET MVC\do an\ShopBanLaptop2\bin\System.Web.Webpages.Razor.xml
+D:\học tập\kỳ 5\ASP .NET MVC\do an\ShopBanLaptop2\bin\System.Web.Helpers.xml
+D:\học tập\kỳ 5\ASP .NET MVC\do an\ShopBanLaptop2\bin\System.Web.Mvc.xml
+D:\học tập\kỳ 5\ASP .NET MVC\do an\ShopBanLaptop2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\học tập\kỳ 5\ASP .NET MVC\do an\ShopBanLaptop2\obj\Debug\ShopBanLaptop2.csproj.AssemblyReference.cache
+D:\học tập\kỳ 5\ASP .NET MVC\do an\ShopBanLaptop2\obj\Debug\ShopBanLaptop2.csproj.CoreCompileInputs.cache
+D:\học tập\kỳ 5\ASP .NET MVC\do an\ShopBanLaptop2\obj\Debug\ShopBanLaptop2.csproj.CopyComplete
+D:\học tập\kỳ 5\ASP .NET MVC\do an\ShopBanLaptop2\obj\Debug\ShopBanLaptop2.dll
+D:\học tập\kỳ 5\ASP .NET MVC\do an\ShopBanLaptop2\obj\Debug\ShopBanLaptop2.pdb
+D:\học tập\kỳ 5\ShopBanLaptop2\bin\ShopBanLaptop2.dll.config
+D:\học tập\kỳ 5\ShopBanLaptop2\bin\ShopBanLaptop2.dll
+D:\học tập\kỳ 5\ShopBanLaptop2\bin\ShopBanLaptop2.pdb
+D:\học tập\kỳ 5\ShopBanLaptop2\bin\roslyn\csc.exe
+D:\học tập\kỳ 5\ShopBanLaptop2\bin\roslyn\csc.exe.config
+D:\học tập\kỳ 5\ShopBanLaptop2\bin\roslyn\csc.rsp
+D:\học tập\kỳ 5\ShopBanLaptop2\bin\roslyn\csi.exe
+D:\học tập\kỳ 5\ShopBanLaptop2\bin\roslyn\csi.exe.config
+D:\học tập\kỳ 5\ShopBanLaptop2\bin\roslyn\csi.rsp
+D:\học tập\kỳ 5\ShopBanLaptop2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\học tập\kỳ 5\ShopBanLaptop2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\học tập\kỳ 5\ShopBanLaptop2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\học tập\kỳ 5\ShopBanLaptop2\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\học tập\kỳ 5\ShopBanLaptop2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\học tập\kỳ 5\ShopBanLaptop2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\học tập\kỳ 5\ShopBanLaptop2\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\học tập\kỳ 5\ShopBanLaptop2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\học tập\kỳ 5\ShopBanLaptop2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\học tập\kỳ 5\ShopBanLaptop2\bin\roslyn\Microsoft.Managed.Core.targets
+D:\học tập\kỳ 5\ShopBanLaptop2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\học tập\kỳ 5\ShopBanLaptop2\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\học tập\kỳ 5\ShopBanLaptop2\bin\roslyn\System.AppContext.dll
+D:\học tập\kỳ 5\ShopBanLaptop2\bin\roslyn\System.Collections.Immutable.dll
+D:\học tập\kỳ 5\ShopBanLaptop2\bin\roslyn\System.Console.dll
+D:\học tập\kỳ 5\ShopBanLaptop2\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\học tập\kỳ 5\ShopBanLaptop2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\học tập\kỳ 5\ShopBanLaptop2\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\học tập\kỳ 5\ShopBanLaptop2\bin\roslyn\System.Globalization.Calendars.dll
+D:\học tập\kỳ 5\ShopBanLaptop2\bin\roslyn\System.IO.Compression.dll
+D:\học tập\kỳ 5\ShopBanLaptop2\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\học tập\kỳ 5\ShopBanLaptop2\bin\roslyn\System.IO.FileSystem.dll
+D:\học tập\kỳ 5\ShopBanLaptop2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\học tập\kỳ 5\ShopBanLaptop2\bin\roslyn\System.Net.Http.dll
+D:\học tập\kỳ 5\ShopBanLaptop2\bin\roslyn\System.Net.Sockets.dll
+D:\học tập\kỳ 5\ShopBanLaptop2\bin\roslyn\System.Reflection.Metadata.dll
+D:\học tập\kỳ 5\ShopBanLaptop2\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\học tập\kỳ 5\ShopBanLaptop2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\học tập\kỳ 5\ShopBanLaptop2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\học tập\kỳ 5\ShopBanLaptop2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\học tập\kỳ 5\ShopBanLaptop2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\học tập\kỳ 5\ShopBanLaptop2\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\học tập\kỳ 5\ShopBanLaptop2\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\học tập\kỳ 5\ShopBanLaptop2\bin\roslyn\System.ValueTuple.dll
+D:\học tập\kỳ 5\ShopBanLaptop2\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\học tập\kỳ 5\ShopBanLaptop2\bin\roslyn\System.Xml.XmlDocument.dll
+D:\học tập\kỳ 5\ShopBanLaptop2\bin\roslyn\System.Xml.XPath.dll
+D:\học tập\kỳ 5\ShopBanLaptop2\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\học tập\kỳ 5\ShopBanLaptop2\bin\roslyn\vbc.exe
+D:\học tập\kỳ 5\ShopBanLaptop2\bin\roslyn\vbc.exe.config
+D:\học tập\kỳ 5\ShopBanLaptop2\bin\roslyn\vbc.rsp
+D:\học tập\kỳ 5\ShopBanLaptop2\bin\roslyn\VBCSCompiler.exe
+D:\học tập\kỳ 5\ShopBanLaptop2\bin\roslyn\VBCSCompiler.exe.config
+D:\học tập\kỳ 5\ShopBanLaptop2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\học tập\kỳ 5\ShopBanLaptop2\bin\Microsoft.Web.Infrastructure.dll
+D:\học tập\kỳ 5\ShopBanLaptop2\bin\System.Web.Helpers.dll
+D:\học tập\kỳ 5\ShopBanLaptop2\bin\System.Web.Mvc.dll
+D:\học tập\kỳ 5\ShopBanLaptop2\bin\System.Web.Razor.dll
+D:\học tập\kỳ 5\ShopBanLaptop2\bin\System.Web.Webpages.Deployment.dll
+D:\học tập\kỳ 5\ShopBanLaptop2\bin\System.Web.Webpages.dll
+D:\học tập\kỳ 5\ShopBanLaptop2\bin\System.Web.Webpages.Razor.dll
+D:\học tập\kỳ 5\ShopBanLaptop2\bin\System.Web.Razor.xml
+D:\học tập\kỳ 5\ShopBanLaptop2\bin\System.Web.Webpages.xml
+D:\học tập\kỳ 5\ShopBanLaptop2\bin\System.Web.Webpages.Deployment.xml
+D:\học tập\kỳ 5\ShopBanLaptop2\bin\System.Web.Webpages.Razor.xml
+D:\học tập\kỳ 5\ShopBanLaptop2\bin\System.Web.Helpers.xml
+D:\học tập\kỳ 5\ShopBanLaptop2\bin\System.Web.Mvc.xml
+D:\học tập\kỳ 5\ShopBanLaptop2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\học tập\kỳ 5\ShopBanLaptop2\obj\Debug\ShopBanLaptop2.csproj.AssemblyReference.cache
+D:\học tập\kỳ 5\ShopBanLaptop2\obj\Debug\ShopBanLaptop2.csproj.CoreCompileInputs.cache
+D:\học tập\kỳ 5\ShopBanLaptop2\obj\Debug\ShopBanLaptop2.csproj.CopyComplete
+D:\học tập\kỳ 5\ShopBanLaptop2\obj\Debug\ShopBanLaptop2.dll
+D:\học tập\kỳ 5\ShopBanLaptop2\obj\Debug\ShopBanLaptop2.pdb
+C:\Users\LENOVO\Downloads\ShopBanLaptop2_bk13-12-2002\ShopBanLaptop2\bin\ShopBanLaptop2.dll.config
+C:\Users\LENOVO\Downloads\ShopBanLaptop2_bk13-12-2002\ShopBanLaptop2\bin\ShopBanLaptop2.dll
+C:\Users\LENOVO\Downloads\ShopBanLaptop2_bk13-12-2002\ShopBanLaptop2\bin\ShopBanLaptop2.pdb
+C:\Users\LENOVO\Downloads\ShopBanLaptop2_bk13-12-2002\ShopBanLaptop2\bin\roslyn\csc.exe
+C:\Users\LENOVO\Downloads\ShopBanLaptop2_bk13-12-2002\ShopBanLaptop2\bin\roslyn\csc.exe.config
+C:\Users\LENOVO\Downloads\ShopBanLaptop2_bk13-12-2002\ShopBanLaptop2\bin\roslyn\csc.rsp
+C:\Users\LENOVO\Downloads\ShopBanLaptop2_bk13-12-2002\ShopBanLaptop2\bin\roslyn\csi.exe
+C:\Users\LENOVO\Downloads\ShopBanLaptop2_bk13-12-2002\ShopBanLaptop2\bin\roslyn\csi.exe.config
+C:\Users\LENOVO\Downloads\ShopBanLaptop2_bk13-12-2002\ShopBanLaptop2\bin\roslyn\csi.rsp
+C:\Users\LENOVO\Downloads\ShopBanLaptop2_bk13-12-2002\ShopBanLaptop2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\LENOVO\Downloads\ShopBanLaptop2_bk13-12-2002\ShopBanLaptop2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\LENOVO\Downloads\ShopBanLaptop2_bk13-12-2002\ShopBanLaptop2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\LENOVO\Downloads\ShopBanLaptop2_bk13-12-2002\ShopBanLaptop2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\LENOVO\Downloads\ShopBanLaptop2_bk13-12-2002\ShopBanLaptop2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\LENOVO\Downloads\ShopBanLaptop2_bk13-12-2002\ShopBanLaptop2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\LENOVO\Downloads\ShopBanLaptop2_bk13-12-2002\ShopBanLaptop2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\LENOVO\Downloads\ShopBanLaptop2_bk13-12-2002\ShopBanLaptop2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\LENOVO\Downloads\ShopBanLaptop2_bk13-12-2002\ShopBanLaptop2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\LENOVO\Downloads\ShopBanLaptop2_bk13-12-2002\ShopBanLaptop2\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\LENOVO\Downloads\ShopBanLaptop2_bk13-12-2002\ShopBanLaptop2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\LENOVO\Downloads\ShopBanLaptop2_bk13-12-2002\ShopBanLaptop2\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\LENOVO\Downloads\ShopBanLaptop2_bk13-12-2002\ShopBanLaptop2\bin\roslyn\System.AppContext.dll
+C:\Users\LENOVO\Downloads\ShopBanLaptop2_bk13-12-2002\ShopBanLaptop2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\LENOVO\Downloads\ShopBanLaptop2_bk13-12-2002\ShopBanLaptop2\bin\roslyn\System.Console.dll
+C:\Users\LENOVO\Downloads\ShopBanLaptop2_bk13-12-2002\ShopBanLaptop2\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\LENOVO\Downloads\ShopBanLaptop2_bk13-12-2002\ShopBanLaptop2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\LENOVO\Downloads\ShopBanLaptop2_bk13-12-2002\ShopBanLaptop2\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\LENOVO\Downloads\ShopBanLaptop2_bk13-12-2002\ShopBanLaptop2\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\LENOVO\Downloads\ShopBanLaptop2_bk13-12-2002\ShopBanLaptop2\bin\roslyn\System.IO.Compression.dll
+C:\Users\LENOVO\Downloads\ShopBanLaptop2_bk13-12-2002\ShopBanLaptop2\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\LENOVO\Downloads\ShopBanLaptop2_bk13-12-2002\ShopBanLaptop2\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\LENOVO\Downloads\ShopBanLaptop2_bk13-12-2002\ShopBanLaptop2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\LENOVO\Downloads\ShopBanLaptop2_bk13-12-2002\ShopBanLaptop2\bin\roslyn\System.Net.Http.dll
+C:\Users\LENOVO\Downloads\ShopBanLaptop2_bk13-12-2002\ShopBanLaptop2\bin\roslyn\System.Net.Sockets.dll
+C:\Users\LENOVO\Downloads\ShopBanLaptop2_bk13-12-2002\ShopBanLaptop2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\LENOVO\Downloads\ShopBanLaptop2_bk13-12-2002\ShopBanLaptop2\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\LENOVO\Downloads\ShopBanLaptop2_bk13-12-2002\ShopBanLaptop2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\LENOVO\Downloads\ShopBanLaptop2_bk13-12-2002\ShopBanLaptop2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\LENOVO\Downloads\ShopBanLaptop2_bk13-12-2002\ShopBanLaptop2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\LENOVO\Downloads\ShopBanLaptop2_bk13-12-2002\ShopBanLaptop2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\LENOVO\Downloads\ShopBanLaptop2_bk13-12-2002\ShopBanLaptop2\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\LENOVO\Downloads\ShopBanLaptop2_bk13-12-2002\ShopBanLaptop2\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\LENOVO\Downloads\ShopBanLaptop2_bk13-12-2002\ShopBanLaptop2\bin\roslyn\System.ValueTuple.dll
+C:\Users\LENOVO\Downloads\ShopBanLaptop2_bk13-12-2002\ShopBanLaptop2\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\LENOVO\Downloads\ShopBanLaptop2_bk13-12-2002\ShopBanLaptop2\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\LENOVO\Downloads\ShopBanLaptop2_bk13-12-2002\ShopBanLaptop2\bin\roslyn\System.Xml.XPath.dll
+C:\Users\LENOVO\Downloads\ShopBanLaptop2_bk13-12-2002\ShopBanLaptop2\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\LENOVO\Downloads\ShopBanLaptop2_bk13-12-2002\ShopBanLaptop2\bin\roslyn\vbc.exe
+C:\Users\LENOVO\Downloads\ShopBanLaptop2_bk13-12-2002\ShopBanLaptop2\bin\roslyn\vbc.exe.config
+C:\Users\LENOVO\Downloads\ShopBanLaptop2_bk13-12-2002\ShopBanLaptop2\bin\roslyn\vbc.rsp
+C:\Users\LENOVO\Downloads\ShopBanLaptop2_bk13-12-2002\ShopBanLaptop2\bin\roslyn\VBCSCompiler.exe
+C:\Users\LENOVO\Downloads\ShopBanLaptop2_bk13-12-2002\ShopBanLaptop2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\LENOVO\Downloads\ShopBanLaptop2_bk13-12-2002\ShopBanLaptop2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\LENOVO\Downloads\ShopBanLaptop2_bk13-12-2002\ShopBanLaptop2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\LENOVO\Downloads\ShopBanLaptop2_bk13-12-2002\ShopBanLaptop2\bin\System.Web.Helpers.dll
+C:\Users\LENOVO\Downloads\ShopBanLaptop2_bk13-12-2002\ShopBanLaptop2\bin\System.Web.Mvc.dll
+C:\Users\LENOVO\Downloads\ShopBanLaptop2_bk13-12-2002\ShopBanLaptop2\bin\System.Web.Razor.dll
+C:\Users\LENOVO\Downloads\ShopBanLaptop2_bk13-12-2002\ShopBanLaptop2\bin\System.Web.Webpages.Deployment.dll
+C:\Users\LENOVO\Downloads\ShopBanLaptop2_bk13-12-2002\ShopBanLaptop2\bin\System.Web.Webpages.dll
+C:\Users\LENOVO\Downloads\ShopBanLaptop2_bk13-12-2002\ShopBanLaptop2\bin\System.Web.Webpages.Razor.dll
+C:\Users\LENOVO\Downloads\ShopBanLaptop2_bk13-12-2002\ShopBanLaptop2\bin\System.Web.Razor.xml
+C:\Users\LENOVO\Downloads\ShopBanLaptop2_bk13-12-2002\ShopBanLaptop2\bin\System.Web.Webpages.xml
+C:\Users\LENOVO\Downloads\ShopBanLaptop2_bk13-12-2002\ShopBanLaptop2\bin\System.Web.Webpages.Deployment.xml
+C:\Users\LENOVO\Downloads\ShopBanLaptop2_bk13-12-2002\ShopBanLaptop2\bin\System.Web.Webpages.Razor.xml
+C:\Users\LENOVO\Downloads\ShopBanLaptop2_bk13-12-2002\ShopBanLaptop2\bin\System.Web.Helpers.xml
+C:\Users\LENOVO\Downloads\ShopBanLaptop2_bk13-12-2002\ShopBanLaptop2\bin\System.Web.Mvc.xml
+C:\Users\LENOVO\Downloads\ShopBanLaptop2_bk13-12-2002\ShopBanLaptop2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\LENOVO\Downloads\ShopBanLaptop2_bk13-12-2002\ShopBanLaptop2\obj\Debug\ShopBanLaptop2.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Downloads\ShopBanLaptop2_bk13-12-2002\ShopBanLaptop2\obj\Debug\ShopBanLaptop2.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Downloads\ShopBanLaptop2_bk13-12-2002\ShopBanLaptop2\obj\Debug\ShopBanLaptop2.csproj.CopyComplete
+C:\Users\LENOVO\Downloads\ShopBanLaptop2_bk13-12-2002\ShopBanLaptop2\obj\Debug\ShopBanLaptop2.dll
+C:\Users\LENOVO\Downloads\ShopBanLaptop2_bk13-12-2002\ShopBanLaptop2\obj\Debug\ShopBanLaptop2.pdb
+D:\Đại Học\Năm 3\Kỳ 1\Lập trình web\Bài tập lớn\ShopBanLaptop2_bk13-12-2002\ShopBanLaptop2\bin\ShopBanLaptop2.dll.config
+D:\Đại Học\Năm 3\Kỳ 1\Lập trình web\Bài tập lớn\ShopBanLaptop2_bk13-12-2002\ShopBanLaptop2\bin\ShopBanLaptop2.dll
+D:\Đại Học\Năm 3\Kỳ 1\Lập trình web\Bài tập lớn\ShopBanLaptop2_bk13-12-2002\ShopBanLaptop2\bin\ShopBanLaptop2.pdb
+D:\Đại Học\Năm 3\Kỳ 1\Lập trình web\Bài tập lớn\ShopBanLaptop2_bk13-12-2002\ShopBanLaptop2\bin\roslyn\csc.exe
+D:\Đại Học\Năm 3\Kỳ 1\Lập trình web\Bài tập lớn\ShopBanLaptop2_bk13-12-2002\ShopBanLaptop2\bin\roslyn\csc.exe.config
+D:\Đại Học\Năm 3\Kỳ 1\Lập trình web\Bài tập lớn\ShopBanLaptop2_bk13-12-2002\ShopBanLaptop2\bin\roslyn\csc.rsp
+D:\Đại Học\Năm 3\Kỳ 1\Lập trình web\Bài tập lớn\ShopBanLaptop2_bk13-12-2002\ShopBanLaptop2\bin\roslyn\csi.exe
+D:\Đại Học\Năm 3\Kỳ 1\Lập trình web\Bài tập lớn\ShopBanLaptop2_bk13-12-2002\ShopBanLaptop2\bin\roslyn\csi.exe.config
+D:\Đại Học\Năm 3\Kỳ 1\Lập trình web\Bài tập lớn\ShopBanLaptop2_bk13-12-2002\ShopBanLaptop2\bin\roslyn\csi.rsp
+D:\Đại Học\Năm 3\Kỳ 1\Lập trình web\Bài tập lớn\ShopBanLaptop2_bk13-12-2002\ShopBanLaptop2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Đại Học\Năm 3\Kỳ 1\Lập trình web\Bài tập lớn\ShopBanLaptop2_bk13-12-2002\ShopBanLaptop2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Đại Học\Năm 3\Kỳ 1\Lập trình web\Bài tập lớn\ShopBanLaptop2_bk13-12-2002\ShopBanLaptop2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Đại Học\Năm 3\Kỳ 1\Lập trình web\Bài tập lớn\ShopBanLaptop2_bk13-12-2002\ShopBanLaptop2\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Đại Học\Năm 3\Kỳ 1\Lập trình web\Bài tập lớn\ShopBanLaptop2_bk13-12-2002\ShopBanLaptop2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Đại Học\Năm 3\Kỳ 1\Lập trình web\Bài tập lớn\ShopBanLaptop2_bk13-12-2002\ShopBanLaptop2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Đại Học\Năm 3\Kỳ 1\Lập trình web\Bài tập lớn\ShopBanLaptop2_bk13-12-2002\ShopBanLaptop2\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Đại Học\Năm 3\Kỳ 1\Lập trình web\Bài tập lớn\ShopBanLaptop2_bk13-12-2002\ShopBanLaptop2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Đại Học\Năm 3\Kỳ 1\Lập trình web\Bài tập lớn\ShopBanLaptop2_bk13-12-2002\ShopBanLaptop2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Đại Học\Năm 3\Kỳ 1\Lập trình web\Bài tập lớn\ShopBanLaptop2_bk13-12-2002\ShopBanLaptop2\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Đại Học\Năm 3\Kỳ 1\Lập trình web\Bài tập lớn\ShopBanLaptop2_bk13-12-2002\ShopBanLaptop2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Đại Học\Năm 3\Kỳ 1\Lập trình web\Bài tập lớn\ShopBanLaptop2_bk13-12-2002\ShopBanLaptop2\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Đại Học\Năm 3\Kỳ 1\Lập trình web\Bài tập lớn\ShopBanLaptop2_bk13-12-2002\ShopBanLaptop2\bin\roslyn\System.AppContext.dll
+D:\Đại Học\Năm 3\Kỳ 1\Lập trình web\Bài tập lớn\ShopBanLaptop2_bk13-12-2002\ShopBanLaptop2\bin\roslyn\System.Collections.Immutable.dll
+D:\Đại Học\Năm 3\Kỳ 1\Lập trình web\Bài tập lớn\ShopBanLaptop2_bk13-12-2002\ShopBanLaptop2\bin\roslyn\System.Console.dll
+D:\Đại Học\Năm 3\Kỳ 1\Lập trình web\Bài tập lớn\ShopBanLaptop2_bk13-12-2002\ShopBanLaptop2\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Đại Học\Năm 3\Kỳ 1\Lập trình web\Bài tập lớn\ShopBanLaptop2_bk13-12-2002\ShopBanLaptop2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Đại Học\Năm 3\Kỳ 1\Lập trình web\Bài tập lớn\ShopBanLaptop2_bk13-12-2002\ShopBanLaptop2\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Đại Học\Năm 3\Kỳ 1\Lập trình web\Bài tập lớn\ShopBanLaptop2_bk13-12-2002\ShopBanLaptop2\bin\roslyn\System.Globalization.Calendars.dll
+D:\Đại Học\Năm 3\Kỳ 1\Lập trình web\Bài tập lớn\ShopBanLaptop2_bk13-12-2002\ShopBanLaptop2\bin\roslyn\System.IO.Compression.dll
+D:\Đại Học\Năm 3\Kỳ 1\Lập trình web\Bài tập lớn\ShopBanLaptop2_bk13-12-2002\ShopBanLaptop2\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Đại Học\Năm 3\Kỳ 1\Lập trình web\Bài tập lớn\ShopBanLaptop2_bk13-12-2002\ShopBanLaptop2\bin\roslyn\System.IO.FileSystem.dll
+D:\Đại Học\Năm 3\Kỳ 1\Lập trình web\Bài tập lớn\ShopBanLaptop2_bk13-12-2002\ShopBanLaptop2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Đại Học\Năm 3\Kỳ 1\Lập trình web\Bài tập lớn\ShopBanLaptop2_bk13-12-2002\ShopBanLaptop2\bin\roslyn\System.Net.Http.dll
+D:\Đại Học\Năm 3\Kỳ 1\Lập trình web\Bài tập lớn\ShopBanLaptop2_bk13-12-2002\ShopBanLaptop2\bin\roslyn\System.Net.Sockets.dll
+D:\Đại Học\Năm 3\Kỳ 1\Lập trình web\Bài tập lớn\ShopBanLaptop2_bk13-12-2002\ShopBanLaptop2\bin\roslyn\System.Reflection.Metadata.dll
+D:\Đại Học\Năm 3\Kỳ 1\Lập trình web\Bài tập lớn\ShopBanLaptop2_bk13-12-2002\ShopBanLaptop2\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Đại Học\Năm 3\Kỳ 1\Lập trình web\Bài tập lớn\ShopBanLaptop2_bk13-12-2002\ShopBanLaptop2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Đại Học\Năm 3\Kỳ 1\Lập trình web\Bài tập lớn\ShopBanLaptop2_bk13-12-2002\ShopBanLaptop2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Đại Học\Năm 3\Kỳ 1\Lập trình web\Bài tập lớn\ShopBanLaptop2_bk13-12-2002\ShopBanLaptop2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Đại Học\Năm 3\Kỳ 1\Lập trình web\Bài tập lớn\ShopBanLaptop2_bk13-12-2002\ShopBanLaptop2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Đại Học\Năm 3\Kỳ 1\Lập trình web\Bài tập lớn\ShopBanLaptop2_bk13-12-2002\ShopBanLaptop2\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Đại Học\Năm 3\Kỳ 1\Lập trình web\Bài tập lớn\ShopBanLaptop2_bk13-12-2002\ShopBanLaptop2\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Đại Học\Năm 3\Kỳ 1\Lập trình web\Bài tập lớn\ShopBanLaptop2_bk13-12-2002\ShopBanLaptop2\bin\roslyn\System.ValueTuple.dll
+D:\Đại Học\Năm 3\Kỳ 1\Lập trình web\Bài tập lớn\ShopBanLaptop2_bk13-12-2002\ShopBanLaptop2\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Đại Học\Năm 3\Kỳ 1\Lập trình web\Bài tập lớn\ShopBanLaptop2_bk13-12-2002\ShopBanLaptop2\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Đại Học\Năm 3\Kỳ 1\Lập trình web\Bài tập lớn\ShopBanLaptop2_bk13-12-2002\ShopBanLaptop2\bin\roslyn\System.Xml.XPath.dll
+D:\Đại Học\Năm 3\Kỳ 1\Lập trình web\Bài tập lớn\ShopBanLaptop2_bk13-12-2002\ShopBanLaptop2\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Đại Học\Năm 3\Kỳ 1\Lập trình web\Bài tập lớn\ShopBanLaptop2_bk13-12-2002\ShopBanLaptop2\bin\roslyn\vbc.exe
+D:\Đại Học\Năm 3\Kỳ 1\Lập trình web\Bài tập lớn\ShopBanLaptop2_bk13-12-2002\ShopBanLaptop2\bin\roslyn\vbc.exe.config
+D:\Đại Học\Năm 3\Kỳ 1\Lập trình web\Bài tập lớn\ShopBanLaptop2_bk13-12-2002\ShopBanLaptop2\bin\roslyn\vbc.rsp
+D:\Đại Học\Năm 3\Kỳ 1\Lập trình web\Bài tập lớn\ShopBanLaptop2_bk13-12-2002\ShopBanLaptop2\bin\roslyn\VBCSCompiler.exe
+D:\Đại Học\Năm 3\Kỳ 1\Lập trình web\Bài tập lớn\ShopBanLaptop2_bk13-12-2002\ShopBanLaptop2\bin\roslyn\VBCSCompiler.exe.config
+D:\Đại Học\Năm 3\Kỳ 1\Lập trình web\Bài tập lớn\ShopBanLaptop2_bk13-12-2002\ShopBanLaptop2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Đại Học\Năm 3\Kỳ 1\Lập trình web\Bài tập lớn\ShopBanLaptop2_bk13-12-2002\ShopBanLaptop2\bin\Microsoft.Web.Infrastructure.dll
+D:\Đại Học\Năm 3\Kỳ 1\Lập trình web\Bài tập lớn\ShopBanLaptop2_bk13-12-2002\ShopBanLaptop2\bin\System.Web.Helpers.dll
+D:\Đại Học\Năm 3\Kỳ 1\Lập trình web\Bài tập lớn\ShopBanLaptop2_bk13-12-2002\ShopBanLaptop2\bin\System.Web.Mvc.dll
+D:\Đại Học\Năm 3\Kỳ 1\Lập trình web\Bài tập lớn\ShopBanLaptop2_bk13-12-2002\ShopBanLaptop2\bin\System.Web.Razor.dll
+D:\Đại Học\Năm 3\Kỳ 1\Lập trình web\Bài tập lớn\ShopBanLaptop2_bk13-12-2002\ShopBanLaptop2\bin\System.Web.Webpages.Deployment.dll
+D:\Đại Học\Năm 3\Kỳ 1\Lập trình web\Bài tập lớn\ShopBanLaptop2_bk13-12-2002\ShopBanLaptop2\bin\System.Web.Webpages.dll
+D:\Đại Học\Năm 3\Kỳ 1\Lập trình web\Bài tập lớn\ShopBanLaptop2_bk13-12-2002\ShopBanLaptop2\bin\System.Web.Webpages.Razor.dll
+D:\Đại Học\Năm 3\Kỳ 1\Lập trình web\Bài tập lớn\ShopBanLaptop2_bk13-12-2002\ShopBanLaptop2\bin\System.Web.Razor.xml
+D:\Đại Học\Năm 3\Kỳ 1\Lập trình web\Bài tập lớn\ShopBanLaptop2_bk13-12-2002\ShopBanLaptop2\bin\System.Web.Webpages.xml
+D:\Đại Học\Năm 3\Kỳ 1\Lập trình web\Bài tập lớn\ShopBanLaptop2_bk13-12-2002\ShopBanLaptop2\bin\System.Web.Webpages.Deployment.xml
+D:\Đại Học\Năm 3\Kỳ 1\Lập trình web\Bài tập lớn\ShopBanLaptop2_bk13-12-2002\ShopBanLaptop2\bin\System.Web.Webpages.Razor.xml
+D:\Đại Học\Năm 3\Kỳ 1\Lập trình web\Bài tập lớn\ShopBanLaptop2_bk13-12-2002\ShopBanLaptop2\bin\System.Web.Helpers.xml
+D:\Đại Học\Năm 3\Kỳ 1\Lập trình web\Bài tập lớn\ShopBanLaptop2_bk13-12-2002\ShopBanLaptop2\bin\System.Web.Mvc.xml
+D:\Đại Học\Năm 3\Kỳ 1\Lập trình web\Bài tập lớn\ShopBanLaptop2_bk13-12-2002\ShopBanLaptop2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Đại Học\Năm 3\Kỳ 1\Lập trình web\Bài tập lớn\ShopBanLaptop2_bk13-12-2002\ShopBanLaptop2\obj\Debug\ShopBanLaptop2.csproj.AssemblyReference.cache
+D:\Đại Học\Năm 3\Kỳ 1\Lập trình web\Bài tập lớn\ShopBanLaptop2_bk13-12-2002\ShopBanLaptop2\obj\Debug\ShopBanLaptop2.csproj.CoreCompileInputs.cache
+D:\Đại Học\Năm 3\Kỳ 1\Lập trình web\Bài tập lớn\ShopBanLaptop2_bk13-12-2002\ShopBanLaptop2\obj\Debug\ShopBanLaptop2.csproj.CopyComplete
+D:\Đại Học\Năm 3\Kỳ 1\Lập trình web\Bài tập lớn\ShopBanLaptop2_bk13-12-2002\ShopBanLaptop2\obj\Debug\ShopBanLaptop2.dll
+D:\Đại Học\Năm 3\Kỳ 1\Lập trình web\Bài tập lớn\ShopBanLaptop2_bk13-12-2002\ShopBanLaptop2\obj\Debug\ShopBanLaptop2.pdb
