@@ -16,6 +16,7 @@ Phát triển ứng dụng phần mềm thông minh
 - .NET 6
 - SQL Server
 - Visual Studio 2022
+- API OpenAI
 
 ## Chức năng:
 ### Web: 
