@@ -14,7 +14,7 @@ Phát triển ứng dụng phần mềm thông minh
 
 ## Công nghệ: 
 - .NET 6
-- SQL Server
+- SQL Server 2019
 - Visual Studio 2022
 - API OpenAI
 
