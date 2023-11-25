@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="QL_BanHangDienTu" Class="QL_BanHangDienTuDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=MAEBAE\MAEBAE;Initial Catalog=QL_BanHangDienTu;Integrated Security=True" SettingsObjectName="BLL_DAL.Properties.Settings" SettingsPropertyName="QL_BanHangDienTuConnectionString1" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.account" Member="accounts">
+    <Type Name="account">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="displayName" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="userName" Type="System.String" DbType="VarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="password" Type="System.String" DbType="VarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="type" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Association Name="account_bill" Member="bills" ThisKey="id" OtherKey="idAccount" Type="bill" />
+      <Association Name="account_customer" Member="customers" ThisKey="id" OtherKey="idAccount" Type="customer" />
+      <Association Name="account_staff" Member="staffs" ThisKey="id" OtherKey="idAccount" Type="staff" />
+    </Type>
+  </Table>
+  <Table Name="dbo.[ware house]" Member="ware_houses">
+    <Type Name="ware_house">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="import" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="export" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="[update]" Member="update" Type="System.String" DbType="NChar(100)" CanBeNull="true" />
+      <Column Name="[id transport]" Member="id_transport" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="ware_house_supplier" Member="suppliers" ThisKey="id" OtherKey="idWareHouse" Type="supplier" />
+      <Association Name="transport_ware_house" Member="transport" ThisKey="id_transport" OtherKey="id" Type="transport" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.bill" Member="bills">
+    <Type Name="bill">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="idAccount" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="status" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="datepay" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Association Name="bill_billInfo" Member="billInfos" ThisKey="id" OtherKey="idBill" Type="billInfo" />
+      <Association Name="bill_transport" Member="transports" ThisKey="id" OtherKey="idBill" Type="transport" />
+      <Association Name="account_bill" Member="account" ThisKey="idAccount" OtherKey="id" Type="account" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.billInfo" Member="billInfos">
+    <Type Name="billInfo">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="idBill" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="idLaptop" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="counts" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Association Name="bill_billInfo" Member="bill" ThisKey="idBill" OtherKey="id" Type="bill" IsForeignKey="true" />
+      <Association Name="laptop_billInfo" Member="laptop" ThisKey="idLaptop" OtherKey="id" Type="laptop" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.customer" Member="customers">
+    <Type Name="customer">
+      <Column Name="id" Type="System.String" DbType="NChar(10) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="name" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="address" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="phone" Type="System.String" DbType="NChar(50)" CanBeNull="true" />
+      <Column Name="sex" Type="System.String" DbType="NChar(3)" CanBeNull="true" />
+      <Column Name="email" Type="System.String" DbType="NChar(20)" CanBeNull="true" />
+      <Column Name="idAccount" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="account_customer" Member="account" ThisKey="idAccount" OtherKey="id" Type="account" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.laptop" Member="laptops">
+    <Type Name="laptop">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Name" Type="System.String" DbType="NVarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="idCategory" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="price" Type="System.Double" DbType="Float NOT NULL" CanBeNull="false" />
+      <Column Name="productCompany" Type="System.String" DbType="NVarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="monitor" Type="System.Double" DbType="Float NOT NULL" CanBeNull="false" />
+      <Column Name="CPU" Type="System.String" DbType="NVarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="RAM" Type="System.String" DbType="NVarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="Image" Type="System.String" DbType="NVarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="GPU" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="HardDisk" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Association Name="laptop_billInfo" Member="billInfos" ThisKey="id" OtherKey="idLaptop" Type="billInfo" />
+      <Association Name="laptopCategory_laptop" Member="laptopCategory" ThisKey="idCategory" OtherKey="id" Type="laptopCategory" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.laptopCategory" Member="laptopCategories">
+    <Type Name="laptopCategory">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Name" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Association Name="laptopCategory_laptop" Member="laptops" ThisKey="id" OtherKey="idCategory" Type="laptop" />
+    </Type>
+  </Table>
+  <Table Name="dbo.staff" Member="staffs">
+    <Type Name="staff">
+      <Column Name="id" Type="System.String" DbType="NChar(10) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Name" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Sex" Type="System.String" DbType="NChar(3)" CanBeNull="true" />
+      <Column Name="Phone" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="idAccount" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="account_staff" Member="account" ThisKey="idAccount" OtherKey="id" Type="account" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.supplier" Member="suppliers">
+    <Type Name="supplier">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Name" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="address" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="phone" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="email" Type="System.String" DbType="NChar(10)" CanBeNull="true" />
+      <Column Name="idWareHouse" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="ware_house_supplier" Member="ware_house" ThisKey="idWareHouse" OtherKey="id" Type="ware_house" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.transport" Member="transports">
+    <Type Name="transport">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="dateship" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="address" Type="System.String" DbType="NChar(20)" CanBeNull="true" />
+      <Column Name="customer" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="idBill" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="transport_ware_house" Member="ware_houses" ThisKey="id" OtherKey="id_transport" Type="ware_house" />
+      <Association Name="bill_transport" Member="bill" ThisKey="idBill" OtherKey="id" Type="bill" IsForeignKey="true" />
+    </Type>
+  </Table>
+</Database>

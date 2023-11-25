@@ -1,0 +1,58 @@
+﻿@model IEnumerable<ShopBanLaptop2.Models.Laptop>
+@{
+    ViewBag.Title = "Search";
+    Layout = "~/Views/Shared/Main.cshtml";
+}
+
+<body>
+    <div class="container">
+        <div class="row ">
+            @foreach (var item in Model)
+            {
+                <div class="col-md-12 col-lg-6 col-xl-4 border border-light rounded p-3" id="lap">
+
+                    <div style="display:block; width:100% ; height:auto">
+                        <a href="/Product/Details/@item.Id">
+                            <img class="rounded mx-auto d-block img-fluid" src="/images/@item.Image" />
+                            <div id="lapName">@Html.DisplayFor(modelItem => item.Name) </div>
+                        </a>
+                    </div>
+
+                    @*@Html.ActionLink(item.Name, "Details", new { id = item.Id })*@
+                    <div class="col-12 bg-primary rounded text-right">
+                        @string.Format("{0:#,##0.00}", item.Price) vnd
+                        @*@Html.DisplayFor(modelItem => item.Price)*@
+                    </div>
+                    <div class="row  rounded style=" background-color:inherit"">
+                        <div class="col-12"><span class="text-primary">Màn Hình</span>:@Html.DisplayFor(modelItem => item.monitor) Inch</div>
+                        <div class="col-12"><span class="text-primary">CPU</span>: @Html.DisplayFor(modelItem => item.CPU)</div>
+                        <div class="col-12"><span class="text-primary">RAM</span>: @Html.DisplayFor(modelItem => item.RAM)</div>
+                        <div class="col-12"><span class="text-primary">ROM</span>: @Html.DisplayFor(modelItem => item.HardDisk)</div>
+                        <div class="col-12"><span class="text-primary">Graphic Card</span>:  @Html.DisplayFor(modelItem => item.GPU)</div>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+
+</body>
+
+<style>
+    #lap:hover {
+        border: 6px solid red;
+        box-shadow: 1px 1px 5px 5px gray;
+    }
+
+    #lapName {
+        display: -webkit-box;
+        max-height: 3.2rem;
+        -webkit-box-orient: vertical;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: normal;
+        -webkit-line-clamp: 2;
+        line-height: 1.6rem;
+    }
+</style>
+
+

@@ -1,0 +1,116 @@
+﻿@{
+    ViewBag.Title = "Chatbox";
+    Layout = "~/Views/Shared/_secondLayout.cshtml";
+}
+
+<h2>Trợ lý ảo</h2>
+<div>
+    <button class="btn btn-primary" onclick="presetQuestion('Gợi ý sản phẩm laptop giá từ thấp đến cao')">Gợi ý giá thấp đến cao</button>
+    <button class="btn btn-info" onclick="presetQuestion('Gợi ý sản phẩm laptop giá cao đến thấp')">Gợi ý giá cao đến thấp</button>
+    <button class="btn btn-success" onclick="presetQuestion('Trả về giá của Asus ROG Strix Gaming G513IE-HN246W')">Giá Asus ROG Strix</button>
+</div>
+<div id="chatbox" style="height: 300px; overflow-y: auto; border: 1px solid #ccc; padding: 10px;">
+    <!-- Các tin nhắn sẽ được thêm vào đây -->
+</div>
+
+
+
+
+<div class="input-group mb-3 mt-2">
+    <div class="input-group-prepend">
+        <button class="btn btn-primary" onclick="sendQuestion()">
+            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-send" viewBox="0 0 16 16">
+                <path d="M15.854.146a.5.5 0 0 1 .11.54l-5.819 14.547a.75.75 0 0 1-1.329.124l-3.178-4.995L.643 7.184a.75.75 0 0 1 .124-1.33L15.314.037a.5.5 0 0 1 .54.11ZM6.636 10.07l2.761 4.338L14.13 2.576zm6.787-8.201L1.591 6.602l4.339 2.76 7.494-7.493Z" />
+            </svg> Gửi
+        </button>
+    </div>
+    
+    <input class="form-control" type="text" id="question" placeholder="Nhập câu hỏi của bạn tại đây..." style="padding: 10px;" onkeypress="handleKeyPress(event)" />
+</div>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script>
+    var conversation = []; // Lưu trữ trạng thái cuộc hội thoại
+
+    function sendQuestion() {
+        var question = $('#question').val().trim(); // Cập nhật để xóa các khoảng trắng thừa
+        if (!question) {
+            alert("Vui lòng nhập câu hỏi.");
+            return;
+        }
+        conversation.push({ role: 'user', content: question }); // Thêm câu hỏi vào cuộc hội thoại
+        displayMessages(); // Hiển thị tin nhắn
+
+        $.ajax({
+            url: '/Chat/AskQuestion',
+            type: 'POST',
+            data: { question: question },
+            success: function (data) {
+                if (data.error) {
+                    $('#chatbox').append("<div class='error-message'>" + data.error + "</div>");
+                } else {
+                    conversation.push({ role: 'assistant', content: data.answer }); // Thêm câu trả lời vào cuộc hội thoại
+                    displayMessages(); // Hiển thị tin nhắn
+                }
+                $('#question').val(''); // Xóa trường nhập sau khi gửi
+                $('#chatbox').scrollTop($('#chatbox')[0].scrollHeight); // Cuộn đến tin nhắn mới nhất
+            },
+            error: function () {
+                alert("Đã có lỗi xảy ra khi gửi câu hỏi.");
+            }
+        });
+    }
+
+    function handleKeyPress(event) {
+        if (event.keyCode === 13) { // 13 là mã của phím Enter
+            event.preventDefault(); // Ngăn không cho form submit nếu bạn đang sử dụng form
+            sendQuestion();
+        }
+    }
+
+    function displayMessages() {
+        var chatbox = $('#chatbox');
+        chatbox.html(''); // Xóa tin nhắn cũ
+        conversation.forEach(function (message) {
+            var messageClass = message.role === 'user' ? 'user-message' : 'assistant-message';
+            chatbox.append("<div class='" + messageClass + "'>" + message.content + "</div>");
+        });
+    }
+
+    $(document).ready(function () {
+        var exampleQuestions = [
+            "Gợi ý sản phẩm laptop giá từ thấp đến cao",
+            "Gợi ý sản phẩm laptop giá cao đến thấp",
+            "Trả về giá của Asus ROG Strix Gaming G513IE-HN246W"
+        ];
+
+        // Đặt câu hỏi ví dụ vào ô nhập
+        $('#question').attr('placeholder', exampleQuestions[Math.floor(Math.random() * exampleQuestions.length)]);
+    });
+
+
+    function presetQuestion(question) {
+        $('#question').val(question);
+        sendQuestion();
+    }
+</script>
+
+<style>
+    .error-message {
+        color: red;
+    }
+
+    .user-message {
+        text-align: right;
+        margin: 5px;
+        padding: 5px;
+        background-color: #bde0fe;
+    }
+
+    .assistant-message {
+        text-align: left;
+        margin: 5px;
+        padding: 5px;
+        background-color: #e7e7e7;
+    }
+</style>

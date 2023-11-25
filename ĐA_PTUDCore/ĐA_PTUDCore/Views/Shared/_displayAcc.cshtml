@@ -1,0 +1,16 @@
+﻿@using Newtonsoft.Json
+@inject IHttpContextAccessor ctx;
+@using ShopBanLaptop2.Models;
+@{
+    if (ctx.HttpContext.Session.GetString("account")  != null)
+    {
+        var info = JsonConvert.DeserializeObject<ShopBanLaptop2.Models.Account>(ctx.HttpContext.Session.GetString("account")??"");
+        if (info != null)
+        {
+            <p>thông tin của bạn</p>
+            <p>UserName: @info.userName</p>
+        }
+        
+        }
+        
+    }

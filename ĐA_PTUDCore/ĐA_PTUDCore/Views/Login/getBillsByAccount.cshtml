@@ -1,0 +1,35 @@
+﻿@model IEnumerable<ShopBanLaptop2.Models.Bill>
+
+@{
+    ViewBag.Title = "getBillsByAccount";
+    Layout = "~/Views/Shared/_secondLayout.cshtml";
+}
+<h2>Lịch sử mua hàng</h2>
+<table class="table">
+    <tr>
+        <th>
+            Mã đơn hàng
+        </th>
+        <th>
+            Ngày mua
+        </th>
+        <th>
+            Thông tin
+        </th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.id)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.datebuy)
+        </td>
+        <td>
+            @Html.ActionLink("Thông tin đơn hàng", "billInfos", new { id=item.id })
+        </td>
+    </tr>
+}
+
+</table>
