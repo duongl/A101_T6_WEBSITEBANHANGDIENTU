@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Mw/PAu3VUpnnsbF3eqU/kLVx2ufnQDT3J0Ag9nwvHU4=",
+  "Hash": "7CapYtOVr8U1/ryPX6C5973Bhtwhn+p+P35b+PASVS0=",
   "Source": "ĐA_PTUDCore",
   "BasePath": "_content/ĐA_PTUDCore",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "ĐA_PTUDCore\\wwwroot",
       "Source": "ĐA_PTUDCore",
-      "ContentRoot": "C:\\Users\\vuong\\Downloads\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vuong\\Downloads\\Visual Studio Project\\ptudpmtm\\gan nhat\\ĐA_PTUDCore\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\",
       "BasePath": "_content/ĐA_PTUDCore",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\vuong\\Downloads\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\background\\background_laptop.png",
+      "Identity": "C:\\Users\\vuong\\Downloads\\Visual Studio Project\\ptudpmtm\\gan nhat\\ĐA_PTUDCore\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\background\\background_laptop.png",
       "SourceId": "ĐA_PTUDCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vuong\\Downloads\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vuong\\Downloads\\Visual Studio Project\\ptudpmtm\\gan nhat\\ĐA_PTUDCore\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\",
       "BasePath": "_content/ĐA_PTUDCore",
       "RelativePath": "background/background_laptop.png",
       "AssetKind": "All",
@@ -36,10 +36,10 @@
       "OriginalItemSpec": "wwwroot\\background\\background_laptop.png"
     },
     {
-      "Identity": "C:\\Users\\vuong\\Downloads\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\background\\hinh1.jpg",
+      "Identity": "C:\\Users\\vuong\\Downloads\\Visual Studio Project\\ptudpmtm\\gan nhat\\ĐA_PTUDCore\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\background\\hinh1.jpg",
       "SourceId": "ĐA_PTUDCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vuong\\Downloads\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vuong\\Downloads\\Visual Studio Project\\ptudpmtm\\gan nhat\\ĐA_PTUDCore\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\",
       "BasePath": "_content/ĐA_PTUDCore",
       "RelativePath": "background/hinh1.jpg",
       "AssetKind": "All",
@@ -55,10 +55,10 @@
       "OriginalItemSpec": "wwwroot\\background\\hinh1.jpg"
     },
     {
-      "Identity": "C:\\Users\\vuong\\Downloads\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\banner.css",
+      "Identity": "C:\\Users\\vuong\\Downloads\\Visual Studio Project\\ptudpmtm\\gan nhat\\ĐA_PTUDCore\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\banner.css",
       "SourceId": "ĐA_PTUDCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vuong\\Downloads\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vuong\\Downloads\\Visual Studio Project\\ptudpmtm\\gan nhat\\ĐA_PTUDCore\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\",
       "BasePath": "_content/ĐA_PTUDCore",
       "RelativePath": "banner.css",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\banner.css"
     },
     {
-      "Identity": "C:\\Users\\vuong\\Downloads\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\banner_Image\\hinh0.png",
+      "Identity": "C:\\Users\\vuong\\Downloads\\Visual Studio Project\\ptudpmtm\\gan nhat\\ĐA_PTUDCore\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\banner_Image\\hinh0.png",
       "SourceId": "ĐA_PTUDCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vuong\\Downloads\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vuong\\Downloads\\Visual Studio Project\\ptudpmtm\\gan nhat\\ĐA_PTUDCore\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\",
       "BasePath": "_content/ĐA_PTUDCore",
       "RelativePath": "banner_Image/hinh0.png",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\banner_Image\\hinh0.png"
     },
     {
-      "Identity": "C:\\Users\\vuong\\Downloads\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\banner_Image\\hinh0.webp",
+      "Identity": "C:\\Users\\vuong\\Downloads\\Visual Studio Project\\ptudpmtm\\gan nhat\\ĐA_PTUDCore\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\banner_Image\\hinh0.webp",
       "SourceId": "ĐA_PTUDCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vuong\\Downloads\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vuong\\Downloads\\Visual Studio Project\\ptudpmtm\\gan nhat\\ĐA_PTUDCore\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\",
       "BasePath": "_content/ĐA_PTUDCore",
       "RelativePath": "banner_Image/hinh0.webp",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\banner_Image\\hinh0.webp"
     },
     {
-      "Identity": "C:\\Users\\vuong\\Downloads\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\banner_Image\\hinh1.JPG",
+      "Identity": "C:\\Users\\vuong\\Downloads\\Visual Studio Project\\ptudpmtm\\gan nhat\\ĐA_PTUDCore\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\banner_Image\\hinh1.JPG",
       "SourceId": "ĐA_PTUDCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vuong\\Downloads\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vuong\\Downloads\\Visual Studio Project\\ptudpmtm\\gan nhat\\ĐA_PTUDCore\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\",
       "BasePath": "_content/ĐA_PTUDCore",
       "RelativePath": "banner_Image/hinh1.JPG",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\banner_Image\\hinh1.JPG"
     },
     {
-      "Identity": "C:\\Users\\vuong\\Downloads\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\banner_Image\\hinh2.JPG",
+      "Identity": "C:\\Users\\vuong\\Downloads\\Visual Studio Project\\ptudpmtm\\gan nhat\\ĐA_PTUDCore\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\banner_Image\\hinh2.JPG",
       "SourceId": "ĐA_PTUDCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vuong\\Downloads\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vuong\\Downloads\\Visual Studio Project\\ptudpmtm\\gan nhat\\ĐA_PTUDCore\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\",
       "BasePath": "_content/ĐA_PTUDCore",
       "RelativePath": "banner_Image/hinh2.JPG",
       "AssetKind": "All",
@@ -150,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\banner_Image\\hinh2.JPG"
     },
     {
-      "Identity": "C:\\Users\\vuong\\Downloads\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\banner_Image\\hinh3.JPG",
+      "Identity": "C:\\Users\\vuong\\Downloads\\Visual Studio Project\\ptudpmtm\\gan nhat\\ĐA_PTUDCore\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\banner_Image\\hinh3.JPG",
       "SourceId": "ĐA_PTUDCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vuong\\Downloads\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vuong\\Downloads\\Visual Studio Project\\ptudpmtm\\gan nhat\\ĐA_PTUDCore\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\",
       "BasePath": "_content/ĐA_PTUDCore",
       "RelativePath": "banner_Image/hinh3.JPG",
       "AssetKind": "All",
@@ -169,10 +169,10 @@
       "OriginalItemSpec": "wwwroot\\banner_Image\\hinh3.JPG"
     },
     {
-      "Identity": "C:\\Users\\vuong\\Downloads\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\banner_Image\\hinh4.JPG",
+      "Identity": "C:\\Users\\vuong\\Downloads\\Visual Studio Project\\ptudpmtm\\gan nhat\\ĐA_PTUDCore\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\banner_Image\\hinh4.JPG",
       "SourceId": "ĐA_PTUDCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vuong\\Downloads\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vuong\\Downloads\\Visual Studio Project\\ptudpmtm\\gan nhat\\ĐA_PTUDCore\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\",
       "BasePath": "_content/ĐA_PTUDCore",
       "RelativePath": "banner_Image/hinh4.JPG",
       "AssetKind": "All",
@@ -188,10 +188,10 @@
       "OriginalItemSpec": "wwwroot\\banner_Image\\hinh4.JPG"
     },
     {
-      "Identity": "C:\\Users\\vuong\\Downloads\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\css\\banner.css",
+      "Identity": "C:\\Users\\vuong\\Downloads\\Visual Studio Project\\ptudpmtm\\gan nhat\\ĐA_PTUDCore\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\css\\banner.css",
       "SourceId": "ĐA_PTUDCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vuong\\Downloads\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vuong\\Downloads\\Visual Studio Project\\ptudpmtm\\gan nhat\\ĐA_PTUDCore\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\",
       "BasePath": "_content/ĐA_PTUDCore",
       "RelativePath": "css/banner.css",
       "AssetKind": "All",
@@ -207,10 +207,10 @@
       "OriginalItemSpec": "wwwroot\\css\\banner.css"
     },
     {
-      "Identity": "C:\\Users\\vuong\\Downloads\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\icons\\Can_nang.JPG",
+      "Identity": "C:\\Users\\vuong\\Downloads\\Visual Studio Project\\ptudpmtm\\gan nhat\\ĐA_PTUDCore\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\icons\\Can_nang.JPG",
       "SourceId": "ĐA_PTUDCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vuong\\Downloads\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vuong\\Downloads\\Visual Studio Project\\ptudpmtm\\gan nhat\\ĐA_PTUDCore\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\",
       "BasePath": "_content/ĐA_PTUDCore",
       "RelativePath": "icons/Can_nang.JPG",
       "AssetKind": "All",
@@ -226,10 +226,10 @@
       "OriginalItemSpec": "wwwroot\\icons\\Can_nang.JPG"
     },
     {
-      "Identity": "C:\\Users\\vuong\\Downloads\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\icons\\CPU.JPG",
+      "Identity": "C:\\Users\\vuong\\Downloads\\Visual Studio Project\\ptudpmtm\\gan nhat\\ĐA_PTUDCore\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\icons\\CPU.JPG",
       "SourceId": "ĐA_PTUDCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vuong\\Downloads\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vuong\\Downloads\\Visual Studio Project\\ptudpmtm\\gan nhat\\ĐA_PTUDCore\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\",
       "BasePath": "_content/ĐA_PTUDCore",
       "RelativePath": "icons/CPU.JPG",
       "AssetKind": "All",
@@ -245,10 +245,10 @@
       "OriginalItemSpec": "wwwroot\\icons\\CPU.JPG"
     },
     {
-      "Identity": "C:\\Users\\vuong\\Downloads\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\icons\\Dau_tich.JPG",
+      "Identity": "C:\\Users\\vuong\\Downloads\\Visual Studio Project\\ptudpmtm\\gan nhat\\ĐA_PTUDCore\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\icons\\Dau_tich.JPG",
       "SourceId": "ĐA_PTUDCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vuong\\Downloads\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vuong\\Downloads\\Visual Studio Project\\ptudpmtm\\gan nhat\\ĐA_PTUDCore\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\",
       "BasePath": "_content/ĐA_PTUDCore",
       "RelativePath": "icons/Dau_tich.JPG",
       "AssetKind": "All",
@@ -264,10 +264,10 @@
       "OriginalItemSpec": "wwwroot\\icons\\Dau_tich.JPG"
     },
     {
-      "Identity": "C:\\Users\\vuong\\Downloads\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\icons\\Do_hoa.JPG",
+      "Identity": "C:\\Users\\vuong\\Downloads\\Visual Studio Project\\ptudpmtm\\gan nhat\\ĐA_PTUDCore\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\icons\\Do_hoa.JPG",
       "SourceId": "ĐA_PTUDCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vuong\\Downloads\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vuong\\Downloads\\Visual Studio Project\\ptudpmtm\\gan nhat\\ĐA_PTUDCore\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\",
       "BasePath": "_content/ĐA_PTUDCore",
       "RelativePath": "icons/Do_hoa.JPG",
       "AssetKind": "All",
@@ -283,10 +283,10 @@
       "OriginalItemSpec": "wwwroot\\icons\\Do_hoa.JPG"
     },
     {
-      "Identity": "C:\\Users\\vuong\\Downloads\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\icons\\empty-cart.png",
+      "Identity": "C:\\Users\\vuong\\Downloads\\Visual Studio Project\\ptudpmtm\\gan nhat\\ĐA_PTUDCore\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\icons\\empty-cart.png",
       "SourceId": "ĐA_PTUDCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vuong\\Downloads\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vuong\\Downloads\\Visual Studio Project\\ptudpmtm\\gan nhat\\ĐA_PTUDCore\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\",
       "BasePath": "_content/ĐA_PTUDCore",
       "RelativePath": "icons/empty-cart.png",
       "AssetKind": "All",
@@ -302,10 +302,10 @@
       "OriginalItemSpec": "wwwroot\\icons\\empty-cart.png"
     },
     {
-      "Identity": "C:\\Users\\vuong\\Downloads\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\icons\\man_hinh.JPG",
+      "Identity": "C:\\Users\\vuong\\Downloads\\Visual Studio Project\\ptudpmtm\\gan nhat\\ĐA_PTUDCore\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\icons\\man_hinh.JPG",
       "SourceId": "ĐA_PTUDCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vuong\\Downloads\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vuong\\Downloads\\Visual Studio Project\\ptudpmtm\\gan nhat\\ĐA_PTUDCore\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\",
       "BasePath": "_content/ĐA_PTUDCore",
       "RelativePath": "icons/man_hinh.JPG",
       "AssetKind": "All",
@@ -321,10 +321,10 @@
       "OriginalItemSpec": "wwwroot\\icons\\man_hinh.JPG"
     },
     {
-      "Identity": "C:\\Users\\vuong\\Downloads\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\icons\\ram.JPG",
+      "Identity": "C:\\Users\\vuong\\Downloads\\Visual Studio Project\\ptudpmtm\\gan nhat\\ĐA_PTUDCore\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\icons\\ram.JPG",
       "SourceId": "ĐA_PTUDCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vuong\\Downloads\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vuong\\Downloads\\Visual Studio Project\\ptudpmtm\\gan nhat\\ĐA_PTUDCore\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\",
       "BasePath": "_content/ĐA_PTUDCore",
       "RelativePath": "icons/ram.JPG",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\icons\\ram.JPG"
     },
     {
-      "Identity": "C:\\Users\\vuong\\Downloads\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\icons\\SSD.JPG",
+      "Identity": "C:\\Users\\vuong\\Downloads\\Visual Studio Project\\ptudpmtm\\gan nhat\\ĐA_PTUDCore\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\icons\\SSD.JPG",
       "SourceId": "ĐA_PTUDCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vuong\\Downloads\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vuong\\Downloads\\Visual Studio Project\\ptudpmtm\\gan nhat\\ĐA_PTUDCore\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\",
       "BasePath": "_content/ĐA_PTUDCore",
       "RelativePath": "icons/SSD.JPG",
       "AssetKind": "All",
@@ -359,10 +359,10 @@
       "OriginalItemSpec": "wwwroot\\icons\\SSD.JPG"
     },
     {
-      "Identity": "C:\\Users\\vuong\\Downloads\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\images\\acer-aspire-3-a315-54-56-den-dd.png",
+      "Identity": "C:\\Users\\vuong\\Downloads\\Visual Studio Project\\ptudpmtm\\gan nhat\\ĐA_PTUDCore\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\images\\acer-aspire-3-a315-54-56-den-dd.png",
       "SourceId": "ĐA_PTUDCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vuong\\Downloads\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vuong\\Downloads\\Visual Studio Project\\ptudpmtm\\gan nhat\\ĐA_PTUDCore\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\",
       "BasePath": "_content/ĐA_PTUDCore",
       "RelativePath": "images/acer-aspire-3-a315-54-56-den-dd.png",
       "AssetKind": "All",
@@ -378,10 +378,10 @@
       "OriginalItemSpec": "wwwroot\\images\\acer-aspire-3-a315-54-56-den-dd.png"
     },
     {
-      "Identity": "C:\\Users\\vuong\\Downloads\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\images\\acer-aspire-gaming-a715-42g-r1sb-r5-5500u-den-dd.png",
+      "Identity": "C:\\Users\\vuong\\Downloads\\Visual Studio Project\\ptudpmtm\\gan nhat\\ĐA_PTUDCore\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\images\\acer-aspire-gaming-a715-42g-r1sb-r5-5500u-den-dd.png",
       "SourceId": "ĐA_PTUDCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vuong\\Downloads\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vuong\\Downloads\\Visual Studio Project\\ptudpmtm\\gan nhat\\ĐA_PTUDCore\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\",
       "BasePath": "_content/ĐA_PTUDCore",
       "RelativePath": "images/acer-aspire-gaming-a715-42g-r1sb-r5-5500u-den-dd.png",
       "AssetKind": "All",
@@ -397,10 +397,10 @@
       "OriginalItemSpec": "wwwroot\\images\\acer-aspire-gaming-a715-42g-r1sb-r5-5500u-den-dd.png"
     },
     {
-      "Identity": "C:\\Users\\vuong\\Downloads\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\images\\acer-nitro-gaming-an515-45-den-dd.png",
+      "Identity": "C:\\Users\\vuong\\Downloads\\Visual Studio Project\\ptudpmtm\\gan nhat\\ĐA_PTUDCore\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\images\\acer-nitro-gaming-an515-45-den-dd.png",
       "SourceId": "ĐA_PTUDCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vuong\\Downloads\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vuong\\Downloads\\Visual Studio Project\\ptudpmtm\\gan nhat\\ĐA_PTUDCore\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\",
       "BasePath": "_content/ĐA_PTUDCore",
       "RelativePath": "images/acer-nitro-gaming-an515-45-den-dd.png",
       "AssetKind": "All",
@@ -416,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\images\\acer-nitro-gaming-an515-45-den-dd.png"
     },
     {
-      "Identity": "C:\\Users\\vuong\\Downloads\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\images\\acer-nitro-gaming-an515-57.png",
+      "Identity": "C:\\Users\\vuong\\Downloads\\Visual Studio Project\\ptudpmtm\\gan nhat\\ĐA_PTUDCore\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\images\\acer-nitro-gaming-an515-57.png",
       "SourceId": "ĐA_PTUDCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vuong\\Downloads\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vuong\\Downloads\\Visual Studio Project\\ptudpmtm\\gan nhat\\ĐA_PTUDCore\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\",
       "BasePath": "_content/ĐA_PTUDCore",
       "RelativePath": "images/acer-nitro-gaming-an515-57.png",
       "AssetKind": "All",
@@ -435,10 +435,10 @@
       "OriginalItemSpec": "wwwroot\\images\\acer-nitro-gaming-an515-57.png"
     },
     {
-      "Identity": "C:\\Users\\vuong\\Downloads\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\images\\acer-predator-helios-gaming-ph315-54-den-rtx-3060-dd.png",
+      "Identity": "C:\\Users\\vuong\\Downloads\\Visual Studio Project\\ptudpmtm\\gan nhat\\ĐA_PTUDCore\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\images\\acer-predator-helios-gaming-ph315-54-den-rtx-3060-dd.png",
       "SourceId": "ĐA_PTUDCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vuong\\Downloads\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vuong\\Downloads\\Visual Studio Project\\ptudpmtm\\gan nhat\\ĐA_PTUDCore\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\",
       "BasePath": "_content/ĐA_PTUDCore",
       "RelativePath": "images/acer-predator-helios-gaming-ph315-54-den-rtx-3060-dd.png",
       "AssetKind": "All",
@@ -454,10 +454,10 @@
       "OriginalItemSpec": "wwwroot\\images\\acer-predator-helios-gaming-ph315-54-den-rtx-3060-dd.png"
     },
     {
-      "Identity": "C:\\Users\\vuong\\Downloads\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\images\\acer-swift-3-sf314-43-r4x3-r5-5500u-bac-dd.png",
+      "Identity": "C:\\Users\\vuong\\Downloads\\Visual Studio Project\\ptudpmtm\\gan nhat\\ĐA_PTUDCore\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\images\\acer-swift-3-sf314-43-r4x3-r5-5500u-bac-dd.png",
       "SourceId": "ĐA_PTUDCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vuong\\Downloads\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vuong\\Downloads\\Visual Studio Project\\ptudpmtm\\gan nhat\\ĐA_PTUDCore\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\",
       "BasePath": "_content/ĐA_PTUDCore",
       "RelativePath": "images/acer-swift-3-sf314-43-r4x3-r5-5500u-bac-dd.png",
       "AssetKind": "All",
@@ -473,10 +473,10 @@
       "OriginalItemSpec": "wwwroot\\images\\acer-swift-3-sf314-43-r4x3-r5-5500u-bac-dd.png"
     },
     {
-      "Identity": "C:\\Users\\vuong\\Downloads\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\images\\acer-travel-mate-b3-den-dd.png",
+      "Identity": "C:\\Users\\vuong\\Downloads\\Visual Studio Project\\ptudpmtm\\gan nhat\\ĐA_PTUDCore\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\images\\acer-travel-mate-b3-den-dd.png",
       "SourceId": "ĐA_PTUDCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vuong\\Downloads\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vuong\\Downloads\\Visual Studio Project\\ptudpmtm\\gan nhat\\ĐA_PTUDCore\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\",
       "BasePath": "_content/ĐA_PTUDCore",
       "RelativePath": "images/acer-travel-mate-b3-den-dd.png",
       "AssetKind": "All",
@@ -492,10 +492,10 @@
       "OriginalItemSpec": "wwwroot\\images\\acer-travel-mate-b3-den-dd.png"
     },
     {
-      "Identity": "C:\\Users\\vuong\\Downloads\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\images\\asus-gaming-zephyrus-g513-xam-led-4zone-dd.png",
+      "Identity": "C:\\Users\\vuong\\Downloads\\Visual Studio Project\\ptudpmtm\\gan nhat\\ĐA_PTUDCore\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\images\\asus-gaming-zephyrus-g513-xam-led-4zone-dd.png",
       "SourceId": "ĐA_PTUDCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vuong\\Downloads\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vuong\\Downloads\\Visual Studio Project\\ptudpmtm\\gan nhat\\ĐA_PTUDCore\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\",
       "BasePath": "_content/ĐA_PTUDCore",
       "RelativePath": "images/asus-gaming-zephyrus-g513-xam-led-4zone-dd.png",
       "AssetKind": "All",
@@ -511,10 +511,10 @@
       "OriginalItemSpec": "wwwroot\\images\\asus-gaming-zephyrus-g513-xam-led-4zone-dd.png"
     },
     {
-      "Identity": "C:\\Users\\vuong\\Downloads\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\images\\asus-gaming-zephyrus-ga401-xam-noled-dd.png",
+      "Identity": "C:\\Users\\vuong\\Downloads\\Visual Studio Project\\ptudpmtm\\gan nhat\\ĐA_PTUDCore\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\images\\asus-gaming-zephyrus-ga401-xam-noled-dd.png",
       "SourceId": "ĐA_PTUDCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vuong\\Downloads\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vuong\\Downloads\\Visual Studio Project\\ptudpmtm\\gan nhat\\ĐA_PTUDCore\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\",
       "BasePath": "_content/ĐA_PTUDCore",
       "RelativePath": "images/asus-gaming-zephyrus-ga401-xam-noled-dd.png",
       "AssetKind": "All",
@@ -530,10 +530,10 @@
       "OriginalItemSpec": "wwwroot\\images\\asus-gaming-zephyrus-ga401-xam-noled-dd.png"
     },
     {
-      "Identity": "C:\\Users\\vuong\\Downloads\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\images\\asus-tuf-gaming-fa506ihr.png",
+      "Identity": "C:\\Users\\vuong\\Downloads\\Visual Studio Project\\ptudpmtm\\gan nhat\\ĐA_PTUDCore\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\images\\asus-tuf-gaming-fa506ihr.png",
       "SourceId": "ĐA_PTUDCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vuong\\Downloads\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vuong\\Downloads\\Visual Studio Project\\ptudpmtm\\gan nhat\\ĐA_PTUDCore\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\",
       "BasePath": "_content/ĐA_PTUDCore",
       "RelativePath": "images/asus-tuf-gaming-fa506ihr.png",
       "AssetKind": "All",
@@ -549,10 +549,10 @@
       "OriginalItemSpec": "wwwroot\\images\\asus-tuf-gaming-fa506ihr.png"
     },
     {
-      "Identity": "C:\\Users\\vuong\\Downloads\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\images\\asus-tuf-gaming-fa507-den-dd-rtx3050.png",
+      "Identity": "C:\\Users\\vuong\\Downloads\\Visual Studio Project\\ptudpmtm\\gan nhat\\ĐA_PTUDCore\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\images\\asus-tuf-gaming-fa507-den-dd-rtx3050.png",
       "SourceId": "ĐA_PTUDCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vuong\\Downloads\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vuong\\Downloads\\Visual Studio Project\\ptudpmtm\\gan nhat\\ĐA_PTUDCore\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\",
       "BasePath": "_content/ĐA_PTUDCore",
       "RelativePath": "images/asus-tuf-gaming-fa507-den-dd-rtx3050.png",
       "AssetKind": "All",
@@ -568,10 +568,10 @@
       "OriginalItemSpec": "wwwroot\\images\\asus-tuf-gaming-fa507-den-dd-rtx3050.png"
     },
     {
-      "Identity": "C:\\Users\\vuong\\Downloads\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\images\\asus-tuf-gaming-fx506lh.png",
+      "Identity": "C:\\Users\\vuong\\Downloads\\Visual Studio Project\\ptudpmtm\\gan nhat\\ĐA_PTUDCore\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\images\\asus-tuf-gaming-fx506lh.png",
       "SourceId": "ĐA_PTUDCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vuong\\Downloads\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vuong\\Downloads\\Visual Studio Project\\ptudpmtm\\gan nhat\\ĐA_PTUDCore\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\",
       "BasePath": "_content/ĐA_PTUDCore",
       "RelativePath": "images/asus-tuf-gaming-fx506lh.png",
       "AssetKind": "All",
@@ -587,10 +587,10 @@
       "OriginalItemSpec": "wwwroot\\images\\asus-tuf-gaming-fx506lh.png"
     },
     {
-      "Identity": "C:\\Users\\vuong\\Downloads\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\images\\asus-vivobook-a415-bac-800x800-dd.png",
+      "Identity": "C:\\Users\\vuong\\Downloads\\Visual Studio Project\\ptudpmtm\\gan nhat\\ĐA_PTUDCore\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\images\\asus-vivobook-a415-bac-800x800-dd.png",
       "SourceId": "ĐA_PTUDCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vuong\\Downloads\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vuong\\Downloads\\Visual Studio Project\\ptudpmtm\\gan nhat\\ĐA_PTUDCore\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\",
       "BasePath": "_content/ĐA_PTUDCore",
       "RelativePath": "images/asus-vivobook-a415-bac-800x800-dd.png",
       "AssetKind": "All",
@@ -606,10 +606,10 @@
       "OriginalItemSpec": "wwwroot\\images\\asus-vivobook-a415-bac-800x800-dd.png"
     },
     {
-      "Identity": "C:\\Users\\vuong\\Downloads\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\images\\asus-vivobook-x415-print-bac-dd.png",
+      "Identity": "C:\\Users\\vuong\\Downloads\\Visual Studio Project\\ptudpmtm\\gan nhat\\ĐA_PTUDCore\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\images\\asus-vivobook-x415-print-bac-dd.png",
       "SourceId": "ĐA_PTUDCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vuong\\Downloads\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vuong\\Downloads\\Visual Studio Project\\ptudpmtm\\gan nhat\\ĐA_PTUDCore\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\",
       "BasePath": "_content/ĐA_PTUDCore",
       "RelativePath": "images/asus-vivobook-x415-print-bac-dd.png",
       "AssetKind": "All",
@@ -625,10 +625,10 @@
       "OriginalItemSpec": "wwwroot\\images\\asus-vivobook-x415-print-bac-dd.png"
     },
     {
-      "Identity": "C:\\Users\\vuong\\Downloads\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\images\\asus-zenbook-ux425ja-xam-dd.png",
+      "Identity": "C:\\Users\\vuong\\Downloads\\Visual Studio Project\\ptudpmtm\\gan nhat\\ĐA_PTUDCore\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\images\\asus-zenbook-ux425ja-xam-dd.png",
       "SourceId": "ĐA_PTUDCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vuong\\Downloads\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vuong\\Downloads\\Visual Studio Project\\ptudpmtm\\gan nhat\\ĐA_PTUDCore\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\",
       "BasePath": "_content/ĐA_PTUDCore",
       "RelativePath": "images/asus-zenbook-ux425ja-xam-dd.png",
       "AssetKind": "All",
@@ -644,10 +644,10 @@
       "OriginalItemSpec": "wwwroot\\images\\asus-zenbook-ux425ja-xam-dd.png"
     },
     {
-      "Identity": "C:\\Users\\vuong\\Downloads\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\images\\dell-xps-13-plus-9320-bac-dd.png",
+      "Identity": "C:\\Users\\vuong\\Downloads\\Visual Studio Project\\ptudpmtm\\gan nhat\\ĐA_PTUDCore\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\images\\dell-xps-13-plus-9320-bac-dd.png",
       "SourceId": "ĐA_PTUDCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vuong\\Downloads\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vuong\\Downloads\\Visual Studio Project\\ptudpmtm\\gan nhat\\ĐA_PTUDCore\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\",
       "BasePath": "_content/ĐA_PTUDCore",
       "RelativePath": "images/dell-xps-13-plus-9320-bac-dd.png",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\images\\dell-xps-13-plus-9320-bac-dd.png"
     },
     {
-      "Identity": "C:\\Users\\vuong\\Downloads\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\images\\gigabyte-gaming-aorus-17-xe5-73vn534gh-i7-12700h-rtx3070ti-den-dd.png",
+      "Identity": "C:\\Users\\vuong\\Downloads\\Visual Studio Project\\ptudpmtm\\gan nhat\\ĐA_PTUDCore\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\images\\gigabyte-gaming-aorus-17-xe5-73vn534gh-i7-12700h-rtx3070ti-den-dd.png",
       "SourceId": "ĐA_PTUDCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vuong\\Downloads\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vuong\\Downloads\\Visual Studio Project\\ptudpmtm\\gan nhat\\ĐA_PTUDCore\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\",
       "BasePath": "_content/ĐA_PTUDCore",
       "RelativePath": "images/gigabyte-gaming-aorus-17-xe5-73vn534gh-i7-12700h-rtx3070ti-den-dd.png",
       "AssetKind": "All",
@@ -682,10 +682,10 @@
       "OriginalItemSpec": "wwwroot\\images\\gigabyte-gaming-aorus-17-xe5-73vn534gh-i7-12700h-rtx3070ti-den-dd.png"
     },
     {
-      "Identity": "C:\\Users\\vuong\\Downloads\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\images\\gigabyte-gaming-g5.png",
+      "Identity": "C:\\Users\\vuong\\Downloads\\Visual Studio Project\\ptudpmtm\\gan nhat\\ĐA_PTUDCore\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\images\\gigabyte-gaming-g5.png",
       "SourceId": "ĐA_PTUDCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vuong\\Downloads\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vuong\\Downloads\\Visual Studio Project\\ptudpmtm\\gan nhat\\ĐA_PTUDCore\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\",
       "BasePath": "_content/ĐA_PTUDCore",
       "RelativePath": "images/gigabyte-gaming-g5.png",
       "AssetKind": "All",
@@ -701,10 +701,10 @@
       "OriginalItemSpec": "wwwroot\\images\\gigabyte-gaming-g5.png"
     },
     {
-      "Identity": "C:\\Users\\vuong\\Downloads\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\images\\gigabyte-gaming-g5-ge-i5-12500h-rtx3050-dd.png",
+      "Identity": "C:\\Users\\vuong\\Downloads\\Visual Studio Project\\ptudpmtm\\gan nhat\\ĐA_PTUDCore\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\images\\gigabyte-gaming-g5-ge-i5-12500h-rtx3050-dd.png",
       "SourceId": "ĐA_PTUDCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vuong\\Downloads\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vuong\\Downloads\\Visual Studio Project\\ptudpmtm\\gan nhat\\ĐA_PTUDCore\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\",
       "BasePath": "_content/ĐA_PTUDCore",
       "RelativePath": "images/gigabyte-gaming-g5-ge-i5-12500h-rtx3050-dd.png",
       "AssetKind": "All",
@@ -720,10 +720,10 @@
       "OriginalItemSpec": "wwwroot\\images\\gigabyte-gaming-g5-ge-i5-12500h-rtx3050-dd.png"
     },
     {
-      "Identity": "C:\\Users\\vuong\\Downloads\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\images\\gigabyte-u4-ud-xam-dd-bh.png",
+      "Identity": "C:\\Users\\vuong\\Downloads\\Visual Studio Project\\ptudpmtm\\gan nhat\\ĐA_PTUDCore\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\images\\gigabyte-u4-ud-xam-dd-bh.png",
       "SourceId": "ĐA_PTUDCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vuong\\Downloads\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vuong\\Downloads\\Visual Studio Project\\ptudpmtm\\gan nhat\\ĐA_PTUDCore\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\",
       "BasePath": "_content/ĐA_PTUDCore",
       "RelativePath": "images/gigabyte-u4-ud-xam-dd-bh.png",
       "AssetKind": "All",
@@ -739,10 +739,10 @@
       "OriginalItemSpec": "wwwroot\\images\\gigabyte-u4-ud-xam-dd-bh.png"
     },
     {
-      "Identity": "C:\\Users\\vuong\\Downloads\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\images\\hp-15s-fq-bac-win11-dd.png",
+      "Identity": "C:\\Users\\vuong\\Downloads\\Visual Studio Project\\ptudpmtm\\gan nhat\\ĐA_PTUDCore\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\images\\hp-15s-fq-bac-win11-dd.png",
       "SourceId": "ĐA_PTUDCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vuong\\Downloads\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vuong\\Downloads\\Visual Studio Project\\ptudpmtm\\gan nhat\\ĐA_PTUDCore\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\",
       "BasePath": "_content/ĐA_PTUDCore",
       "RelativePath": "images/hp-15s-fq-bac-win11-dd.png",
       "AssetKind": "All",
@@ -758,10 +758,10 @@
       "OriginalItemSpec": "wwwroot\\images\\hp-15s-fq-bac-win11-dd.png"
     },
     {
-      "Identity": "C:\\Users\\vuong\\Downloads\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\images\\hp-gaming-victus-16.png",
+      "Identity": "C:\\Users\\vuong\\Downloads\\Visual Studio Project\\ptudpmtm\\gan nhat\\ĐA_PTUDCore\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\images\\hp-gaming-victus-16.png",
       "SourceId": "ĐA_PTUDCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vuong\\Downloads\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vuong\\Downloads\\Visual Studio Project\\ptudpmtm\\gan nhat\\ĐA_PTUDCore\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\",
       "BasePath": "_content/ĐA_PTUDCore",
       "RelativePath": "images/hp-gaming-victus-16.png",
       "AssetKind": "All",
@@ -777,10 +777,10 @@
       "OriginalItemSpec": "wwwroot\\images\\hp-gaming-victus-16.png"
     },
     {
-      "Identity": "C:\\Users\\vuong\\Downloads\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\images\\lenovo-ideapad-3-i3-1005g1-nk-xam-ddjpg.png",
+      "Identity": "C:\\Users\\vuong\\Downloads\\Visual Studio Project\\ptudpmtm\\gan nhat\\ĐA_PTUDCore\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\images\\lenovo-ideapad-3-i3-1005g1-nk-xam-ddjpg.png",
       "SourceId": "ĐA_PTUDCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vuong\\Downloads\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vuong\\Downloads\\Visual Studio Project\\ptudpmtm\\gan nhat\\ĐA_PTUDCore\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\",
       "BasePath": "_content/ĐA_PTUDCore",
       "RelativePath": "images/lenovo-ideapad-3-i3-1005g1-nk-xam-ddjpg.png",
       "AssetKind": "All",
@@ -796,10 +796,10 @@
       "OriginalItemSpec": "wwwroot\\images\\lenovo-ideapad-3-i3-1005g1-nk-xam-ddjpg.png"
     },
     {
-      "Identity": "C:\\Users\\vuong\\Downloads\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\images\\lenovo-ideapad-gaming-3-15iah7.png",
+      "Identity": "C:\\Users\\vuong\\Downloads\\Visual Studio Project\\ptudpmtm\\gan nhat\\ĐA_PTUDCore\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\images\\lenovo-ideapad-gaming-3-15iah7.png",
       "SourceId": "ĐA_PTUDCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vuong\\Downloads\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vuong\\Downloads\\Visual Studio Project\\ptudpmtm\\gan nhat\\ĐA_PTUDCore\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\",
       "BasePath": "_content/ĐA_PTUDCore",
       "RelativePath": "images/lenovo-ideapad-gaming-3-15iah7.png",
       "AssetKind": "All",
@@ -815,10 +815,10 @@
       "OriginalItemSpec": "wwwroot\\images\\lenovo-ideapad-gaming-3-15iah7.png"
     },
     {
-      "Identity": "C:\\Users\\vuong\\Downloads\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\images\\lenovo-legion-5-15arh7-xam-dd.png",
+      "Identity": "C:\\Users\\vuong\\Downloads\\Visual Studio Project\\ptudpmtm\\gan nhat\\ĐA_PTUDCore\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\images\\lenovo-legion-5-15arh7-xam-dd.png",
       "SourceId": "ĐA_PTUDCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vuong\\Downloads\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vuong\\Downloads\\Visual Studio Project\\ptudpmtm\\gan nhat\\ĐA_PTUDCore\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\",
       "BasePath": "_content/ĐA_PTUDCore",
       "RelativePath": "images/lenovo-legion-5-15arh7-xam-dd.png",
       "AssetKind": "All",
@@ -834,10 +834,10 @@
       "OriginalItemSpec": "wwwroot\\images\\lenovo-legion-5-15arh7-xam-dd.png"
     },
     {
-      "Identity": "C:\\Users\\vuong\\Downloads\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\images\\lenovo-thinkbook-14s-g2-itl-xam-dd.png",
+      "Identity": "C:\\Users\\vuong\\Downloads\\Visual Studio Project\\ptudpmtm\\gan nhat\\ĐA_PTUDCore\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\images\\lenovo-thinkbook-14s-g2-itl-xam-dd.png",
       "SourceId": "ĐA_PTUDCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vuong\\Downloads\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vuong\\Downloads\\Visual Studio Project\\ptudpmtm\\gan nhat\\ĐA_PTUDCore\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\",
       "BasePath": "_content/ĐA_PTUDCore",
       "RelativePath": "images/lenovo-thinkbook-14s-g2-itl-xam-dd.png",
       "AssetKind": "All",
@@ -853,10 +853,10 @@
       "OriginalItemSpec": "wwwroot\\images\\lenovo-thinkbook-14s-g2-itl-xam-dd.png"
     },
     {
-      "Identity": "C:\\Users\\vuong\\Downloads\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\images\\lenovo-thinkpad-e14-gen-4-i5-1235u-den-dd.png",
+      "Identity": "C:\\Users\\vuong\\Downloads\\Visual Studio Project\\ptudpmtm\\gan nhat\\ĐA_PTUDCore\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\images\\lenovo-thinkpad-e14-gen-4-i5-1235u-den-dd.png",
       "SourceId": "ĐA_PTUDCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vuong\\Downloads\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vuong\\Downloads\\Visual Studio Project\\ptudpmtm\\gan nhat\\ĐA_PTUDCore\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\",
       "BasePath": "_content/ĐA_PTUDCore",
       "RelativePath": "images/lenovo-thinkpad-e14-gen-4-i5-1235u-den-dd.png",
       "AssetKind": "All",
@@ -872,10 +872,10 @@
       "OriginalItemSpec": "wwwroot\\images\\lenovo-thinkpad-e14-gen-4-i5-1235u-den-dd.png"
     },
     {
-      "Identity": "C:\\Users\\vuong\\Downloads\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\images\\lenovo-yoga-slim-7-pro-14ihu5-bac-dd-oled.png",
+      "Identity": "C:\\Users\\vuong\\Downloads\\Visual Studio Project\\ptudpmtm\\gan nhat\\ĐA_PTUDCore\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\images\\lenovo-yoga-slim-7-pro-14ihu5-bac-dd-oled.png",
       "SourceId": "ĐA_PTUDCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vuong\\Downloads\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vuong\\Downloads\\Visual Studio Project\\ptudpmtm\\gan nhat\\ĐA_PTUDCore\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\",
       "BasePath": "_content/ĐA_PTUDCore",
       "RelativePath": "images/lenovo-yoga-slim-7-pro-14ihu5-bac-dd-oled.png",
       "AssetKind": "All",
@@ -891,10 +891,10 @@
       "OriginalItemSpec": "wwwroot\\images\\lenovo-yoga-slim-7-pro-14ihu5-bac-dd-oled.png"
     },
     {
-      "Identity": "C:\\Users\\vuong\\Downloads\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\images\\lg-gram-16-xam-dd.png",
+      "Identity": "C:\\Users\\vuong\\Downloads\\Visual Studio Project\\ptudpmtm\\gan nhat\\ĐA_PTUDCore\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\images\\lg-gram-16-xam-dd.png",
       "SourceId": "ĐA_PTUDCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vuong\\Downloads\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vuong\\Downloads\\Visual Studio Project\\ptudpmtm\\gan nhat\\ĐA_PTUDCore\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\",
       "BasePath": "_content/ĐA_PTUDCore",
       "RelativePath": "images/lg-gram-16-xam-dd.png",
       "AssetKind": "All",
@@ -910,10 +910,10 @@
       "OriginalItemSpec": "wwwroot\\images\\lg-gram-16-xam-dd.png"
     },
     {
-      "Identity": "C:\\Users\\vuong\\Downloads\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\images\\macbook-pro-16-2021-xam-dd.png",
+      "Identity": "C:\\Users\\vuong\\Downloads\\Visual Studio Project\\ptudpmtm\\gan nhat\\ĐA_PTUDCore\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\images\\macbook-pro-16-2021-xam-dd.png",
       "SourceId": "ĐA_PTUDCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vuong\\Downloads\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vuong\\Downloads\\Visual Studio Project\\ptudpmtm\\gan nhat\\ĐA_PTUDCore\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\",
       "BasePath": "_content/ĐA_PTUDCore",
       "RelativePath": "images/macbook-pro-16-2021-xam-dd.png",
       "AssetKind": "All",
@@ -929,10 +929,10 @@
       "OriginalItemSpec": "wwwroot\\images\\macbook-pro-16-2021-xam-dd.png"
     },
     {
-      "Identity": "C:\\Users\\vuong\\Downloads\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\images\\mainBackground.jpg",
+      "Identity": "C:\\Users\\vuong\\Downloads\\Visual Studio Project\\ptudpmtm\\gan nhat\\ĐA_PTUDCore\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\images\\mainBackground.jpg",
       "SourceId": "ĐA_PTUDCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vuong\\Downloads\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vuong\\Downloads\\Visual Studio Project\\ptudpmtm\\gan nhat\\ĐA_PTUDCore\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\",
       "BasePath": "_content/ĐA_PTUDCore",
       "RelativePath": "images/mainBackground.jpg",
       "AssetKind": "All",
@@ -948,10 +948,10 @@
       "OriginalItemSpec": "wwwroot\\images\\mainBackground.jpg"
     },
     {
-      "Identity": "C:\\Users\\vuong\\Downloads\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\images\\mba-2020-gold-dd.png",
+      "Identity": "C:\\Users\\vuong\\Downloads\\Visual Studio Project\\ptudpmtm\\gan nhat\\ĐA_PTUDCore\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\images\\mba-2020-gold-dd.png",
       "SourceId": "ĐA_PTUDCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vuong\\Downloads\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vuong\\Downloads\\Visual Studio Project\\ptudpmtm\\gan nhat\\ĐA_PTUDCore\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\",
       "BasePath": "_content/ĐA_PTUDCore",
       "RelativePath": "images/mba-2020-gold-dd.png",
       "AssetKind": "All",
@@ -967,10 +967,10 @@
       "OriginalItemSpec": "wwwroot\\images\\mba-2020-gold-dd.png"
     },
     {
-      "Identity": "C:\\Users\\vuong\\Downloads\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\images\\mbp-2020-m1-gray-dd-1.png",
+      "Identity": "C:\\Users\\vuong\\Downloads\\Visual Studio Project\\ptudpmtm\\gan nhat\\ĐA_PTUDCore\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\images\\mbp-2020-m1-gray-dd-1.png",
       "SourceId": "ĐA_PTUDCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vuong\\Downloads\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vuong\\Downloads\\Visual Studio Project\\ptudpmtm\\gan nhat\\ĐA_PTUDCore\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\",
       "BasePath": "_content/ĐA_PTUDCore",
       "RelativePath": "images/mbp-2020-m1-gray-dd-1.png",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\images\\mbp-2020-m1-gray-dd-1.png"
     },
     {
-      "Identity": "C:\\Users\\vuong\\Downloads\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\images\\microsoft-surface-go-dd-3mau.png",
+      "Identity": "C:\\Users\\vuong\\Downloads\\Visual Studio Project\\ptudpmtm\\gan nhat\\ĐA_PTUDCore\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\images\\microsoft-surface-go-dd-3mau.png",
       "SourceId": "ĐA_PTUDCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vuong\\Downloads\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vuong\\Downloads\\Visual Studio Project\\ptudpmtm\\gan nhat\\ĐA_PTUDCore\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\",
       "BasePath": "_content/ĐA_PTUDCore",
       "RelativePath": "images/microsoft-surface-go-dd-3mau.png",
       "AssetKind": "All",
@@ -1005,10 +1005,10 @@
       "OriginalItemSpec": "wwwroot\\images\\microsoft-surface-go-dd-3mau.png"
     },
     {
-      "Identity": "C:\\Users\\vuong\\Downloads\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\images\\microsoft-surface-pro-7-1035g4-bac-dd.png",
+      "Identity": "C:\\Users\\vuong\\Downloads\\Visual Studio Project\\ptudpmtm\\gan nhat\\ĐA_PTUDCore\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\images\\microsoft-surface-pro-7-1035g4-bac-dd.png",
       "SourceId": "ĐA_PTUDCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vuong\\Downloads\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vuong\\Downloads\\Visual Studio Project\\ptudpmtm\\gan nhat\\ĐA_PTUDCore\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\",
       "BasePath": "_content/ĐA_PTUDCore",
       "RelativePath": "images/microsoft-surface-pro-7-1035g4-bac-dd.png",
       "AssetKind": "All",
@@ -1024,10 +1024,10 @@
       "OriginalItemSpec": "wwwroot\\images\\microsoft-surface-pro-7-1035g4-bac-dd.png"
     },
     {
-      "Identity": "C:\\Users\\vuong\\Downloads\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\images\\microsoft-surface-pro-7-plus-bac-dd.png",
+      "Identity": "C:\\Users\\vuong\\Downloads\\Visual Studio Project\\ptudpmtm\\gan nhat\\ĐA_PTUDCore\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\images\\microsoft-surface-pro-7-plus-bac-dd.png",
       "SourceId": "ĐA_PTUDCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vuong\\Downloads\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vuong\\Downloads\\Visual Studio Project\\ptudpmtm\\gan nhat\\ĐA_PTUDCore\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\",
       "BasePath": "_content/ĐA_PTUDCore",
       "RelativePath": "images/microsoft-surface-pro-7-plus-bac-dd.png",
       "AssetKind": "All",
@@ -1043,10 +1043,10 @@
       "OriginalItemSpec": "wwwroot\\images\\microsoft-surface-pro-7-plus-bac-dd.png"
     },
     {
-      "Identity": "C:\\Users\\vuong\\Downloads\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\images\\msi-gaming-gf63.png",
+      "Identity": "C:\\Users\\vuong\\Downloads\\Visual Studio Project\\ptudpmtm\\gan nhat\\ĐA_PTUDCore\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\images\\msi-gaming-gf63.png",
       "SourceId": "ĐA_PTUDCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vuong\\Downloads\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vuong\\Downloads\\Visual Studio Project\\ptudpmtm\\gan nhat\\ĐA_PTUDCore\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\",
       "BasePath": "_content/ĐA_PTUDCore",
       "RelativePath": "images/msi-gaming-gf63.png",
       "AssetKind": "All",
@@ -1062,10 +1062,10 @@
       "OriginalItemSpec": "wwwroot\\images\\msi-gaming-gf63.png"
     },
     {
-      "Identity": "C:\\Users\\vuong\\Downloads\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\images\\msi-gf63-thin-den-dd.png",
+      "Identity": "C:\\Users\\vuong\\Downloads\\Visual Studio Project\\ptudpmtm\\gan nhat\\ĐA_PTUDCore\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\images\\msi-gf63-thin-den-dd.png",
       "SourceId": "ĐA_PTUDCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vuong\\Downloads\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vuong\\Downloads\\Visual Studio Project\\ptudpmtm\\gan nhat\\ĐA_PTUDCore\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\",
       "BasePath": "_content/ĐA_PTUDCore",
       "RelativePath": "images/msi-gf63-thin-den-dd.png",
       "AssetKind": "All",
@@ -1081,10 +1081,10 @@
       "OriginalItemSpec": "wwwroot\\images\\msi-gf63-thin-den-dd.png"
     },
     {
-      "Identity": "C:\\Users\\vuong\\Downloads\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\images\\msi-modern-14-xam-dd.png",
+      "Identity": "C:\\Users\\vuong\\Downloads\\Visual Studio Project\\ptudpmtm\\gan nhat\\ĐA_PTUDCore\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\images\\msi-modern-14-xam-dd.png",
       "SourceId": "ĐA_PTUDCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vuong\\Downloads\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\vuong\\Downloads\\Visual Studio Project\\ptudpmtm\\gan nhat\\ĐA_PTUDCore\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\",
       "BasePath": "_content/ĐA_PTUDCore",
       "RelativePath": "images/msi-modern-14-xam-dd.png",
       "AssetKind": "All",

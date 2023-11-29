@@ -48,8 +48,8 @@ namespace BLL_DAL.Properties {
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
         [global::System.Configuration.SpecialSettingAttribute(global::System.Configuration.SpecialSetting.ConnectionString)]
-        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=MAEBAE\\MAEBAE;Initial Catalog=QL_BanHangDienTu;Integrated Security=Tr" +
-            "ue")]
+        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=MAEBAE\\MAEBAE;Initial Catalog=backup_16-10-2023;Integrated Security=T" +
+            "rue")]
         public string QL_BanHangDienTuConnectionString1 {
             get {
                 return ((string)(this["QL_BanHangDienTuConnectionString1"]));

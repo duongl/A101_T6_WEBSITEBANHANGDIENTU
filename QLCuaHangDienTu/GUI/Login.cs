@@ -19,10 +19,11 @@ namespace GUI
         {
             InitializeComponent();
         }
-
+        
         private void Login_Load(object sender, EventArgs e)
         {
-
+            txt_TaiKhoan.Clear();
+            txt_MatKhau.Clear();
         }
 
         private void btn_DangNhap_Click(object sender, EventArgs e)
@@ -32,7 +33,7 @@ namespace GUI
         
             if( accountBLL.GetMK(userName) != null)
             {
-                if(accountBLL.GetMK(userName) == password)
+                if(accountBLL.GetMK(userName) == password )
                 {
                     string role = accountBLL.GetType(userName);
 
@@ -44,11 +45,12 @@ namespace GUI
                         frm.id = Convert.ToInt32( accountBLL.GetID(userName));
                         frm.Show();
                         this.Hide();
-                    }
-                    else if (Convert.ToInt32(role) == 0)
+                    }                 
+                    else
+                    if (Convert.ToInt32(role) == 2)
                     {
                         frmMain frm = new frmMain();
-                        frm.type = "nv";
+                        frm.type = "NhanVien";
                         frm.useName = userName;
                         frm.id = Convert.ToInt32(accountBLL.GetID(userName));
                         frm.Show();
@@ -56,7 +58,7 @@ namespace GUI
                     }
                     else
                     {
-                        MessageBox.Show("Không thể xác định vai trò của người dùng.");
+                        MessageBox.Show("Bạn không có quyền đăng nhập.");
                     }
                 } 
                 else
@@ -64,6 +66,36 @@ namespace GUI
             }    
             else
                 MessageBox.Show("Sai tài khoản. Mời xem lại tài khoản.");
+            
+        }
+
+        private void cb_MatKhau_CheckedChanged_1(object sender, EventArgs e)
+        {
+            if (cb_MatKhau.Checked)
+            {
+                txt_MatKhau.PasswordChar = (char)0;
+            }
+            else
+            {
+                txt_MatKhau.PasswordChar = '*';
+            }
+        }
+
+        private void btn_Thoat_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
+
+        private void Login_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            DialogResult r;
+            r = MessageBox.Show("Bạn có muốn thoát không?", "Thoát", MessageBoxButtons.YesNo, MessageBoxIcon.Question, MessageBoxDefaultButton.Button1);
+            if (r == DialogResult.No)
+                e.Cancel = true;
+        }
+
+        private void txt_MatKhau_TextChanged(object sender, EventArgs e)
+        {
             
         }
     }

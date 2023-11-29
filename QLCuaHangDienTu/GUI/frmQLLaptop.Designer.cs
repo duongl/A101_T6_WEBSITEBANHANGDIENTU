@@ -197,7 +197,6 @@ namespace GUI
             this.dtgv_LT.Size = new System.Drawing.Size(1450, 543);
             this.dtgv_LT.TabIndex = 23;
             this.dtgv_LT.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dtgv_LT_CellClick);
-            this.dtgv_LT.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dtgv_LT_CellContentClick);
             // 
             // label6
             // 

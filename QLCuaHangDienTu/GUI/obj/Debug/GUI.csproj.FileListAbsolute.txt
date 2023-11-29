@@ -18,3 +18,5 @@ E:\hoctap\hk7\PTUDTM\PTUDTM\DoAn\QLCuaHangDienTu\GUI\obj\Debug\GUI.frmQLLaptop.r
 E:\hoctap\hk7\PTUDTM\PTUDTM\DoAn\QLCuaHangDienTu\GUI\obj\Debug\GUI.frmQLCategory.resources
 E:\hoctap\hk7\PTUDTM\PTUDTM\DoAn\QLCuaHangDienTu\GUI\obj\Debug\GUI.frmDoiMatKhau.resources
 E:\hoctap\hk7\PTUDTM\PTUDTM\DoAn\QLCuaHangDienTu\GUI\obj\Debug\GUI.Login.resources
+E:\hoctap\hk7\PTUDTM\PTUDTM\DoAn\QLCuaHangDienTu\GUI\obj\Debug\GUI.frmThongKe.resources
+E:\hoctap\hk7\PTUDTM\PTUDTM\DoAn\QLCuaHangDienTu\GUI\obj\Debug\GUI.frmQLStaff.resources

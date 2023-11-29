@@ -161,8 +161,8 @@ namespace BLL_DAL
         public DataTable searchAccounts(string keyword)
         {
             var query = from acc in qlch.GetTable<account>()
-                        where acc.displayName.Contains(keyword) ||
-                              acc.userName.Contains(keyword)
+                        where acc.displayName.Contains(keyword) 
+                             
                         select new
                         {
                             acc.id,
@@ -184,6 +184,20 @@ namespace BLL_DAL
                 dataTable.Rows.Add(acc.id, acc.displayName, acc.userName, acc.password, acc.type);
             }
 
+            return dataTable;
+        }
+        public DataTable cbbtype()
+        {
+            DataTable dataTable = new DataTable();
+            dataTable.Columns.Add("DisplayMember", typeof(string));
+            dataTable.Columns.Add("ValueMember", typeof(int));
+
+           
+            dataTable.Rows.Add("Nhân viên", 2);
+
+            
+            dataTable.Rows.Add("Admin", 1);
+            dataTable.Rows.Add("Khách hàng", 0);
             return dataTable;
         }
 

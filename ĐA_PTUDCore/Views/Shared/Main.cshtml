@@ -1,0 +1,182 @@
+﻿@using Newtonsoft.Json
+@inject IHttpContextAccessor ctx;
+<!DOCTYPE html>
+<head>
+    <title>Shop Ban laptop</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+</head>
+<style>
+    * {
+        box-sizing: border-box;
+        margin: 0;
+        padding: 0;
+    }
+    html{
+        box-sizing: border-box;
+        margin: 0;
+        padding: 0;
+        min-height: 100vh;
+    }
+    body{
+        padding:0;
+        margin:0;
+        display: flex;
+        flex-direction: column;
+        min-height: 100vh;
+    }
+    .container{
+        flex:1;
+    }
+</style>
+<body >
+    @{
+        var user =  JsonConvert.DeserializeObject<ShopBanLaptop2.Models.Account>(ctx.HttpContext.Session.GetString("account")??"") ;
+        var shopcart = JsonConvert.DeserializeObject<List<ShopBanLaptop2.Models.SCartInfo>>(ctx.HttpContext.Session.GetString("shopCart") ?? "");
+        int cartItems = 0;
+        if (shopcart != null)
+            cartItems = shopcart.Count();
+    }
+    <nav class="navbar navbar-expand-md navbar-dark bg-danger">
+        <!--           LOGO               -->
+        <a class="navbar-brand" href="/Product/Search">Shop</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse"
+                data-target="#navbarSupportedContent">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse " id="navbarSupportedContent">
+            <ul class="navbar-nav ml-auto ">
+                <!--            search box          -->
+                @using (Html.BeginForm("Search", "Product"))
+                {
+                    <div class="form-inline">
+                        <input class="form-control mr-ms-2 col-10" name="txt_search" type="search" placeholder="Search" aria-lable="Search" style="width: 500px">
+                        <input type="hidden" name="page" value="0" />
+                        <button class="btn btn-light my-ms-2 col-2" type="submit">Search</button>
+                    </div>
+                }
+
+                <!--                        -->
+                <li class="nav-item active">
+                    <a class="nav-link" href="/Product/Search">Trang chủ </a>
+                </li>
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown"
+                       role="button" data-toggle="dropdown">Tin tức</a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                        <a class="dropdown-item" href="#">tin  mới</a>
+                        <a class="dropdown-item" href="#">Khuyến mãi</a>
+                        <a class="dropdown-item" href="#">Thủ thuật</a>
+                        <a class="dropdown-item" href="#">App & Game</a>
+                        <a class="dropdown-item" href="#">Sự kiện</a>
+                    </div>
+                </li>
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown"
+                       role="button" data-toggle="dropdown">Tài khoản</a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+
+                        @{
+                            if (user == null)
+                            {
+                                <a class="dropdown-item" href="/Login/login#">Đăng nhập</a>
+                            }
+                            else
+                            {
+                                <a class="dropdown-item" href="/Login/accountInfo/@user.id">Thông tin tài khoản</a>
+                                <a class="dropdown-item" href="/Login/logout#">Đăng xuất</a>
+
+                            }
+                        }
+                        
+
+
+                    </div>
+                </li>
+                <!--                        -->
+                <li class="nav-item">
+                    <a class="nav-link" href="/Chat/">Trợ lý ảo</a>
+                </li>
+                @{
+                    if (user != null)
+                    {
+                        if (user.type == 1)
+                        {
+                            <li class="nav-item dropdown">
+                                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown"
+                                   role="button" data-toggle="dropdown">Admin</a>
+                                <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                    <a class="dropdown-item" href="/Product/AddLaptop">thêm sản phẩm</a>
+                                    <a class="dropdown-item" href="#">no service </a>
+                                    <a class="dropdown-item" href="#">no service</a>
+                                </div>
+                            </li>
+                        }
+                    }
+
+                }
+
+
+                <li class="nav-item active">
+                    <a class="nav-link" href="/ShoppingCart/showShopCart">Giỏ hàng <span class="badge badge-light">@cartItems</span></a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+    <!--                           body        -->
+    <div class="container">
+        <div class="row">
+            <div class="col-12" id="banner">
+                <img src="/banner_Image/hinh2.jpg" width="1100" height="200"/>
+            </div>
+        </div>
+
+        <div class="row">
+            <!-- select menu -->
+            <div class="col-3 bg-light">
+                <div style="height:1000px">
+                    @Html.Partial("~/Views/Shared/select.cshtml")
+                    <div class="mt-3"><button class="btn btn-info" style="color:white;">
+                            @Html.ActionLink("Giá tăng dần", "sortByPrice", "Product", new { option = 0 },new{ @style="color:white;"})
+                            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-up" viewBox="0 0 16 16">
+                                <path fill-rule="evenodd" d="M8 15a.5.5 0 0 0 .5-.5V2.707l3.146 3.147a.5.5 0 0 0 .708-.708l-4-4a.5.5 0 0 0-.708 0l-4 4a.5.5 0 1 0 .708.708L7.5 2.707V14.5a.5.5 0 0 0 .5.5" />
+                            </svg>
+                    </button>
+                   
+                    </div>
+                    <div> <button class="btn btn-info mt-3">
+                            @Html.ActionLink("Giá giảm dần", "sortByPrice", "Product", new { option = 1 }, new { @style = "color:white;" })
+                            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-down" viewBox="0 0 16 16">
+                                <path fill-rule="evenodd" d="M8 1a.5.5 0 0 1 .5.5v11.793l3.146-3.147a.5.5 0 0 1 .708.708l-4 4a.5.5 0 0 1-.708 0l-4-4a.5.5 0 0 1 .708-.708L7.5 13.293V1.5A.5.5 0 0 1 8 1" />
+                            </svg>
+                    </button>
+                       
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-9 mt-2">
+                @RenderBody()
+            </div>
+        </div>
+
+
+
+
+
+    </div>
+    <!--                 footer                -->
+    <div class="bg-light" style="margin-bottom:30px;">
+      
+        <div class="bg-gray">
+            <p style="text-align:center">
+                © 2023 HUIT - Đại học Công Thương Thành phố Hồ Chí Minh / Địa chỉ: 140, Lê Trọng Tấn, Q.Tân Phú, TP.Hồ Chí Minh / GPĐKKD số 0311609355 do Sở KHĐT TP.HCM cấp ngày 01/11/2023.
+                GP số 47/GP-TTĐT do sở TTTT TP HCM cấp ngày 12/11/2023. Điện thoại: (028)73023456. Email: Huit@edu.vn
+            </p>
+        </div>
+    </div>
+
+</body>

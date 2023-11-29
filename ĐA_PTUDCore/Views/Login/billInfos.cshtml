@@ -1,0 +1,50 @@
+﻿@model IEnumerable<ShopBanLaptop2.Models.BillInfoToShow>
+
+@{
+    ViewBag.Title = "billInfos";
+    Layout = "~/Views/Shared/_secondLayout.cshtml";
+}
+
+<h2>Chi tiết hóa đơn</h2>
+
+
+<table class="table">
+    <tr>
+        <th>
+            Tên sản phẩm
+        </th>
+        <th>
+            Ảnh
+        </th>
+        <th>
+            Đơn giá
+        </th>
+        <th>
+            Số lượng
+        </th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                <a href="/Product/Details/@item.Id">
+                    <div id="lapName">@Html.DisplayFor(modelItem => item.Name) </div>
+                </a>
+            </td>
+            <td>
+                <img class="rounded mx-auto d-block img-fluid" src="/images/@item.Image" />
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Price)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.count)
+            </td>
+
+        </tr>
+    }
+    @Html.ActionLink("Tải hóa đơn","downloadBill","ShoppingCart", new{id=ViewBag.id})
+
+
+</table>

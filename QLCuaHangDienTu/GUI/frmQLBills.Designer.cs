@@ -44,7 +44,9 @@ namespace GUI
             this.dtgv_Bill = new System.Windows.Forms.DataGridView();
             this.dtp_TK = new System.Windows.Forms.DateTimePicker();
             this.dtp_DP = new System.Windows.Forms.DateTimePicker();
+            this.dtgv_billinfo = new System.Windows.Forms.DataGridView();
             ((System.ComponentModel.ISupportInitialize)(this.dtgv_Bill)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dtgv_billinfo)).BeginInit();
             this.SuspendLayout();
             // 
             // btn_reset
@@ -105,7 +107,7 @@ namespace GUI
             // 
             // btn_Thoat
             // 
-            this.btn_Thoat.Location = new System.Drawing.Point(754, 469);
+            this.btn_Thoat.Location = new System.Drawing.Point(1055, 490);
             this.btn_Thoat.Name = "btn_Thoat";
             this.btn_Thoat.Size = new System.Drawing.Size(75, 23);
             this.btn_Thoat.TabIndex = 33;
@@ -163,7 +165,7 @@ namespace GUI
             this.dtgv_Bill.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dtgv_Bill.Location = new System.Drawing.Point(250, 125);
             this.dtgv_Bill.Name = "dtgv_Bill";
-            this.dtgv_Bill.Size = new System.Drawing.Size(531, 320);
+            this.dtgv_Bill.Size = new System.Drawing.Size(380, 327);
             this.dtgv_Bill.TabIndex = 23;
             this.dtgv_Bill.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dtgv_Bill_CellClick);
             // 
@@ -183,11 +185,20 @@ namespace GUI
             this.dtp_DP.Size = new System.Drawing.Size(139, 20);
             this.dtp_DP.TabIndex = 43;
             // 
+            // dtgv_billinfo
+            // 
+            this.dtgv_billinfo.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dtgv_billinfo.Location = new System.Drawing.Point(648, 125);
+            this.dtgv_billinfo.Name = "dtgv_billinfo";
+            this.dtgv_billinfo.Size = new System.Drawing.Size(500, 327);
+            this.dtgv_billinfo.TabIndex = 44;
+            // 
             // frmQLBills
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(883, 523);
+            this.ClientSize = new System.Drawing.Size(1215, 570);
+            this.Controls.Add(this.dtgv_billinfo);
             this.Controls.Add(this.dtp_DP);
             this.Controls.Add(this.dtp_TK);
             this.Controls.Add(this.btn_reset);
@@ -208,6 +219,7 @@ namespace GUI
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.frmQLBills_FormClosing);
             this.Load += new System.EventHandler(this.frmQLBills_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dtgv_Bill)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dtgv_billinfo)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -230,5 +242,6 @@ namespace GUI
         private System.Windows.Forms.DataGridView dtgv_Bill;
         private System.Windows.Forms.DateTimePicker dtp_TK;
         private System.Windows.Forms.DateTimePicker dtp_DP;
+        private System.Windows.Forms.DataGridView dtgv_billinfo;
     }
 }

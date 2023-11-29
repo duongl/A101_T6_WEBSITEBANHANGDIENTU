@@ -34,7 +34,6 @@ namespace GUI
             this.txt_dpn = new System.Windows.Forms.TextBox();
             this.txt_un = new System.Windows.Forms.TextBox();
             this.txt_pw = new System.Windows.Forms.TextBox();
-            this.txt_type = new System.Windows.Forms.TextBox();
             this.btn_Them = new System.Windows.Forms.Button();
             this.btn_Xoa = new System.Windows.Forms.Button();
             this.btn_Sua = new System.Windows.Forms.Button();
@@ -45,9 +44,7 @@ namespace GUI
             this.label3 = new System.Windows.Forms.Label();
             this.label4 = new System.Windows.Forms.Label();
             this.label5 = new System.Windows.Forms.Label();
-            this.txt_TimKiem = new System.Windows.Forms.TextBox();
-            this.txt_TK = new System.Windows.Forms.Button();
-            this.btn_reset = new System.Windows.Forms.Button();
+            this.cbb_Type = new System.Windows.Forms.ComboBox();
             ((System.ComponentModel.ISupportInitialize)(this.dtgv_Acc)).BeginInit();
             this.SuspendLayout();
             // 
@@ -88,14 +85,7 @@ namespace GUI
             this.txt_pw.Name = "txt_pw";
             this.txt_pw.Size = new System.Drawing.Size(126, 20);
             this.txt_pw.TabIndex = 4;
-            // 
-            // txt_type
-            // 
-            this.txt_type.Location = new System.Drawing.Point(91, 307);
-            this.txt_type.Name = "txt_type";
-            this.txt_type.Size = new System.Drawing.Size(126, 20);
-            this.txt_type.TabIndex = 5;
-            this.txt_type.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.txt_type_KeyPress);
+            this.txt_pw.TextChanged += new System.EventHandler(this.txt_pw_TextChanged);
             // 
             // btn_Them
             // 
@@ -192,41 +182,20 @@ namespace GUI
             this.label5.TabIndex = 15;
             this.label5.Text = "Type:";
             // 
-            // txt_TimKiem
+            // cbb_Type
             // 
-            this.txt_TimKiem.Location = new System.Drawing.Point(464, 14);
-            this.txt_TimKiem.Name = "txt_TimKiem";
-            this.txt_TimKiem.Size = new System.Drawing.Size(188, 20);
-            this.txt_TimKiem.TabIndex = 20;
-            // 
-            // txt_TK
-            // 
-            this.txt_TK.Location = new System.Drawing.Point(658, 12);
-            this.txt_TK.Name = "txt_TK";
-            this.txt_TK.Size = new System.Drawing.Size(61, 24);
-            this.txt_TK.TabIndex = 21;
-            this.txt_TK.Text = "Tìm Kiếm";
-            this.txt_TK.UseVisualStyleBackColor = true;
-            this.txt_TK.Click += new System.EventHandler(this.txt_TK_Click);
-            // 
-            // btn_reset
-            // 
-            this.btn_reset.Location = new System.Drawing.Point(725, 12);
-            this.btn_reset.Name = "btn_reset";
-            this.btn_reset.Size = new System.Drawing.Size(75, 23);
-            this.btn_reset.TabIndex = 22;
-            this.btn_reset.Text = "Reset";
-            this.btn_reset.UseVisualStyleBackColor = true;
-            this.btn_reset.Click += new System.EventHandler(this.btn_reset_Click);
+            this.cbb_Type.FormattingEnabled = true;
+            this.cbb_Type.Location = new System.Drawing.Point(91, 307);
+            this.cbb_Type.Name = "cbb_Type";
+            this.cbb_Type.Size = new System.Drawing.Size(126, 21);
+            this.cbb_Type.TabIndex = 23;
             // 
             // frmQLAccounts
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(879, 522);
-            this.Controls.Add(this.btn_reset);
-            this.Controls.Add(this.txt_TK);
-            this.Controls.Add(this.txt_TimKiem);
+            this.Controls.Add(this.cbb_Type);
             this.Controls.Add(this.label5);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.label3);
@@ -237,7 +206,6 @@ namespace GUI
             this.Controls.Add(this.btn_Sua);
             this.Controls.Add(this.btn_Xoa);
             this.Controls.Add(this.btn_Them);
-            this.Controls.Add(this.txt_type);
             this.Controls.Add(this.txt_pw);
             this.Controls.Add(this.txt_un);
             this.Controls.Add(this.txt_dpn);
@@ -260,7 +228,6 @@ namespace GUI
         private System.Windows.Forms.TextBox txt_dpn;
         private System.Windows.Forms.TextBox txt_un;
         private System.Windows.Forms.TextBox txt_pw;
-        private System.Windows.Forms.TextBox txt_type;
         private System.Windows.Forms.Button btn_Them;
         private System.Windows.Forms.Button btn_Xoa;
         private System.Windows.Forms.Button btn_Sua;
@@ -271,8 +238,6 @@ namespace GUI
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.Label label5;
-        private System.Windows.Forms.TextBox txt_TimKiem;
-        private System.Windows.Forms.Button txt_TK;
-        private System.Windows.Forms.Button btn_reset;
+        private System.Windows.Forms.ComboBox cbb_Type;
     }
 }

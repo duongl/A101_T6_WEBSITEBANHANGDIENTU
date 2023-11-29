@@ -28,6 +28,12 @@ namespace GUI
 
         private void btn_Luu_Click(object sender, EventArgs e)
         {
+            if (txt_MatKhau_Moi.Text.Length < 5)
+            {
+                MessageBox.Show("Mật khẩu phải trên 5 ký tự");
+                txt_MatKhau_Moi.Focus();
+            }
+            else
             if (accbll.KTDMK(useName.ToString(), txt_MatKhau_Cu.Text, txt_MatKhau_Moi.Text)==1)
             {
                 MessageBox.Show("Đổi mật khẩu thành công");
@@ -35,6 +41,16 @@ namespace GUI
             else
                 MessageBox.Show("Đổi mật khẩu thất bại");
 
+        }
+
+        private void txt_MatKhau_Cu_TextChanged(object sender, EventArgs e)
+        {
+            
+        }
+
+        private void txt_MatKhau_Moi_TextChanged(object sender, EventArgs e)
+        {
+            
         }
     }
 }

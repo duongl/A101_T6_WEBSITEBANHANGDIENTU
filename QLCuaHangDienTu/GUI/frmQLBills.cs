@@ -137,8 +137,7 @@ namespace GUI
                 txt_IDA.Text = row.Cells[1].Value.ToString();
                 txt_Status.Text = row.Cells[2].Value.ToString();
                 dtp_DP.Text = row.Cells[3].Value.ToString();
-                
-
+                dtgv_billinfo.DataSource = billbll.BillInfos(Convert.ToInt32( row.Cells[0].Value));
             }
         }
 

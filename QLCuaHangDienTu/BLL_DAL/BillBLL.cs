@@ -106,5 +106,33 @@ namespace BLL_DAL
             }
             return dataTable;
         }
+        public DataTable BillInfos(int key)
+        {
+            var query = from laptop in qlch.GetTable<laptop>()
+                        join billInfo in qlch.GetTable<billInfo>() on laptop.id equals billInfo.idLaptop
+                        join bill in qlch.GetTable<bill>() on billInfo.idBill equals bill.id
+                        where billInfo.idBill.ToString() == key.ToString()
+                        select new
+                        {
+
+                            billInfo.idLaptop,
+                            laptop.Name,
+                            billInfo.counts,
+                            laptop.price,
+                            
+
+                        };
+
+            DataTable dataTable = new DataTable();
+            dataTable.Columns.Add("idLaptop", typeof(int));
+            dataTable.Columns.Add("Name", typeof(string));
+            dataTable.Columns.Add("counts", typeof(int));
+            dataTable.Columns.Add("price", typeof(double));
+            foreach (var row in query)
+            {
+                dataTable.Rows.Add(row.idLaptop, row.Name,row.counts, row.price);
+            }
+            return dataTable;
+        }
     }
 }

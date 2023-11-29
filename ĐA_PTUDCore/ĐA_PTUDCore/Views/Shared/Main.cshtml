@@ -8,7 +8,29 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
 </head>
-
+<style>
+    * {
+        box-sizing: border-box;
+        margin: 0;
+        padding: 0;
+    }
+    html{
+        box-sizing: border-box;
+        margin: 0;
+        padding: 0;
+        min-height: 100vh;
+    }
+    body{
+        padding:0;
+        margin:0;
+        display: flex;
+        flex-direction: column;
+        min-height: 100vh;
+    }
+    .container{
+        flex:1;
+    }
+</style>
 <body >
     @{
         var user =  JsonConvert.DeserializeObject<ShopBanLaptop2.Models.Account>(ctx.HttpContext.Session.GetString("account")??"") ;
@@ -19,7 +41,7 @@
     }
     <nav class="navbar navbar-expand-md navbar-dark bg-danger">
         <!--           LOGO               -->
-        <a class="navbar-brand" href="/Product/Search">Laptop Shopp</a>
+        <a class="navbar-brand" href="/Product/Search">Shop</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse"
                 data-target="#navbarSupportedContent">
             <span class="navbar-toggler-icon"></span>
@@ -147,9 +169,9 @@
 
     </div>
     <!--                 footer                -->
-    <div class="contaner bg-light">
+    <div class="bg-light" style="margin-bottom:30px;">
       
-        <div class="row bg-gray">
+        <div class="bg-gray">
             <p style="text-align:center">
                 © 2007 - 2022 Công Ty Cổ Phần Bán Lẻ Kỹ Thuật Số FPT / Địa chỉ: 261 - 263 Khánh Hội, P2, Q4, TP. Hồ Chí Minh / GPĐKKD số 0311609355 do Sở KHĐT TP.HCM cấp ngày 08/03/2012.
                 GP số 47/GP-TTĐT do sở TTTT TP HCM cấp ngày 02/07/2018. Điện thoại: (028)73023456. Email: fptshop@fpt.com.vn. Chịu trách nhiệm nội dung: Nguyễn Trịnh Nhật Linh.

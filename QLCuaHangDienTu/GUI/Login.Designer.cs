@@ -48,6 +48,7 @@ namespace GUI
             this.btn_Thoat.TabIndex = 20;
             this.btn_Thoat.Text = "Thoát";
             this.btn_Thoat.UseVisualStyleBackColor = true;
+            this.btn_Thoat.Click += new System.EventHandler(this.btn_Thoat_Click);
             // 
             // btn_DangNhap
             // 
@@ -71,6 +72,7 @@ namespace GUI
             this.cb_MatKhau.TabIndex = 18;
             this.cb_MatKhau.Text = "Hiển thị mật khẩu";
             this.cb_MatKhau.UseVisualStyleBackColor = true;
+            this.cb_MatKhau.CheckedChanged += new System.EventHandler(this.cb_MatKhau_CheckedChanged_1);
             // 
             // txt_MatKhau
             // 
@@ -80,6 +82,7 @@ namespace GUI
             this.txt_MatKhau.PasswordChar = '*';
             this.txt_MatKhau.Size = new System.Drawing.Size(153, 22);
             this.txt_MatKhau.TabIndex = 17;
+            this.txt_MatKhau.TextChanged += new System.EventHandler(this.txt_MatKhau_TextChanged);
             // 
             // label2
             // 
@@ -98,6 +101,7 @@ namespace GUI
             this.txt_TaiKhoan.Name = "txt_TaiKhoan";
             this.txt_TaiKhoan.Size = new System.Drawing.Size(153, 22);
             this.txt_TaiKhoan.TabIndex = 15;
+            this.txt_TaiKhoan.Text = "a";
             // 
             // label1
             // 
@@ -123,6 +127,7 @@ namespace GUI
             this.Controls.Add(this.label1);
             this.Name = "Login";
             this.Text = "Login";
+            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.Login_FormClosing);
             this.Load += new System.EventHandler(this.Login_Load);
             this.ResumeLayout(false);
             this.PerformLayout();

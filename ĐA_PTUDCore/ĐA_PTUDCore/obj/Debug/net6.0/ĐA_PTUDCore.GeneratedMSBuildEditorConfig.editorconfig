@@ -9,99 +9,99 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ĐA_PTUDCore
 build_property.RootNamespace = ĐA_PTUDCore
-build_property.ProjectDir = C:\Users\vuong\Downloads\ĐA_PTUDCore\ĐA_PTUDCore\
+build_property.ProjectDir = C:\Users\vuong\Downloads\Visual Studio Project\ptudpmtm\gan nhat\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\vuong\Downloads\ĐA_PTUDCore\ĐA_PTUDCore
+build_property.MSBuildProjectDirectory = C:\Users\vuong\Downloads\Visual Studio Project\ptudpmtm\gan nhat\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/vuong/Downloads/ĐA_PTUDCore/ĐA_PTUDCore/Views/Chat/Index.cshtml]
+[C:/Users/vuong/Downloads/Visual Studio Project/ptudpmtm/gan nhat/ĐA_PTUDCore/ĐA_PTUDCore/ĐA_PTUDCore/Views/Chat/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhdFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/vuong/Downloads/ĐA_PTUDCore/ĐA_PTUDCore/Views/Login/accountInfo.cshtml]
+[C:/Users/vuong/Downloads/Visual Studio Project/ptudpmtm/gan nhat/ĐA_PTUDCore/ĐA_PTUDCore/ĐA_PTUDCore/Views/Login/accountInfo.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cYWNjb3VudEluZm8uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/vuong/Downloads/ĐA_PTUDCore/ĐA_PTUDCore/Views/Login/billInfos.cshtml]
+[C:/Users/vuong/Downloads/Visual Studio Project/ptudpmtm/gan nhat/ĐA_PTUDCore/ĐA_PTUDCore/ĐA_PTUDCore/Views/Login/billInfos.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cYmlsbEluZm9zLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/vuong/Downloads/ĐA_PTUDCore/ĐA_PTUDCore/Views/Login/createAccount.cshtml]
+[C:/Users/vuong/Downloads/Visual Studio Project/ptudpmtm/gan nhat/ĐA_PTUDCore/ĐA_PTUDCore/ĐA_PTUDCore/Views/Login/createAccount.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cY3JlYXRlQWNjb3VudC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/vuong/Downloads/ĐA_PTUDCore/ĐA_PTUDCore/Views/Login/edit.cshtml]
+[C:/Users/vuong/Downloads/Visual Studio Project/ptudpmtm/gan nhat/ĐA_PTUDCore/ĐA_PTUDCore/ĐA_PTUDCore/Views/Login/edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cZWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/vuong/Downloads/ĐA_PTUDCore/ĐA_PTUDCore/Views/Login/getBillsByAccount.cshtml]
+[C:/Users/vuong/Downloads/Visual Studio Project/ptudpmtm/gan nhat/ĐA_PTUDCore/ĐA_PTUDCore/ĐA_PTUDCore/Views/Login/getBillsByAccount.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cZ2V0QmlsbHNCeUFjY291bnQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/vuong/Downloads/ĐA_PTUDCore/ĐA_PTUDCore/Views/Login/Login.cshtml]
+[C:/Users/vuong/Downloads/Visual Studio Project/ptudpmtm/gan nhat/ĐA_PTUDCore/ĐA_PTUDCore/ĐA_PTUDCore/Views/Login/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cTG9naW4uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/vuong/Downloads/ĐA_PTUDCore/ĐA_PTUDCore/Views/Product/AddLaptop.cshtml]
+[C:/Users/vuong/Downloads/Visual Studio Project/ptudpmtm/gan nhat/ĐA_PTUDCore/ĐA_PTUDCore/ĐA_PTUDCore/Views/Product/AddLaptop.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxBZGRMYXB0b3AuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/vuong/Downloads/ĐA_PTUDCore/ĐA_PTUDCore/Views/Product/Details.cshtml]
+[C:/Users/vuong/Downloads/Visual Studio Project/ptudpmtm/gan nhat/ĐA_PTUDCore/ĐA_PTUDCore/ĐA_PTUDCore/Views/Product/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/vuong/Downloads/ĐA_PTUDCore/ĐA_PTUDCore/Views/Product/search.cshtml]
+[C:/Users/vuong/Downloads/Visual Studio Project/ptudpmtm/gan nhat/ĐA_PTUDCore/ĐA_PTUDCore/ĐA_PTUDCore/Views/Product/search.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxzZWFyY2guY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/vuong/Downloads/ĐA_PTUDCore/ĐA_PTUDCore/Views/Product/searchByPC.cshtml]
+[C:/Users/vuong/Downloads/Visual Studio Project/ptudpmtm/gan nhat/ĐA_PTUDCore/ĐA_PTUDCore/ĐA_PTUDCore/Views/Product/searchByPC.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxzZWFyY2hCeVBDLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/vuong/Downloads/ĐA_PTUDCore/ĐA_PTUDCore/Views/Product/searchByPrice.cshtml]
+[C:/Users/vuong/Downloads/Visual Studio Project/ptudpmtm/gan nhat/ĐA_PTUDCore/ĐA_PTUDCore/ĐA_PTUDCore/Views/Product/searchByPrice.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxzZWFyY2hCeVByaWNlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/vuong/Downloads/ĐA_PTUDCore/ĐA_PTUDCore/Views/Product/ShowAllLaptop.cshtml]
+[C:/Users/vuong/Downloads/Visual Studio Project/ptudpmtm/gan nhat/ĐA_PTUDCore/ĐA_PTUDCore/ĐA_PTUDCore/Views/Product/ShowAllLaptop.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxTaG93QWxsTGFwdG9wLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/vuong/Downloads/ĐA_PTUDCore/ĐA_PTUDCore/Views/Product/sortByprice.cshtml]
+[C:/Users/vuong/Downloads/Visual Studio Project/ptudpmtm/gan nhat/ĐA_PTUDCore/ĐA_PTUDCore/ĐA_PTUDCore/Views/Product/sortByprice.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxzb3J0QnlwcmljZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/vuong/Downloads/ĐA_PTUDCore/ĐA_PTUDCore/Views/Product/suaThongTinLaptop.cshtml]
+[C:/Users/vuong/Downloads/Visual Studio Project/ptudpmtm/gan nhat/ĐA_PTUDCore/ĐA_PTUDCore/ĐA_PTUDCore/Views/Product/suaThongTinLaptop.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxzdWFUaG9uZ1RpbkxhcHRvcC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/vuong/Downloads/ĐA_PTUDCore/ĐA_PTUDCore/Views/Shared/Main.cshtml]
+[C:/Users/vuong/Downloads/Visual Studio Project/ptudpmtm/gan nhat/ĐA_PTUDCore/ĐA_PTUDCore/ĐA_PTUDCore/Views/Shared/Main.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXE1haW4uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/vuong/Downloads/ĐA_PTUDCore/ĐA_PTUDCore/Views/Shared/select.cshtml]
+[C:/Users/vuong/Downloads/Visual Studio Project/ptudpmtm/gan nhat/ĐA_PTUDCore/ĐA_PTUDCore/ĐA_PTUDCore/Views/Shared/select.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXHNlbGVjdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/vuong/Downloads/ĐA_PTUDCore/ĐA_PTUDCore/Views/Shared/_Banner.cshtml]
+[C:/Users/vuong/Downloads/Visual Studio Project/ptudpmtm/gan nhat/ĐA_PTUDCore/ĐA_PTUDCore/ĐA_PTUDCore/Views/Shared/_Banner.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9CYW5uZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/vuong/Downloads/ĐA_PTUDCore/ĐA_PTUDCore/Views/Shared/_displayAcc.cshtml]
+[C:/Users/vuong/Downloads/Visual Studio Project/ptudpmtm/gan nhat/ĐA_PTUDCore/ĐA_PTUDCore/ĐA_PTUDCore/Views/Shared/_displayAcc.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9kaXNwbGF5QWNjLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/vuong/Downloads/ĐA_PTUDCore/ĐA_PTUDCore/Views/Shared/_secondLayout.cshtml]
+[C:/Users/vuong/Downloads/Visual Studio Project/ptudpmtm/gan nhat/ĐA_PTUDCore/ĐA_PTUDCore/ĐA_PTUDCore/Views/Shared/_secondLayout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9zZWNvbmRMYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/vuong/Downloads/ĐA_PTUDCore/ĐA_PTUDCore/Views/ShoppingCart/showShopCart.cshtml]
+[C:/Users/vuong/Downloads/Visual Studio Project/ptudpmtm/gan nhat/ĐA_PTUDCore/ĐA_PTUDCore/ĐA_PTUDCore/Views/ShoppingCart/showShopCart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hvcHBpbmdDYXJ0XHNob3dTaG9wQ2FydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/vuong/Downloads/ĐA_PTUDCore/ĐA_PTUDCore/Views/_ViewImports.cshtml]
+[C:/Users/vuong/Downloads/Visual Studio Project/ptudpmtm/gan nhat/ĐA_PTUDCore/ĐA_PTUDCore/ĐA_PTUDCore/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 

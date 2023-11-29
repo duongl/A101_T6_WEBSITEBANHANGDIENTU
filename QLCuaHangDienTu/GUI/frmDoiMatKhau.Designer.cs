@@ -72,9 +72,9 @@ namespace GUI
             this.txt_MatKhau_Moi.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txt_MatKhau_Moi.Location = new System.Drawing.Point(12, 171);
             this.txt_MatKhau_Moi.Name = "txt_MatKhau_Moi";
-            this.txt_MatKhau_Moi.PasswordChar = '*';
             this.txt_MatKhau_Moi.Size = new System.Drawing.Size(225, 26);
             this.txt_MatKhau_Moi.TabIndex = 22;
+            this.txt_MatKhau_Moi.TextChanged += new System.EventHandler(this.txt_MatKhau_Moi_TextChanged);
             // 
             // btn_Luu
             // 
@@ -100,9 +100,9 @@ namespace GUI
             this.txt_MatKhau_Cu.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txt_MatKhau_Cu.Location = new System.Drawing.Point(12, 116);
             this.txt_MatKhau_Cu.Name = "txt_MatKhau_Cu";
-            this.txt_MatKhau_Cu.PasswordChar = '*';
             this.txt_MatKhau_Cu.Size = new System.Drawing.Size(225, 26);
             this.txt_MatKhau_Cu.TabIndex = 7;
+            this.txt_MatKhau_Cu.TextChanged += new System.EventHandler(this.txt_MatKhau_Cu_TextChanged);
             // 
             // txt_TaiKhoan
             // 
@@ -140,9 +140,9 @@ namespace GUI
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.Location = new System.Drawing.Point(23, 16);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(112, 18);
+            this.label1.Size = new System.Drawing.Size(110, 18);
             this.label1.TabIndex = 8;
-            this.label1.Text = "Mã nhân viên:";
+            this.label1.Text = "Mã tài khoản:";
             // 
             // label7
             // 

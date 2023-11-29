@@ -296,7 +296,10 @@ namespace GUI
                 DataGridViewRow row = dtgv_LT.SelectedRows[0];
                 txt_id.Text = row.Cells[0].Value.ToString();
                 txt_name.Text = row.Cells[1].Value.ToString();
-                cbb_IDCate.Text = row.Cells[2].Value.ToString();
+                if (row.Cells[2].Value.ToString() == "1")
+                    cbb_IDCate.Text = "Gaming";
+                else
+                    cbb_IDCate.Text = "Văn Phòng";
                 txt_Price.Text = row.Cells[3].Value.ToString();
                 txt_PDCom.Text = row.Cells[4].Value.ToString();
                 txt_Monitor.Text = row.Cells[5].Value.ToString();
@@ -310,10 +313,7 @@ namespace GUI
             }
         }
 
-        private void dtgv_LT_CellContentClick(object sender, DataGridViewCellEventArgs e)
-        {
-
-        }
+      
 
         private void txt_Monitor_KeyPress(object sender, KeyPressEventArgs e)
         {

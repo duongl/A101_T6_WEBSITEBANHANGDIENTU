@@ -22,7 +22,7 @@ namespace BLL_DAL
 	using System;
 	
 	
-	[global::System.Data.Linq.Mapping.DatabaseAttribute(Name="QL_BanHangDienTu")]
+	[global::System.Data.Linq.Mapping.DatabaseAttribute(Name="backup_16-10-2023")]
 	public partial class QL_BanHangDienTuDataContext : System.Data.Linq.DataContext
 	{
 		
@@ -1823,13 +1823,13 @@ namespace BLL_DAL
 		
 		private static PropertyChangingEventArgs emptyChangingEventArgs = new PropertyChangingEventArgs(String.Empty);
 		
-		private string _id;
+		private int _id;
 		
 		private string _Name;
 		
 		private string _Sex;
 		
-		private System.Nullable<int> _Phone;
+		private string _Phone;
 		
 		private System.Nullable<int> _idAccount;
 		
@@ -1839,13 +1839,13 @@ namespace BLL_DAL
     partial void OnLoaded();
     partial void OnValidate(System.Data.Linq.ChangeAction action);
     partial void OnCreated();
-    partial void OnidChanging(string value);
+    partial void OnidChanging(int value);
     partial void OnidChanged();
     partial void OnNameChanging(string value);
     partial void OnNameChanged();
     partial void OnSexChanging(string value);
     partial void OnSexChanged();
-    partial void OnPhoneChanging(System.Nullable<int> value);
+    partial void OnPhoneChanging(string value);
     partial void OnPhoneChanged();
     partial void OnidAccountChanging(System.Nullable<int> value);
     partial void OnidAccountChanged();
@@ -1857,8 +1857,8 @@ namespace BLL_DAL
 			OnCreated();
 		}
 		
-		[global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_id", DbType="NChar(10) NOT NULL", CanBeNull=false, IsPrimaryKey=true)]
-		public string id
+		[global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_id", DbType="Int NOT NULL", IsPrimaryKey=true)]
+		public int id
 		{
 			get
 			{
@@ -1917,8 +1917,8 @@ namespace BLL_DAL
 			}
 		}
 		
-		[global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_Phone", DbType="Int")]
-		public System.Nullable<int> Phone
+		[global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_Phone", DbType="NChar(50)")]
+		public string Phone
 		{
 			get
 			{
