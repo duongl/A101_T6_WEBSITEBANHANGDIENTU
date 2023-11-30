@@ -31,6 +31,8 @@ Phát triển ứng dụng phần mềm thông minh
   + Quản lý hóa đơn
   + Quản lý doanh thu
 ### AI: Chăm sóc khách hàng (Web)
+  + Gợi ý giá
+  + Gợi ý nhu cầu gaming, văn phòng, đồ họa
 ### Nguồn tham khảo
 Link: https://gearvn.com/ 
   
