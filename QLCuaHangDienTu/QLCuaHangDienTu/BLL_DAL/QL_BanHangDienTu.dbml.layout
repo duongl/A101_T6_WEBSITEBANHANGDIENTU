@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 14, 14.125" name="QL_BanHangDienTu">
+  <DataContextMoniker Name="/QL_BanHangDienTuDataContext" />
+  <nestedChildShapes>
+    <classShape Id="c92f0f78-6ea5-43eb-b6a5-75aeb931c317" absoluteBounds="0.75, 5.25, 2, 1.7708968098958326">
+      <DataClassMoniker Name="/QL_BanHangDienTuDataContext/account" />
+      <nestedChildShapes>
+        <elementListCompartment Id="d03485a0-710d-423a-a82c-22a66ac702a2" absoluteBounds="0.765, 5.71, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="8cbd82fd-e0cc-4968-bec5-9fcbade2f3d2" absoluteBounds="9, 4.875, 2, 1.7708968098958326">
+      <DataClassMoniker Name="/QL_BanHangDienTuDataContext/ware_house" />
+      <nestedChildShapes>
+        <elementListCompartment Id="69532a19-bdaf-4269-801e-55e03e39c84e" absoluteBounds="9.015, 5.335, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="0b8a25de-c586-40d0-a6a8-cd40f329c431" absoluteBounds="3.5, 2.625, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/QL_BanHangDienTuDataContext/bill" />
+      <nestedChildShapes>
+        <elementListCompartment Id="2718fb36-3b50-4cf0-bd50-75fe835fa6d2" absoluteBounds="3.515, 3.085, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="96c281ac-093d-4067-91d3-722bbf8b978a" absoluteBounds="6.25, 1.625, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/QL_BanHangDienTuDataContext/billInfo" />
+      <nestedChildShapes>
+        <elementListCompartment Id="8329c554-1d7a-4206-851c-95cc70f38858" absoluteBounds="6.265, 2.085, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="4dc81046-9306-4d5a-bdce-e9c195e566b9" absoluteBounds="3.5, 7.75, 2, 2.1554996744791666">
+      <DataClassMoniker Name="/QL_BanHangDienTuDataContext/customer" />
+      <nestedChildShapes>
+        <elementListCompartment Id="9e8b4dd1-e562-4be9-959b-be4001feab94" absoluteBounds="3.515, 8.21, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="bd9c06c2-fd4e-4c28-b1cb-75ca9643bc1a" absoluteBounds="3.5, 11, 2, 2.9247054036458309">
+      <DataClassMoniker Name="/QL_BanHangDienTuDataContext/laptop" />
+      <nestedChildShapes>
+        <elementListCompartment Id="54e7ad48-9b68-48e4-b0ed-e6e2fef977ef" absoluteBounds="3.515, 11.46, 1.9700000000000002, 2.364705403645833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="f6d15a90-5645-4be8-9e0a-fefbc487652b" absoluteBounds="0.75, 11.875, 2, 1.1939925130208344">
+      <DataClassMoniker Name="/QL_BanHangDienTuDataContext/laptopCategory" />
+      <nestedChildShapes>
+        <elementListCompartment Id="29ca2907-1d47-4e55-91ea-5ccd5dd0550f" absoluteBounds="0.765, 12.335, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="4328f7bb-62de-438b-b642-74062c481f93" absoluteBounds="3.5, 5.25, 2, 1.7708968098958326">
+      <DataClassMoniker Name="/QL_BanHangDienTuDataContext/staff" />
+      <nestedChildShapes>
+        <elementListCompartment Id="2a96f2db-4417-48f8-80cb-3cf9ca2d5d06" absoluteBounds="3.515, 5.71, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="67b6faab-b6e5-4f3a-afca-92d8c1e64943" absoluteBounds="11.75, 4.75, 2, 1.9631982421875005">
+      <DataClassMoniker Name="/QL_BanHangDienTuDataContext/supplier" />
+      <nestedChildShapes>
+        <elementListCompartment Id="f82c96bc-e06d-4fc2-a4f7-76b3cdc9cb07" absoluteBounds="11.765, 5.21, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="18642c7b-756e-4848-9b44-82dcbccf82c7" absoluteBounds="6.25, 4.875, 2, 1.7708968098958326">
+      <DataClassMoniker Name="/QL_BanHangDienTuDataContext/transport" />
+      <nestedChildShapes>
+        <elementListCompartment Id="af2269dc-62e1-46cb-b993-98039b67fa11" absoluteBounds="6.265, 5.335, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(1.75 : 5.25); (1.75 : 3.41429768880208); (3.5 : 3.41429768880208)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/QL_BanHangDienTuDataContext/account/account_bill" />
+      <nodes>
+        <classShapeMoniker Id="c92f0f78-6ea5-43eb-b6a5-75aeb931c317" />
+        <classShapeMoniker Id="0b8a25de-c586-40d0-a6a8-cd40f329c431" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 2.91429768880208); (5.79166666666667 : 2.91429768880208 : JumpStart); (5.95833333333333 : 2.91429768880208 : JumpEnd); (6.25 : 2.91429768880208)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/QL_BanHangDienTuDataContext/bill/bill_billInfo" />
+      <nodes>
+        <classShapeMoniker Id="0b8a25de-c586-40d0-a6a8-cd40f329c431" />
+        <classShapeMoniker Id="96c281ac-093d-4067-91d3-722bbf8b978a" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(1.75 : 7.02089680989583); (1.75 : 8.82774983723958); (3.5 : 8.82774983723958)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/QL_BanHangDienTuDataContext/account/account_customer" />
+      <nodes>
+        <classShapeMoniker Id="c92f0f78-6ea5-43eb-b6a5-75aeb931c317" />
+        <classShapeMoniker Id="4dc81046-9306-4d5a-bdce-e9c195e566b9" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 11); (5.875 : 10.625); (5.875 : 2.23839684440104); (6.25 : 2.23839684440104)]" fixedFrom="NotFixed" fixedTo="Algorithm">
+      <AssociationMoniker Name="/QL_BanHangDienTuDataContext/laptop/laptop_billInfo" />
+      <nodes>
+        <classShapeMoniker Id="bd9c06c2-fd4e-4c28-b1cb-75ca9643bc1a" />
+        <classShapeMoniker Id="96c281ac-093d-4067-91d3-722bbf8b978a" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 12.4719962565104); (3.5 : 12.4719962565104)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/QL_BanHangDienTuDataContext/laptopCategory/laptopCategory_laptop" />
+      <nodes>
+        <classShapeMoniker Id="f6d15a90-5645-4be8-9e0a-fefbc487652b" />
+        <classShapeMoniker Id="bd9c06c2-fd4e-4c28-b1cb-75ca9643bc1a" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 6.13544840494792); (3.5 : 6.13544840494792)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/QL_BanHangDienTuDataContext/account/account_staff" />
+      <nodes>
+        <classShapeMoniker Id="c92f0f78-6ea5-43eb-b6a5-75aeb931c317" />
+        <classShapeMoniker Id="4328f7bb-62de-438b-b642-74062c481f93" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(11 : 5.76044840494792); (11.75 : 5.76044840494792)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/QL_BanHangDienTuDataContext/ware_house/ware_house_supplier" />
+      <nodes>
+        <classShapeMoniker Id="8cbd82fd-e0cc-4968-bec5-9fcbade2f3d2" />
+        <classShapeMoniker Id="67b6faab-b6e5-4f3a-afca-92d8c1e64943" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(8.25 : 5.76044840494792); (9 : 5.76044840494792)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/QL_BanHangDienTuDataContext/transport/transport_ware_house" />
+      <nodes>
+        <classShapeMoniker Id="18642c7b-756e-4848-9b44-82dcbccf82c7" />
+        <classShapeMoniker Id="8cbd82fd-e0cc-4968-bec5-9fcbade2f3d2" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 4.14166486663662); (5.81607443490112 : 4.45773930153774 : JumpStart); (5.93392556509888 : 4.5755904317355 : JumpEnd); (6.0625 : 4.70416486663662); (6.0625 : 5.76044840494792); (6.25 : 5.76044840494792)]" fixedFrom="NotFixed" fixedTo="Algorithm">
+      <AssociationMoniker Name="/QL_BanHangDienTuDataContext/bill/bill_transport" />
+      <nodes>
+        <classShapeMoniker Id="0b8a25de-c586-40d0-a6a8-cd40f329c431" />
+        <classShapeMoniker Id="18642c7b-756e-4848-9b44-82dcbccf82c7" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

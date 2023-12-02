@@ -8,7 +8,7 @@ namespace ShopBanLaptop2.Models
 {
     public class DataProvider
     {
-        public string conStr = @"Data Source=HIEUHIEN;Initial Catalog=backup_16-10-2023;Integrated Security=True;Trust Server Certificate=True";
+        public string conStr = @"Data Source=HIEUHIEN;Initial Catalog=fix;Integrated Security=True;Encrypt=True;Trust Server Certificate=True";
         private static DataProvider instance;
         public static DataProvider Instance
         {

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ĐA_PTUDCore")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+38a3a19d78ef65b5abe54f8871895ae44383fb73")]
 [assembly: System.Reflection.AssemblyProductAttribute("ĐA_PTUDCore")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ĐA_PTUDCore")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
