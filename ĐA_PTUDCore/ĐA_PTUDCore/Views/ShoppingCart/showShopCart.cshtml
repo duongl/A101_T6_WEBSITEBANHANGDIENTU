@@ -1,0 +1,155 @@
+﻿@using Newtonsoft.Json
+@inject IHttpContextAccessor ctx;
+@{
+    ViewBag.Title = "showShopCart";
+    Layout = "~/Views/Shared/_secondLayout.cshtml";
+}
+
+
+@{
+    var shopcart = JsonConvert.DeserializeObject<List<ShopBanLaptop2.Models.SCartInfo>>(ctx.HttpContext.Session.GetString("shopCart")??"");
+    if (shopcart == null)
+    {
+        //display this if null
+        <div class="container">
+            <div class="row justify-content-md-center">
+                <div>
+                    <img class="" src="/icons/empty-cart.png" width="300" /><br />
+                    không có sản phẩm nào trong giỏ hàng
+                </div>
+            </div>
+            <div class="row justify-content-md-center" style="height:100px">
+                <a href="/Product/Search">quay về trang chủ</a>
+            </div>
+        </div>
+
+    }
+    else if (shopcart.Count <= 0)
+    {
+        <div class="container">
+            <div class="row justify-content-md-center">
+                <div>
+                    <img class="" src="/icons/empty-cart.png" width="300" /><br />
+                    không có sản phẩm nào trong giỏ hàng
+                </div>
+            </div>
+            <div class="row justify-content-md-center" style="height:100px">
+                <a href="/Product/Search">quay về trang chủ</a>
+            </div>
+        </div>
+    }
+    else
+    {
+
+                //display this if had product
+        <div class="container">
+            <div class="row" style="height:50px"> </div>
+
+            @{
+                if (ctx.HttpContext.Session.GetInt32("overload") == 1)
+                {
+                    <span style="color: red;">
+                    Vượt quá số lượng tồn kho!
+                    </span>
+
+                }
+}
+               
+    <div class="row">
+        <div class="col-5">Tên Máy </div>
+        <div class="col-2">Số Lượng</div>
+        <div class="col-2">Đơn giá</div>
+        <div class="col-3">Tùy Chọn</div>
+    </div>
+    <hr />
+    @foreach (var item in shopcart)
+    {
+        <div class="row">
+            <div class="col-5"><img src="/images/@item.lap.Image" width="100" /> @item.lap.Name</div>
+            <div class="col-2">@item.soLuong</div>
+            <div class="col-2">@item.lap.Price</div>
+            <div class="col-3">
+                        <a href="/Shoppingcart/minusItem/@item.lap.Id" class="btn btn-primary">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-dash-square" viewBox="0 0 16 16">
+                                <path d="M14 1a1 1 0 0 1 1 1v12a1 1 0 0 1-1 1H2a1 1 0 0 1-1-1V2a1 1 0 0 1 1-1zM2 0a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V2a2 2 0 0 0-2-2z" />
+                                <path d="M4 8a.5.5 0 0 1 .5-.5h7a.5.5 0 0 1 0 1h-7A.5.5 0 0 1 4 8" />
+                            </svg>
+                        </a> |
+                    
+
+                        <a href="/Shoppingcart/addItem/@item.lap.Id" class="btn btn-primary">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-plus-square" viewBox="0 0 16 16">
+                                <path d="M14 1a1 1 0 0 1 1 1v12a1 1 0 0 1-1 1H2a1 1 0 0 1-1-1V2a1 1 0 0 1 1-1zM2 0a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V2a2 2 0 0 0-2-2z" />
+                                <path d="M8 4a.5.5 0 0 1 .5.5v3h3a.5.5 0 0 1 0 1h-3v3a.5.5 0 0 1-1 0v-3h-3a.5.5 0 0 1 0-1h3v-3A.5.5 0 0 1 8 4" />
+                            </svg>
+                        </a> 
+
+
+                        <a style="margin-left:50px;" href="/Shoppingcart/delete/@item.lap.Id" class="btn btn-danger">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-trash" viewBox="0 0 16 16">
+                                <path d="M5.5 5.5A.5.5 0 0 1 6 6v6a.5.5 0 0 1-1 0V6a.5.5 0 0 1 .5-.5m2.5 0a.5.5 0 0 1 .5.5v6a.5.5 0 0 1-1 0V6a.5.5 0 0 1 .5-.5m3 .5a.5.5 0 0 0-1 0v6a.5.5 0 0 0 1 0z" />
+                                <path d="M14.5 3a1 1 0 0 1-1 1H13v9a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V4h-.5a1 1 0 0 1-1-1V2a1 1 0 0 1 1-1H6a1 1 0 0 1 1-1h2a1 1 0 0 1 1 1h3.5a1 1 0 0 1 1 1zM4.118 4 4 4.059V13a1 1 0 0 0 1 1h6a1 1 0 0 0 1-1V4.059L11.882 4zM2.5 3h11V2h-11z" />
+                            </svg>
+                        </a> 
+               
+            </div>
+
+        </div>
+        <hr />
+    }
+<div class="row">
+                <p class="col-6"> <b>Tổng tiền: @ViewBag.totalPrice</b>  </p>
+    <p class="col-4"> Tổng sản phẩm: @ViewBag.sl </p>
+                <p class="col-2">
+                    <a style="margin-left:50px;" href="/Shoppingcart/setNullForShopCart" class="btn btn-danger">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-trash" viewBox="0 0 16 16">
+                            <path d="M5.5 5.5A.5.5 0 0 1 6 6v6a.5.5 0 0 1-1 0V6a.5.5 0 0 1 .5-.5m2.5 0a.5.5 0 0 1 .5.5v6a.5.5 0 0 1-1 0V6a.5.5 0 0 1 .5-.5m3 .5a.5.5 0 0 0-1 0v6a.5.5 0 0 0 1 0z" />
+                            <path d="M14.5 3a1 1 0 0 1-1 1H13v9a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V4h-.5a1 1 0 0 1-1-1V2a1 1 0 0 1 1-1H6a1 1 0 0 1 1-1h2a1 1 0 0 1 1 1h3.5a1 1 0 0 1 1 1zM4.118 4 4 4.059V13a1 1 0 0 0 1 1h6a1 1 0 0 0 1-1V4.059L11.882 4zM2.5 3h11V2h-11z" />
+                        </svg> Xóa giỏ hàng
+                    </a>   
+                </p>
+</div>
+
+    @{
+                if (ctx.HttpContext.Session.GetString("account") != "" && ctx.HttpContext.Session.GetString("account")!=null)
+        {
+                    <button class="btn btn-primary" data-toggle="modal" data-target="#checkoutModal">Thanh toán</button>
+               
+        }
+        else
+        {
+                    <p class="text-danger">Vui lòng <a href="/login/login">đăng nhập</a> để thanh toán</p>
+        }
+    }
+
+    <div class="row" style="height:50px"> </div>
+</div>
+        <div class="modal fade" id="checkoutModal" tabindex="-1" role="dialog" aria-labelledby="checkoutModalLabel" aria-hidden="true">
+            <div class="modal-dialog" role="document">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h5 class="modal-title" id="checkoutModalLabel">Thanh toán</h5>
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                            <span aria-hidden="true">&times;</span>
+                        </button>
+                    </div>
+                    <div class="modal-body">
+                        Tổng thanh toán: @ViewBag.totalPrice
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-secondary" data-dismiss="modal">Hủy</button>
+
+                        @Html.ActionLink("Thanh toán", "thanhToan", "ShoppingCart", null, new
+                            {
+                                @class = "btn btn-primary"
+                            })
+                    </div>
+                </div>
+            </div>
+        </div>
+    }
+}
+
+
+
+

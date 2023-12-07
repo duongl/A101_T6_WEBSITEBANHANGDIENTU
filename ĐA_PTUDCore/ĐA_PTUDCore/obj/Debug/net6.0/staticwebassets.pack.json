@@ -1,0 +1,269 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\vuong\\Downloads\\127\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\background\\background_laptop.png",
+      "PackagePath": "staticwebassets\\background\\background_laptop.png"
+    },
+    {
+      "Id": "C:\\Users\\vuong\\Downloads\\127\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\background\\hinh1.jpg",
+      "PackagePath": "staticwebassets\\background\\hinh1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vuong\\Downloads\\127\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\banner.css",
+      "PackagePath": "staticwebassets\\banner.css"
+    },
+    {
+      "Id": "C:\\Users\\vuong\\Downloads\\127\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\banner_Image\\hinh0.png",
+      "PackagePath": "staticwebassets\\banner_Image\\hinh0.png"
+    },
+    {
+      "Id": "C:\\Users\\vuong\\Downloads\\127\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\banner_Image\\hinh0.webp",
+      "PackagePath": "staticwebassets\\banner_Image\\hinh0.webp"
+    },
+    {
+      "Id": "C:\\Users\\vuong\\Downloads\\127\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\banner_Image\\hinh1.JPG",
+      "PackagePath": "staticwebassets\\banner_Image\\hinh1.JPG"
+    },
+    {
+      "Id": "C:\\Users\\vuong\\Downloads\\127\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\banner_Image\\hinh2.JPG",
+      "PackagePath": "staticwebassets\\banner_Image\\hinh2.JPG"
+    },
+    {
+      "Id": "C:\\Users\\vuong\\Downloads\\127\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\banner_Image\\hinh3.JPG",
+      "PackagePath": "staticwebassets\\banner_Image\\hinh3.JPG"
+    },
+    {
+      "Id": "C:\\Users\\vuong\\Downloads\\127\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\banner_Image\\hinh4.JPG",
+      "PackagePath": "staticwebassets\\banner_Image\\hinh4.JPG"
+    },
+    {
+      "Id": "C:\\Users\\vuong\\Downloads\\127\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\css\\banner.css",
+      "PackagePath": "staticwebassets\\css\\banner.css"
+    },
+    {
+      "Id": "C:\\Users\\vuong\\Downloads\\127\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\icons\\CPU.JPG",
+      "PackagePath": "staticwebassets\\icons\\CPU.JPG"
+    },
+    {
+      "Id": "C:\\Users\\vuong\\Downloads\\127\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\icons\\Can_nang.JPG",
+      "PackagePath": "staticwebassets\\icons\\Can_nang.JPG"
+    },
+    {
+      "Id": "C:\\Users\\vuong\\Downloads\\127\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\icons\\Dau_tich.JPG",
+      "PackagePath": "staticwebassets\\icons\\Dau_tich.JPG"
+    },
+    {
+      "Id": "C:\\Users\\vuong\\Downloads\\127\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\icons\\Do_hoa.JPG",
+      "PackagePath": "staticwebassets\\icons\\Do_hoa.JPG"
+    },
+    {
+      "Id": "C:\\Users\\vuong\\Downloads\\127\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\icons\\SSD.JPG",
+      "PackagePath": "staticwebassets\\icons\\SSD.JPG"
+    },
+    {
+      "Id": "C:\\Users\\vuong\\Downloads\\127\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\icons\\empty-cart.png",
+      "PackagePath": "staticwebassets\\icons\\empty-cart.png"
+    },
+    {
+      "Id": "C:\\Users\\vuong\\Downloads\\127\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\icons\\man_hinh.JPG",
+      "PackagePath": "staticwebassets\\icons\\man_hinh.JPG"
+    },
+    {
+      "Id": "C:\\Users\\vuong\\Downloads\\127\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\icons\\ram.JPG",
+      "PackagePath": "staticwebassets\\icons\\ram.JPG"
+    },
+    {
+      "Id": "C:\\Users\\vuong\\Downloads\\127\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\images\\Dell Inspiron 15.png",
+      "PackagePath": "staticwebassets\\images\\Dell Inspiron 15.png"
+    },
+    {
+      "Id": "C:\\Users\\vuong\\Downloads\\127\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\images\\Laptop ASUS ZenBook.png",
+      "PackagePath": "staticwebassets\\images\\Laptop ASUS ZenBook.png"
+    },
+    {
+      "Id": "C:\\Users\\vuong\\Downloads\\127\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\images\\Laptop Asus Vivobook Go 15.png",
+      "PackagePath": "staticwebassets\\images\\Laptop Asus Vivobook Go 15.png"
+    },
+    {
+      "Id": "C:\\Users\\vuong\\Downloads\\127\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\images\\Laptop Dell Oled 12.png",
+      "PackagePath": "staticwebassets\\images\\Laptop Dell Oled 12.png"
+    },
+    {
+      "Id": "C:\\Users\\vuong\\Downloads\\127\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\images\\Laptop MSI Gaming Bravo 15.png",
+      "PackagePath": "staticwebassets\\images\\Laptop MSI Gaming Bravo 15.png"
+    },
+    {
+      "Id": "C:\\Users\\vuong\\Downloads\\127\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\images\\acer-aspire-3-a315-54-56-den-dd.png",
+      "PackagePath": "staticwebassets\\images\\acer-aspire-3-a315-54-56-den-dd.png"
+    },
+    {
+      "Id": "C:\\Users\\vuong\\Downloads\\127\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\images\\acer-aspire-gaming-a715-42g-r1sb-r5-5500u-den-dd.png",
+      "PackagePath": "staticwebassets\\images\\acer-aspire-gaming-a715-42g-r1sb-r5-5500u-den-dd.png"
+    },
+    {
+      "Id": "C:\\Users\\vuong\\Downloads\\127\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\images\\acer-nitro-gaming-an515-45-den-dd.png",
+      "PackagePath": "staticwebassets\\images\\acer-nitro-gaming-an515-45-den-dd.png"
+    },
+    {
+      "Id": "C:\\Users\\vuong\\Downloads\\127\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\images\\acer-nitro-gaming-an515-57.png",
+      "PackagePath": "staticwebassets\\images\\acer-nitro-gaming-an515-57.png"
+    },
+    {
+      "Id": "C:\\Users\\vuong\\Downloads\\127\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\images\\acer-predator-helios-gaming-ph315-54-den-rtx-3060-dd.png",
+      "PackagePath": "staticwebassets\\images\\acer-predator-helios-gaming-ph315-54-den-rtx-3060-dd.png"
+    },
+    {
+      "Id": "C:\\Users\\vuong\\Downloads\\127\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\images\\acer-swift-3-sf314-43-r4x3-r5-5500u-bac-dd.png",
+      "PackagePath": "staticwebassets\\images\\acer-swift-3-sf314-43-r4x3-r5-5500u-bac-dd.png"
+    },
+    {
+      "Id": "C:\\Users\\vuong\\Downloads\\127\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\images\\acer-travel-mate-b3-den-dd.png",
+      "PackagePath": "staticwebassets\\images\\acer-travel-mate-b3-den-dd.png"
+    },
+    {
+      "Id": "C:\\Users\\vuong\\Downloads\\127\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\images\\asus-gaming-zephyrus-g513-xam-led-4zone-dd.png",
+      "PackagePath": "staticwebassets\\images\\asus-gaming-zephyrus-g513-xam-led-4zone-dd.png"
+    },
+    {
+      "Id": "C:\\Users\\vuong\\Downloads\\127\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\images\\asus-gaming-zephyrus-ga401-xam-noled-dd.png",
+      "PackagePath": "staticwebassets\\images\\asus-gaming-zephyrus-ga401-xam-noled-dd.png"
+    },
+    {
+      "Id": "C:\\Users\\vuong\\Downloads\\127\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\images\\asus-tuf-gaming-fa506ihr.png",
+      "PackagePath": "staticwebassets\\images\\asus-tuf-gaming-fa506ihr.png"
+    },
+    {
+      "Id": "C:\\Users\\vuong\\Downloads\\127\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\images\\asus-tuf-gaming-fa507-den-dd-rtx3050.png",
+      "PackagePath": "staticwebassets\\images\\asus-tuf-gaming-fa507-den-dd-rtx3050.png"
+    },
+    {
+      "Id": "C:\\Users\\vuong\\Downloads\\127\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\images\\asus-tuf-gaming-fx506lh.png",
+      "PackagePath": "staticwebassets\\images\\asus-tuf-gaming-fx506lh.png"
+    },
+    {
+      "Id": "C:\\Users\\vuong\\Downloads\\127\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\images\\asus-vivobook-a415-bac-800x800-dd.png",
+      "PackagePath": "staticwebassets\\images\\asus-vivobook-a415-bac-800x800-dd.png"
+    },
+    {
+      "Id": "C:\\Users\\vuong\\Downloads\\127\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\images\\asus-vivobook-x415-print-bac-dd.png",
+      "PackagePath": "staticwebassets\\images\\asus-vivobook-x415-print-bac-dd.png"
+    },
+    {
+      "Id": "C:\\Users\\vuong\\Downloads\\127\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\images\\asus-zenbook-ux425ja-xam-dd.png",
+      "PackagePath": "staticwebassets\\images\\asus-zenbook-ux425ja-xam-dd.png"
+    },
+    {
+      "Id": "C:\\Users\\vuong\\Downloads\\127\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\images\\dell-xps-13-plus-9320-bac-dd.png",
+      "PackagePath": "staticwebassets\\images\\dell-xps-13-plus-9320-bac-dd.png"
+    },
+    {
+      "Id": "C:\\Users\\vuong\\Downloads\\127\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\images\\gigabyte-gaming-aorus-17-xe5-73vn534gh-i7-12700h-rtx3070ti-den-dd.png",
+      "PackagePath": "staticwebassets\\images\\gigabyte-gaming-aorus-17-xe5-73vn534gh-i7-12700h-rtx3070ti-den-dd.png"
+    },
+    {
+      "Id": "C:\\Users\\vuong\\Downloads\\127\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\images\\gigabyte-gaming-g5-ge-i5-12500h-rtx3050-dd.png",
+      "PackagePath": "staticwebassets\\images\\gigabyte-gaming-g5-ge-i5-12500h-rtx3050-dd.png"
+    },
+    {
+      "Id": "C:\\Users\\vuong\\Downloads\\127\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\images\\gigabyte-gaming-g5.png",
+      "PackagePath": "staticwebassets\\images\\gigabyte-gaming-g5.png"
+    },
+    {
+      "Id": "C:\\Users\\vuong\\Downloads\\127\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\images\\gigabyte-u4-ud-xam-dd-bh.png",
+      "PackagePath": "staticwebassets\\images\\gigabyte-u4-ud-xam-dd-bh.png"
+    },
+    {
+      "Id": "C:\\Users\\vuong\\Downloads\\127\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\images\\hp-15s-fq-bac-win11-dd.png",
+      "PackagePath": "staticwebassets\\images\\hp-15s-fq-bac-win11-dd.png"
+    },
+    {
+      "Id": "C:\\Users\\vuong\\Downloads\\127\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\images\\hp-gaming-victus-16.png",
+      "PackagePath": "staticwebassets\\images\\hp-gaming-victus-16.png"
+    },
+    {
+      "Id": "C:\\Users\\vuong\\Downloads\\127\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\images\\lenovo-ideapad-3-i3-1005g1-nk-xam-ddjpg.png",
+      "PackagePath": "staticwebassets\\images\\lenovo-ideapad-3-i3-1005g1-nk-xam-ddjpg.png"
+    },
+    {
+      "Id": "C:\\Users\\vuong\\Downloads\\127\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\images\\lenovo-ideapad-gaming-3-15iah7.png",
+      "PackagePath": "staticwebassets\\images\\lenovo-ideapad-gaming-3-15iah7.png"
+    },
+    {
+      "Id": "C:\\Users\\vuong\\Downloads\\127\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\images\\lenovo-legion-5-15arh7-xam-dd.png",
+      "PackagePath": "staticwebassets\\images\\lenovo-legion-5-15arh7-xam-dd.png"
+    },
+    {
+      "Id": "C:\\Users\\vuong\\Downloads\\127\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\images\\lenovo-thinkbook-14s-g2-itl-xam-dd.png",
+      "PackagePath": "staticwebassets\\images\\lenovo-thinkbook-14s-g2-itl-xam-dd.png"
+    },
+    {
+      "Id": "C:\\Users\\vuong\\Downloads\\127\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\images\\lenovo-thinkpad-e14-gen-4-i5-1235u-den-dd.png",
+      "PackagePath": "staticwebassets\\images\\lenovo-thinkpad-e14-gen-4-i5-1235u-den-dd.png"
+    },
+    {
+      "Id": "C:\\Users\\vuong\\Downloads\\127\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\images\\lenovo-yoga-slim-7-pro-14ihu5-bac-dd-oled.png",
+      "PackagePath": "staticwebassets\\images\\lenovo-yoga-slim-7-pro-14ihu5-bac-dd-oled.png"
+    },
+    {
+      "Id": "C:\\Users\\vuong\\Downloads\\127\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\images\\lg-gram-16-xam-dd.png",
+      "PackagePath": "staticwebassets\\images\\lg-gram-16-xam-dd.png"
+    },
+    {
+      "Id": "C:\\Users\\vuong\\Downloads\\127\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\images\\macbook-pro-16-2021-xam-dd.png",
+      "PackagePath": "staticwebassets\\images\\macbook-pro-16-2021-xam-dd.png"
+    },
+    {
+      "Id": "C:\\Users\\vuong\\Downloads\\127\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\images\\mainBackground.jpg",
+      "PackagePath": "staticwebassets\\images\\mainBackground.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vuong\\Downloads\\127\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\images\\mba-2020-gold-dd.png",
+      "PackagePath": "staticwebassets\\images\\mba-2020-gold-dd.png"
+    },
+    {
+      "Id": "C:\\Users\\vuong\\Downloads\\127\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\images\\mbp-2020-m1-gray-dd-1.png",
+      "PackagePath": "staticwebassets\\images\\mbp-2020-m1-gray-dd-1.png"
+    },
+    {
+      "Id": "C:\\Users\\vuong\\Downloads\\127\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\images\\microsoft-surface-go-dd-3mau.png",
+      "PackagePath": "staticwebassets\\images\\microsoft-surface-go-dd-3mau.png"
+    },
+    {
+      "Id": "C:\\Users\\vuong\\Downloads\\127\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\images\\microsoft-surface-pro-7-1035g4-bac-dd.png",
+      "PackagePath": "staticwebassets\\images\\microsoft-surface-pro-7-1035g4-bac-dd.png"
+    },
+    {
+      "Id": "C:\\Users\\vuong\\Downloads\\127\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\images\\microsoft-surface-pro-7-plus-bac-dd.png",
+      "PackagePath": "staticwebassets\\images\\microsoft-surface-pro-7-plus-bac-dd.png"
+    },
+    {
+      "Id": "C:\\Users\\vuong\\Downloads\\127\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\images\\msi-gaming-gf63.png",
+      "PackagePath": "staticwebassets\\images\\msi-gaming-gf63.png"
+    },
+    {
+      "Id": "C:\\Users\\vuong\\Downloads\\127\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\images\\msi-gf63-thin-den-dd.png",
+      "PackagePath": "staticwebassets\\images\\msi-gf63-thin-den-dd.png"
+    },
+    {
+      "Id": "C:\\Users\\vuong\\Downloads\\127\\ĐA_PTUDCore\\ĐA_PTUDCore\\wwwroot\\images\\msi-modern-14-xam-dd.png",
+      "PackagePath": "staticwebassets\\images\\msi-modern-14-xam-dd.png"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.ĐA_PTUDCore.props",
+      "PackagePath": "build\\ĐA_PTUDCore.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.ĐA_PTUDCore.props",
+      "PackagePath": "buildMultiTargeting\\ĐA_PTUDCore.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.ĐA_PTUDCore.props",
+      "PackagePath": "buildTransitive\\ĐA_PTUDCore.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.ĐA_PTUDCore.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

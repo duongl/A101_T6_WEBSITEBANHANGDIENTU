@@ -1,0 +1,649 @@
+D:\GITSOURCE\Web_PTUD\Web_PTUD\ĐA_PTUDCore\obj\Debug\net6.0\ĐA_PTUDCore.csproj.AssemblyReference.cache
+D:\GITSOURCE\Web_PTUD\Web_PTUD\ĐA_PTUDCore\obj\Debug\net6.0\ĐA_PTUDCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\GITSOURCE\Web_PTUD\Web_PTUD\ĐA_PTUDCore\obj\Debug\net6.0\ĐA_PTUDCore.AssemblyInfoInputs.cache
+D:\GITSOURCE\Web_PTUD\Web_PTUD\ĐA_PTUDCore\obj\Debug\net6.0\ĐA_PTUDCore.AssemblyInfo.cs
+D:\GITSOURCE\Web_PTUD\Web_PTUD\ĐA_PTUDCore\obj\Debug\net6.0\ĐA_PTUDCore.csproj.CoreCompileInputs.cache
+D:\GITSOURCE\Web_PTUD\Web_PTUD\ĐA_PTUDCore\obj\Debug\net6.0\ĐA_PTUDCore.MvcApplicationPartsAssemblyInfo.cs
+D:\GITSOURCE\Web_PTUD\Web_PTUD\ĐA_PTUDCore\obj\Debug\net6.0\ĐA_PTUDCore.MvcApplicationPartsAssemblyInfo.cache
+D:\GITSOURCE\Web_PTUD\Web_PTUD\ĐA_PTUDCore\obj\Debug\net6.0\ĐA_PTUDCore.RazorAssemblyInfo.cache
+D:\GITSOURCE\Web_PTUD\Web_PTUD\ĐA_PTUDCore\obj\Debug\net6.0\ĐA_PTUDCore.RazorAssemblyInfo.cs
+D:\GITSOURCE\Web_PTUD\Web_PTUD\ĐA_PTUDCore\bin\Debug\net6.0\appsettings.Development.json
+D:\GITSOURCE\Web_PTUD\Web_PTUD\ĐA_PTUDCore\bin\Debug\net6.0\appsettings.json
+D:\GITSOURCE\Web_PTUD\Web_PTUD\ĐA_PTUDCore\bin\Debug\net6.0\ĐA_PTUDCore.exe
+D:\GITSOURCE\Web_PTUD\Web_PTUD\ĐA_PTUDCore\bin\Debug\net6.0\ĐA_PTUDCore.deps.json
+D:\GITSOURCE\Web_PTUD\Web_PTUD\ĐA_PTUDCore\bin\Debug\net6.0\ĐA_PTUDCore.runtimeconfig.json
+D:\GITSOURCE\Web_PTUD\Web_PTUD\ĐA_PTUDCore\bin\Debug\net6.0\ĐA_PTUDCore.dll
+D:\GITSOURCE\Web_PTUD\Web_PTUD\ĐA_PTUDCore\bin\Debug\net6.0\ĐA_PTUDCore.pdb
+D:\GITSOURCE\Web_PTUD\Web_PTUD\ĐA_PTUDCore\bin\Debug\net6.0\System.Web.Mvc.dll
+D:\GITSOURCE\Web_PTUD\Web_PTUD\ĐA_PTUDCore\bin\Debug\net6.0\System.Web.Razor.dll
+D:\GITSOURCE\Web_PTUD\Web_PTUD\ĐA_PTUDCore\bin\Debug\net6.0\System.Web.Helpers.dll
+D:\GITSOURCE\Web_PTUD\Web_PTUD\ĐA_PTUDCore\bin\Debug\net6.0\System.Web.WebPages.Deployment.dll
+D:\GITSOURCE\Web_PTUD\Web_PTUD\ĐA_PTUDCore\bin\Debug\net6.0\System.Web.WebPages.Razor.dll
+D:\GITSOURCE\Web_PTUD\Web_PTUD\ĐA_PTUDCore\bin\Debug\net6.0\System.Web.WebPages.dll
+D:\GITSOURCE\Web_PTUD\Web_PTUD\ĐA_PTUDCore\bin\Debug\net6.0\Microsoft.AspNetCore.SystemWebAdapters.dll
+D:\GITSOURCE\Web_PTUD\Web_PTUD\ĐA_PTUDCore\bin\Debug\net6.0\Microsoft.AspNetCore.SystemWebAdapters.Abstractions.dll
+D:\GITSOURCE\Web_PTUD\Web_PTUD\ĐA_PTUDCore\bin\Debug\net6.0\Microsoft.AspNetCore.SystemWebAdapters.CoreServices.dll
+D:\GITSOURCE\Web_PTUD\Web_PTUD\ĐA_PTUDCore\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\GITSOURCE\Web_PTUD\Web_PTUD\ĐA_PTUDCore\bin\Debug\net6.0\Microsoft.Bcl.TimeProvider.dll
+D:\GITSOURCE\Web_PTUD\Web_PTUD\ĐA_PTUDCore\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\GITSOURCE\Web_PTUD\Web_PTUD\ĐA_PTUDCore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\GITSOURCE\Web_PTUD\Web_PTUD\ĐA_PTUDCore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\GITSOURCE\Web_PTUD\Web_PTUD\ĐA_PTUDCore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\GITSOURCE\Web_PTUD\Web_PTUD\ĐA_PTUDCore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\GITSOURCE\Web_PTUD\Web_PTUD\ĐA_PTUDCore\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\GITSOURCE\Web_PTUD\Web_PTUD\ĐA_PTUDCore\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\GITSOURCE\Web_PTUD\Web_PTUD\ĐA_PTUDCore\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\GITSOURCE\Web_PTUD\Web_PTUD\ĐA_PTUDCore\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\GITSOURCE\Web_PTUD\Web_PTUD\ĐA_PTUDCore\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\GITSOURCE\Web_PTUD\Web_PTUD\ĐA_PTUDCore\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\GITSOURCE\Web_PTUD\Web_PTUD\ĐA_PTUDCore\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\GITSOURCE\Web_PTUD\Web_PTUD\ĐA_PTUDCore\bin\Debug\net6.0\Microsoft.Web.Infrastructure.dll
+D:\GITSOURCE\Web_PTUD\Web_PTUD\ĐA_PTUDCore\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\GITSOURCE\Web_PTUD\Web_PTUD\ĐA_PTUDCore\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\GITSOURCE\Web_PTUD\Web_PTUD\ĐA_PTUDCore\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\GITSOURCE\Web_PTUD\Web_PTUD\ĐA_PTUDCore\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\GITSOURCE\Web_PTUD\Web_PTUD\ĐA_PTUDCore\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\GITSOURCE\Web_PTUD\Web_PTUD\ĐA_PTUDCore\bin\Debug\net6.0\System.IO.Hashing.dll
+D:\GITSOURCE\Web_PTUD\Web_PTUD\ĐA_PTUDCore\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\GITSOURCE\Web_PTUD\Web_PTUD\ĐA_PTUDCore\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\GITSOURCE\Web_PTUD\Web_PTUD\ĐA_PTUDCore\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\GITSOURCE\Web_PTUD\Web_PTUD\ĐA_PTUDCore\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\GITSOURCE\Web_PTUD\Web_PTUD\ĐA_PTUDCore\bin\Debug\net6.0\Yarp.ReverseProxy.dll
+D:\GITSOURCE\Web_PTUD\Web_PTUD\ĐA_PTUDCore\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\GITSOURCE\Web_PTUD\Web_PTUD\ĐA_PTUDCore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\GITSOURCE\Web_PTUD\Web_PTUD\ĐA_PTUDCore\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GITSOURCE\Web_PTUD\Web_PTUD\ĐA_PTUDCore\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GITSOURCE\Web_PTUD\Web_PTUD\ĐA_PTUDCore\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GITSOURCE\Web_PTUD\Web_PTUD\ĐA_PTUDCore\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GITSOURCE\Web_PTUD\Web_PTUD\ĐA_PTUDCore\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\GITSOURCE\Web_PTUD\Web_PTUD\ĐA_PTUDCore\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\GITSOURCE\Web_PTUD\Web_PTUD\ĐA_PTUDCore\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\GITSOURCE\Web_PTUD\Web_PTUD\ĐA_PTUDCore\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\GITSOURCE\Web_PTUD\Web_PTUD\ĐA_PTUDCore\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\GITSOURCE\Web_PTUD\Web_PTUD\ĐA_PTUDCore\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\GITSOURCE\Web_PTUD\Web_PTUD\ĐA_PTUDCore\obj\Debug\net6.0\staticwebassets.build.json
+D:\GITSOURCE\Web_PTUD\Web_PTUD\ĐA_PTUDCore\obj\Debug\net6.0\staticwebassets.development.json
+D:\GITSOURCE\Web_PTUD\Web_PTUD\ĐA_PTUDCore\obj\Debug\net6.0\staticwebassets\msbuild.ĐA_PTUDCore.Microsoft.AspNetCore.StaticWebAssets.props
+D:\GITSOURCE\Web_PTUD\Web_PTUD\ĐA_PTUDCore\obj\Debug\net6.0\staticwebassets\msbuild.build.ĐA_PTUDCore.props
+D:\GITSOURCE\Web_PTUD\Web_PTUD\ĐA_PTUDCore\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ĐA_PTUDCore.props
+D:\GITSOURCE\Web_PTUD\Web_PTUD\ĐA_PTUDCore\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ĐA_PTUDCore.props
+D:\GITSOURCE\Web_PTUD\Web_PTUD\ĐA_PTUDCore\obj\Debug\net6.0\staticwebassets.pack.json
+D:\GITSOURCE\Web_PTUD\Web_PTUD\ĐA_PTUDCore\obj\Debug\net6.0\scopedcss\bundle\ĐA_PTUDCore.styles.css
+D:\GITSOURCE\Web_PTUD\Web_PTUD\ĐA_PTUDCore\obj\Debug\net6.0\ĐA_PTUDCore.csproj.CopyComplete
+D:\GITSOURCE\Web_PTUD\Web_PTUD\ĐA_PTUDCore\obj\Debug\net6.0\ĐA_PTUDCore.dll
+D:\GITSOURCE\Web_PTUD\Web_PTUD\ĐA_PTUDCore\obj\Debug\net6.0\refint\ĐA_PTUDCore.dll
+D:\GITSOURCE\Web_PTUD\Web_PTUD\ĐA_PTUDCore\obj\Debug\net6.0\ĐA_PTUDCore.pdb
+D:\GITSOURCE\Web_PTUD\Web_PTUD\ĐA_PTUDCore\obj\Debug\net6.0\ĐA_PTUDCore.genruntimeconfig.cache
+D:\GITSOURCE\Web_PTUD\Web_PTUD\ĐA_PTUDCore\obj\Debug\net6.0\ref\ĐA_PTUDCore.dll
+D:\GITSOURCE\Web_PTUD\Web_PTUD\ĐA_PTUDCore\bin\Debug\net6.0\ĐA_PTUDCore.staticwebassets.runtime.json
+D:\GITSOURCE\Web_PTUD\Web_PTUD\ĐA_PTUDCore\bin\Debug\net6.0\NReco.PdfGenerator.dll
+D:\GITSOURCE\Web_PTUD\Web_PTUD\ĐA_PTUDCore\obj\Debug\net6.0\NuGet\9C06586142DC19B31D8ED883907E31615D365760\MimeTypes\2.4.1\MimeTypes.cs
+D:\GITSOURCE\Web_PTUD\Web_PTUD\ĐA_PTUDCore\bin\Debug\net6.0\Assets\data.json
+C:\Users\vuong\Downloads\Visual Studio Project\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\vuong\Downloads\Visual Studio Project\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\appsettings.json
+C:\Users\vuong\Downloads\Visual Studio Project\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\Assets\data.json
+C:\Users\vuong\Downloads\Visual Studio Project\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\ĐA_PTUDCore.staticwebassets.runtime.json
+C:\Users\vuong\Downloads\Visual Studio Project\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\ĐA_PTUDCore.exe
+C:\Users\vuong\Downloads\Visual Studio Project\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\ĐA_PTUDCore.deps.json
+C:\Users\vuong\Downloads\Visual Studio Project\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\ĐA_PTUDCore.runtimeconfig.json
+C:\Users\vuong\Downloads\Visual Studio Project\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\ĐA_PTUDCore.dll
+C:\Users\vuong\Downloads\Visual Studio Project\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\ĐA_PTUDCore.pdb
+C:\Users\vuong\Downloads\Visual Studio Project\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\System.Web.Mvc.dll
+C:\Users\vuong\Downloads\Visual Studio Project\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\System.Web.Razor.dll
+C:\Users\vuong\Downloads\Visual Studio Project\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\System.Web.Helpers.dll
+C:\Users\vuong\Downloads\Visual Studio Project\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\System.Web.WebPages.Deployment.dll
+C:\Users\vuong\Downloads\Visual Studio Project\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\System.Web.WebPages.Razor.dll
+C:\Users\vuong\Downloads\Visual Studio Project\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\System.Web.WebPages.dll
+C:\Users\vuong\Downloads\Visual Studio Project\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\Microsoft.AspNetCore.SystemWebAdapters.dll
+C:\Users\vuong\Downloads\Visual Studio Project\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\Microsoft.AspNetCore.SystemWebAdapters.Abstractions.dll
+C:\Users\vuong\Downloads\Visual Studio Project\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\Microsoft.AspNetCore.SystemWebAdapters.CoreServices.dll
+C:\Users\vuong\Downloads\Visual Studio Project\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\vuong\Downloads\Visual Studio Project\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\Microsoft.Bcl.TimeProvider.dll
+C:\Users\vuong\Downloads\Visual Studio Project\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\vuong\Downloads\Visual Studio Project\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\vuong\Downloads\Visual Studio Project\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\vuong\Downloads\Visual Studio Project\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\vuong\Downloads\Visual Studio Project\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\vuong\Downloads\Visual Studio Project\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\vuong\Downloads\Visual Studio Project\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\vuong\Downloads\Visual Studio Project\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\vuong\Downloads\Visual Studio Project\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\vuong\Downloads\Visual Studio Project\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\vuong\Downloads\Visual Studio Project\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\vuong\Downloads\Visual Studio Project\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\vuong\Downloads\Visual Studio Project\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\Microsoft.Web.Infrastructure.dll
+C:\Users\vuong\Downloads\Visual Studio Project\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\vuong\Downloads\Visual Studio Project\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\vuong\Downloads\Visual Studio Project\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\NReco.PdfGenerator.dll
+C:\Users\vuong\Downloads\Visual Studio Project\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\vuong\Downloads\Visual Studio Project\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\vuong\Downloads\Visual Studio Project\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\vuong\Downloads\Visual Studio Project\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\System.IO.Hashing.dll
+C:\Users\vuong\Downloads\Visual Studio Project\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\vuong\Downloads\Visual Studio Project\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\vuong\Downloads\Visual Studio Project\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\vuong\Downloads\Visual Studio Project\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\vuong\Downloads\Visual Studio Project\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\Yarp.ReverseProxy.dll
+C:\Users\vuong\Downloads\Visual Studio Project\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\vuong\Downloads\Visual Studio Project\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\vuong\Downloads\Visual Studio Project\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vuong\Downloads\Visual Studio Project\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vuong\Downloads\Visual Studio Project\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vuong\Downloads\Visual Studio Project\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vuong\Downloads\Visual Studio Project\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\vuong\Downloads\Visual Studio Project\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\vuong\Downloads\Visual Studio Project\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\vuong\Downloads\Visual Studio Project\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\vuong\Downloads\Visual Studio Project\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\vuong\Downloads\Visual Studio Project\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\vuong\Downloads\Visual Studio Project\ĐA_PTUDCore\ĐA_PTUDCore\obj\Debug\net6.0\NuGet\6850887D44E6FD91754FD8F9599234BBCCED1EE5\MimeTypes\2.4.1\MimeTypes.cs
+C:\Users\vuong\Downloads\Visual Studio Project\ĐA_PTUDCore\ĐA_PTUDCore\obj\Debug\net6.0\ĐA_PTUDCore.csproj.AssemblyReference.cache
+C:\Users\vuong\Downloads\Visual Studio Project\ĐA_PTUDCore\ĐA_PTUDCore\obj\Debug\net6.0\ĐA_PTUDCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vuong\Downloads\Visual Studio Project\ĐA_PTUDCore\ĐA_PTUDCore\obj\Debug\net6.0\ĐA_PTUDCore.AssemblyInfoInputs.cache
+C:\Users\vuong\Downloads\Visual Studio Project\ĐA_PTUDCore\ĐA_PTUDCore\obj\Debug\net6.0\ĐA_PTUDCore.AssemblyInfo.cs
+C:\Users\vuong\Downloads\Visual Studio Project\ĐA_PTUDCore\ĐA_PTUDCore\obj\Debug\net6.0\ĐA_PTUDCore.csproj.CoreCompileInputs.cache
+C:\Users\vuong\Downloads\Visual Studio Project\ĐA_PTUDCore\ĐA_PTUDCore\obj\Debug\net6.0\ĐA_PTUDCore.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\vuong\Downloads\Visual Studio Project\ĐA_PTUDCore\ĐA_PTUDCore\obj\Debug\net6.0\ĐA_PTUDCore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vuong\Downloads\Visual Studio Project\ĐA_PTUDCore\ĐA_PTUDCore\obj\Debug\net6.0\ĐA_PTUDCore.RazorAssemblyInfo.cache
+C:\Users\vuong\Downloads\Visual Studio Project\ĐA_PTUDCore\ĐA_PTUDCore\obj\Debug\net6.0\ĐA_PTUDCore.RazorAssemblyInfo.cs
+C:\Users\vuong\Downloads\Visual Studio Project\ĐA_PTUDCore\ĐA_PTUDCore\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\vuong\Downloads\Visual Studio Project\ĐA_PTUDCore\ĐA_PTUDCore\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\vuong\Downloads\Visual Studio Project\ĐA_PTUDCore\ĐA_PTUDCore\obj\Debug\net6.0\staticwebassets\msbuild.ĐA_PTUDCore.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\vuong\Downloads\Visual Studio Project\ĐA_PTUDCore\ĐA_PTUDCore\obj\Debug\net6.0\staticwebassets\msbuild.build.ĐA_PTUDCore.props
+C:\Users\vuong\Downloads\Visual Studio Project\ĐA_PTUDCore\ĐA_PTUDCore\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ĐA_PTUDCore.props
+C:\Users\vuong\Downloads\Visual Studio Project\ĐA_PTUDCore\ĐA_PTUDCore\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ĐA_PTUDCore.props
+C:\Users\vuong\Downloads\Visual Studio Project\ĐA_PTUDCore\ĐA_PTUDCore\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\vuong\Downloads\Visual Studio Project\ĐA_PTUDCore\ĐA_PTUDCore\obj\Debug\net6.0\scopedcss\bundle\ĐA_PTUDCore.styles.css
+C:\Users\vuong\Downloads\Visual Studio Project\ĐA_PTUDCore\ĐA_PTUDCore\obj\Debug\net6.0\ĐA_PTUDCore.csproj.CopyComplete
+C:\Users\vuong\Downloads\Visual Studio Project\ĐA_PTUDCore\ĐA_PTUDCore\obj\Debug\net6.0\ĐA_PTUDCore.dll
+C:\Users\vuong\Downloads\Visual Studio Project\ĐA_PTUDCore\ĐA_PTUDCore\obj\Debug\net6.0\refint\ĐA_PTUDCore.dll
+C:\Users\vuong\Downloads\Visual Studio Project\ĐA_PTUDCore\ĐA_PTUDCore\obj\Debug\net6.0\ĐA_PTUDCore.pdb
+C:\Users\vuong\Downloads\Visual Studio Project\ĐA_PTUDCore\ĐA_PTUDCore\obj\Debug\net6.0\ĐA_PTUDCore.genruntimeconfig.cache
+C:\Users\vuong\Downloads\Visual Studio Project\ĐA_PTUDCore\ĐA_PTUDCore\obj\Debug\net6.0\ref\ĐA_PTUDCore.dll
+D:\GITSOURCE\Web_PTUD\Web_PTUD\new\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\appsettings.Development.json
+D:\GITSOURCE\Web_PTUD\Web_PTUD\new\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\appsettings.json
+D:\GITSOURCE\Web_PTUD\Web_PTUD\new\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\Assets\data.json
+D:\GITSOURCE\Web_PTUD\Web_PTUD\new\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\ĐA_PTUDCore.staticwebassets.runtime.json
+D:\GITSOURCE\Web_PTUD\Web_PTUD\new\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\ĐA_PTUDCore.exe
+D:\GITSOURCE\Web_PTUD\Web_PTUD\new\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\ĐA_PTUDCore.deps.json
+D:\GITSOURCE\Web_PTUD\Web_PTUD\new\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\ĐA_PTUDCore.runtimeconfig.json
+D:\GITSOURCE\Web_PTUD\Web_PTUD\new\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\ĐA_PTUDCore.dll
+D:\GITSOURCE\Web_PTUD\Web_PTUD\new\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\ĐA_PTUDCore.pdb
+D:\GITSOURCE\Web_PTUD\Web_PTUD\new\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\System.Web.Mvc.dll
+D:\GITSOURCE\Web_PTUD\Web_PTUD\new\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\System.Web.Razor.dll
+D:\GITSOURCE\Web_PTUD\Web_PTUD\new\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\System.Web.Helpers.dll
+D:\GITSOURCE\Web_PTUD\Web_PTUD\new\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\System.Web.WebPages.Deployment.dll
+D:\GITSOURCE\Web_PTUD\Web_PTUD\new\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\System.Web.WebPages.Razor.dll
+D:\GITSOURCE\Web_PTUD\Web_PTUD\new\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\System.Web.WebPages.dll
+D:\GITSOURCE\Web_PTUD\Web_PTUD\new\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\Microsoft.AspNetCore.SystemWebAdapters.dll
+D:\GITSOURCE\Web_PTUD\Web_PTUD\new\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\Microsoft.AspNetCore.SystemWebAdapters.Abstractions.dll
+D:\GITSOURCE\Web_PTUD\Web_PTUD\new\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\Microsoft.AspNetCore.SystemWebAdapters.CoreServices.dll
+D:\GITSOURCE\Web_PTUD\Web_PTUD\new\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\GITSOURCE\Web_PTUD\Web_PTUD\new\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\Microsoft.Bcl.TimeProvider.dll
+D:\GITSOURCE\Web_PTUD\Web_PTUD\new\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\GITSOURCE\Web_PTUD\Web_PTUD\new\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\GITSOURCE\Web_PTUD\Web_PTUD\new\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\GITSOURCE\Web_PTUD\Web_PTUD\new\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\GITSOURCE\Web_PTUD\Web_PTUD\new\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\GITSOURCE\Web_PTUD\Web_PTUD\new\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\GITSOURCE\Web_PTUD\Web_PTUD\new\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\GITSOURCE\Web_PTUD\Web_PTUD\new\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\GITSOURCE\Web_PTUD\Web_PTUD\new\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\GITSOURCE\Web_PTUD\Web_PTUD\new\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\GITSOURCE\Web_PTUD\Web_PTUD\new\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\GITSOURCE\Web_PTUD\Web_PTUD\new\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\GITSOURCE\Web_PTUD\Web_PTUD\new\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\Microsoft.Web.Infrastructure.dll
+D:\GITSOURCE\Web_PTUD\Web_PTUD\new\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\GITSOURCE\Web_PTUD\Web_PTUD\new\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\GITSOURCE\Web_PTUD\Web_PTUD\new\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\NReco.PdfGenerator.dll
+D:\GITSOURCE\Web_PTUD\Web_PTUD\new\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\GITSOURCE\Web_PTUD\Web_PTUD\new\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\GITSOURCE\Web_PTUD\Web_PTUD\new\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\GITSOURCE\Web_PTUD\Web_PTUD\new\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\System.IO.Hashing.dll
+D:\GITSOURCE\Web_PTUD\Web_PTUD\new\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\GITSOURCE\Web_PTUD\Web_PTUD\new\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\GITSOURCE\Web_PTUD\Web_PTUD\new\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\GITSOURCE\Web_PTUD\Web_PTUD\new\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\GITSOURCE\Web_PTUD\Web_PTUD\new\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\Yarp.ReverseProxy.dll
+D:\GITSOURCE\Web_PTUD\Web_PTUD\new\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\GITSOURCE\Web_PTUD\Web_PTUD\new\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\GITSOURCE\Web_PTUD\Web_PTUD\new\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GITSOURCE\Web_PTUD\Web_PTUD\new\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GITSOURCE\Web_PTUD\Web_PTUD\new\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GITSOURCE\Web_PTUD\Web_PTUD\new\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GITSOURCE\Web_PTUD\Web_PTUD\new\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\GITSOURCE\Web_PTUD\Web_PTUD\new\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\GITSOURCE\Web_PTUD\Web_PTUD\new\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\GITSOURCE\Web_PTUD\Web_PTUD\new\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\GITSOURCE\Web_PTUD\Web_PTUD\new\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\GITSOURCE\Web_PTUD\Web_PTUD\new\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\GITSOURCE\Web_PTUD\Web_PTUD\new\ĐA_PTUDCore\ĐA_PTUDCore\obj\Debug\net6.0\NuGet\C724195EC49C7DE5C07F50C2504CB2791C60958C\MimeTypes\2.4.1\MimeTypes.cs
+D:\GITSOURCE\Web_PTUD\Web_PTUD\new\ĐA_PTUDCore\ĐA_PTUDCore\obj\Debug\net6.0\ĐA_PTUDCore.csproj.AssemblyReference.cache
+D:\GITSOURCE\Web_PTUD\Web_PTUD\new\ĐA_PTUDCore\ĐA_PTUDCore\obj\Debug\net6.0\ĐA_PTUDCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\GITSOURCE\Web_PTUD\Web_PTUD\new\ĐA_PTUDCore\ĐA_PTUDCore\obj\Debug\net6.0\ĐA_PTUDCore.AssemblyInfoInputs.cache
+D:\GITSOURCE\Web_PTUD\Web_PTUD\new\ĐA_PTUDCore\ĐA_PTUDCore\obj\Debug\net6.0\ĐA_PTUDCore.AssemblyInfo.cs
+D:\GITSOURCE\Web_PTUD\Web_PTUD\new\ĐA_PTUDCore\ĐA_PTUDCore\obj\Debug\net6.0\ĐA_PTUDCore.csproj.CoreCompileInputs.cache
+D:\GITSOURCE\Web_PTUD\Web_PTUD\new\ĐA_PTUDCore\ĐA_PTUDCore\obj\Debug\net6.0\ĐA_PTUDCore.MvcApplicationPartsAssemblyInfo.cs
+D:\GITSOURCE\Web_PTUD\Web_PTUD\new\ĐA_PTUDCore\ĐA_PTUDCore\obj\Debug\net6.0\ĐA_PTUDCore.MvcApplicationPartsAssemblyInfo.cache
+D:\GITSOURCE\Web_PTUD\Web_PTUD\new\ĐA_PTUDCore\ĐA_PTUDCore\obj\Debug\net6.0\ĐA_PTUDCore.RazorAssemblyInfo.cache
+D:\GITSOURCE\Web_PTUD\Web_PTUD\new\ĐA_PTUDCore\ĐA_PTUDCore\obj\Debug\net6.0\ĐA_PTUDCore.RazorAssemblyInfo.cs
+D:\GITSOURCE\Web_PTUD\Web_PTUD\new\ĐA_PTUDCore\ĐA_PTUDCore\obj\Debug\net6.0\staticwebassets.build.json
+D:\GITSOURCE\Web_PTUD\Web_PTUD\new\ĐA_PTUDCore\ĐA_PTUDCore\obj\Debug\net6.0\staticwebassets.development.json
+D:\GITSOURCE\Web_PTUD\Web_PTUD\new\ĐA_PTUDCore\ĐA_PTUDCore\obj\Debug\net6.0\staticwebassets\msbuild.ĐA_PTUDCore.Microsoft.AspNetCore.StaticWebAssets.props
+D:\GITSOURCE\Web_PTUD\Web_PTUD\new\ĐA_PTUDCore\ĐA_PTUDCore\obj\Debug\net6.0\staticwebassets\msbuild.build.ĐA_PTUDCore.props
+D:\GITSOURCE\Web_PTUD\Web_PTUD\new\ĐA_PTUDCore\ĐA_PTUDCore\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ĐA_PTUDCore.props
+D:\GITSOURCE\Web_PTUD\Web_PTUD\new\ĐA_PTUDCore\ĐA_PTUDCore\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ĐA_PTUDCore.props
+D:\GITSOURCE\Web_PTUD\Web_PTUD\new\ĐA_PTUDCore\ĐA_PTUDCore\obj\Debug\net6.0\staticwebassets.pack.json
+D:\GITSOURCE\Web_PTUD\Web_PTUD\new\ĐA_PTUDCore\ĐA_PTUDCore\obj\Debug\net6.0\scopedcss\bundle\ĐA_PTUDCore.styles.css
+D:\GITSOURCE\Web_PTUD\Web_PTUD\new\ĐA_PTUDCore\ĐA_PTUDCore\obj\Debug\net6.0\ĐA_PTUDCore.csproj.CopyComplete
+D:\GITSOURCE\Web_PTUD\Web_PTUD\new\ĐA_PTUDCore\ĐA_PTUDCore\obj\Debug\net6.0\ĐA_PTUDCore.dll
+D:\GITSOURCE\Web_PTUD\Web_PTUD\new\ĐA_PTUDCore\ĐA_PTUDCore\obj\Debug\net6.0\refint\ĐA_PTUDCore.dll
+D:\GITSOURCE\Web_PTUD\Web_PTUD\new\ĐA_PTUDCore\ĐA_PTUDCore\obj\Debug\net6.0\ĐA_PTUDCore.pdb
+D:\GITSOURCE\Web_PTUD\Web_PTUD\new\ĐA_PTUDCore\ĐA_PTUDCore\obj\Debug\net6.0\ĐA_PTUDCore.genruntimeconfig.cache
+D:\GITSOURCE\Web_PTUD\Web_PTUD\new\ĐA_PTUDCore\ĐA_PTUDCore\obj\Debug\net6.0\ref\ĐA_PTUDCore.dll
+C:\Users\vuong\Downloads\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\vuong\Downloads\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\appsettings.json
+C:\Users\vuong\Downloads\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\Assets\data.json
+C:\Users\vuong\Downloads\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\ĐA_PTUDCore.staticwebassets.runtime.json
+C:\Users\vuong\Downloads\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\ĐA_PTUDCore.exe
+C:\Users\vuong\Downloads\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\ĐA_PTUDCore.deps.json
+C:\Users\vuong\Downloads\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\ĐA_PTUDCore.runtimeconfig.json
+C:\Users\vuong\Downloads\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\ĐA_PTUDCore.dll
+C:\Users\vuong\Downloads\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\ĐA_PTUDCore.pdb
+C:\Users\vuong\Downloads\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\System.Web.Mvc.dll
+C:\Users\vuong\Downloads\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\System.Web.Razor.dll
+C:\Users\vuong\Downloads\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\System.Web.Helpers.dll
+C:\Users\vuong\Downloads\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\System.Web.WebPages.Deployment.dll
+C:\Users\vuong\Downloads\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\System.Web.WebPages.Razor.dll
+C:\Users\vuong\Downloads\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\System.Web.WebPages.dll
+C:\Users\vuong\Downloads\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\Microsoft.AspNetCore.SystemWebAdapters.dll
+C:\Users\vuong\Downloads\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\Microsoft.AspNetCore.SystemWebAdapters.Abstractions.dll
+C:\Users\vuong\Downloads\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\Microsoft.AspNetCore.SystemWebAdapters.CoreServices.dll
+C:\Users\vuong\Downloads\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\vuong\Downloads\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\Microsoft.Bcl.TimeProvider.dll
+C:\Users\vuong\Downloads\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\vuong\Downloads\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\vuong\Downloads\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\vuong\Downloads\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\vuong\Downloads\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\vuong\Downloads\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\vuong\Downloads\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\vuong\Downloads\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\vuong\Downloads\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\vuong\Downloads\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\vuong\Downloads\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\vuong\Downloads\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\vuong\Downloads\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\Microsoft.Web.Infrastructure.dll
+C:\Users\vuong\Downloads\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\vuong\Downloads\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\vuong\Downloads\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\NReco.PdfGenerator.dll
+C:\Users\vuong\Downloads\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\vuong\Downloads\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\vuong\Downloads\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\vuong\Downloads\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\System.IO.Hashing.dll
+C:\Users\vuong\Downloads\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\vuong\Downloads\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\vuong\Downloads\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\vuong\Downloads\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\vuong\Downloads\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\Yarp.ReverseProxy.dll
+C:\Users\vuong\Downloads\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\vuong\Downloads\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\vuong\Downloads\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vuong\Downloads\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vuong\Downloads\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vuong\Downloads\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vuong\Downloads\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\vuong\Downloads\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\vuong\Downloads\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\vuong\Downloads\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\vuong\Downloads\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\vuong\Downloads\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\vuong\Downloads\ĐA_PTUDCore\ĐA_PTUDCore\obj\Debug\net6.0\NuGet\7F0CF5A32012A98BE37345451D072A87026D6315\MimeTypes\2.4.1\MimeTypes.cs
+C:\Users\vuong\Downloads\ĐA_PTUDCore\ĐA_PTUDCore\obj\Debug\net6.0\ĐA_PTUDCore.csproj.AssemblyReference.cache
+C:\Users\vuong\Downloads\ĐA_PTUDCore\ĐA_PTUDCore\obj\Debug\net6.0\ĐA_PTUDCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vuong\Downloads\ĐA_PTUDCore\ĐA_PTUDCore\obj\Debug\net6.0\ĐA_PTUDCore.AssemblyInfoInputs.cache
+C:\Users\vuong\Downloads\ĐA_PTUDCore\ĐA_PTUDCore\obj\Debug\net6.0\ĐA_PTUDCore.AssemblyInfo.cs
+C:\Users\vuong\Downloads\ĐA_PTUDCore\ĐA_PTUDCore\obj\Debug\net6.0\ĐA_PTUDCore.csproj.CoreCompileInputs.cache
+C:\Users\vuong\Downloads\ĐA_PTUDCore\ĐA_PTUDCore\obj\Debug\net6.0\ĐA_PTUDCore.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\vuong\Downloads\ĐA_PTUDCore\ĐA_PTUDCore\obj\Debug\net6.0\ĐA_PTUDCore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vuong\Downloads\ĐA_PTUDCore\ĐA_PTUDCore\obj\Debug\net6.0\ĐA_PTUDCore.RazorAssemblyInfo.cache
+C:\Users\vuong\Downloads\ĐA_PTUDCore\ĐA_PTUDCore\obj\Debug\net6.0\ĐA_PTUDCore.RazorAssemblyInfo.cs
+C:\Users\vuong\Downloads\ĐA_PTUDCore\ĐA_PTUDCore\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\vuong\Downloads\ĐA_PTUDCore\ĐA_PTUDCore\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\vuong\Downloads\ĐA_PTUDCore\ĐA_PTUDCore\obj\Debug\net6.0\staticwebassets\msbuild.ĐA_PTUDCore.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\vuong\Downloads\ĐA_PTUDCore\ĐA_PTUDCore\obj\Debug\net6.0\staticwebassets\msbuild.build.ĐA_PTUDCore.props
+C:\Users\vuong\Downloads\ĐA_PTUDCore\ĐA_PTUDCore\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ĐA_PTUDCore.props
+C:\Users\vuong\Downloads\ĐA_PTUDCore\ĐA_PTUDCore\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ĐA_PTUDCore.props
+C:\Users\vuong\Downloads\ĐA_PTUDCore\ĐA_PTUDCore\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\vuong\Downloads\ĐA_PTUDCore\ĐA_PTUDCore\obj\Debug\net6.0\scopedcss\bundle\ĐA_PTUDCore.styles.css
+C:\Users\vuong\Downloads\ĐA_PTUDCore\ĐA_PTUDCore\obj\Debug\net6.0\ĐA_PTUDCore.csproj.CopyComplete
+C:\Users\vuong\Downloads\ĐA_PTUDCore\ĐA_PTUDCore\obj\Debug\net6.0\ĐA_PTUDCore.dll
+C:\Users\vuong\Downloads\ĐA_PTUDCore\ĐA_PTUDCore\obj\Debug\net6.0\refint\ĐA_PTUDCore.dll
+C:\Users\vuong\Downloads\ĐA_PTUDCore\ĐA_PTUDCore\obj\Debug\net6.0\ĐA_PTUDCore.pdb
+C:\Users\vuong\Downloads\ĐA_PTUDCore\ĐA_PTUDCore\obj\Debug\net6.0\ĐA_PTUDCore.genruntimeconfig.cache
+C:\Users\vuong\Downloads\ĐA_PTUDCore\ĐA_PTUDCore\obj\Debug\net6.0\ref\ĐA_PTUDCore.dll
+C:\Users\vuong\Downloads\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\vuong\Downloads\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\Assets\data.json
+C:\Users\vuong\Downloads\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\appsettings.json
+C:\Users\vuong\Downloads\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\ĐA_PTUDCore.staticwebassets.runtime.json
+C:\Users\vuong\Downloads\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\ĐA_PTUDCore.exe
+C:\Users\vuong\Downloads\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\ĐA_PTUDCore.deps.json
+C:\Users\vuong\Downloads\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\ĐA_PTUDCore.runtimeconfig.json
+C:\Users\vuong\Downloads\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\ĐA_PTUDCore.dll
+C:\Users\vuong\Downloads\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\ĐA_PTUDCore.pdb
+C:\Users\vuong\Downloads\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\System.Web.Mvc.dll
+C:\Users\vuong\Downloads\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\System.Web.Razor.dll
+C:\Users\vuong\Downloads\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\System.Web.Helpers.dll
+C:\Users\vuong\Downloads\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\System.Web.WebPages.Deployment.dll
+C:\Users\vuong\Downloads\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\System.Web.WebPages.Razor.dll
+C:\Users\vuong\Downloads\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\System.Web.WebPages.dll
+C:\Users\vuong\Downloads\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\Microsoft.AspNetCore.SystemWebAdapters.dll
+C:\Users\vuong\Downloads\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\Microsoft.AspNetCore.SystemWebAdapters.Abstractions.dll
+C:\Users\vuong\Downloads\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\Microsoft.AspNetCore.SystemWebAdapters.CoreServices.dll
+C:\Users\vuong\Downloads\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\vuong\Downloads\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\Microsoft.Bcl.TimeProvider.dll
+C:\Users\vuong\Downloads\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\vuong\Downloads\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\vuong\Downloads\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\vuong\Downloads\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\vuong\Downloads\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\vuong\Downloads\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\vuong\Downloads\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\vuong\Downloads\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\vuong\Downloads\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\vuong\Downloads\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\vuong\Downloads\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\vuong\Downloads\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\vuong\Downloads\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\Microsoft.Web.Infrastructure.dll
+C:\Users\vuong\Downloads\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\vuong\Downloads\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\vuong\Downloads\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\NReco.PdfGenerator.dll
+C:\Users\vuong\Downloads\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\vuong\Downloads\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\vuong\Downloads\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\vuong\Downloads\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\System.IO.Hashing.dll
+C:\Users\vuong\Downloads\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\vuong\Downloads\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\vuong\Downloads\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\vuong\Downloads\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\vuong\Downloads\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\Yarp.ReverseProxy.dll
+C:\Users\vuong\Downloads\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\vuong\Downloads\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\vuong\Downloads\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vuong\Downloads\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vuong\Downloads\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vuong\Downloads\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vuong\Downloads\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\vuong\Downloads\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\vuong\Downloads\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\vuong\Downloads\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\vuong\Downloads\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\vuong\Downloads\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\vuong\Downloads\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\obj\Debug\net6.0\NuGet\23253D29761CF3D34B50C73479FB829F5DFA3770\MimeTypes\2.4.1\MimeTypes.cs
+C:\Users\vuong\Downloads\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\obj\Debug\net6.0\ĐA_PTUDCore.csproj.AssemblyReference.cache
+C:\Users\vuong\Downloads\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\obj\Debug\net6.0\ĐA_PTUDCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vuong\Downloads\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\obj\Debug\net6.0\ĐA_PTUDCore.AssemblyInfoInputs.cache
+C:\Users\vuong\Downloads\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\obj\Debug\net6.0\ĐA_PTUDCore.AssemblyInfo.cs
+C:\Users\vuong\Downloads\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\obj\Debug\net6.0\ĐA_PTUDCore.csproj.CoreCompileInputs.cache
+C:\Users\vuong\Downloads\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\obj\Debug\net6.0\ĐA_PTUDCore.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\vuong\Downloads\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\obj\Debug\net6.0\ĐA_PTUDCore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vuong\Downloads\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\obj\Debug\net6.0\ĐA_PTUDCore.RazorAssemblyInfo.cache
+C:\Users\vuong\Downloads\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\obj\Debug\net6.0\ĐA_PTUDCore.RazorAssemblyInfo.cs
+C:\Users\vuong\Downloads\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\vuong\Downloads\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\vuong\Downloads\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\obj\Debug\net6.0\staticwebassets\msbuild.ĐA_PTUDCore.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\vuong\Downloads\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\obj\Debug\net6.0\staticwebassets\msbuild.build.ĐA_PTUDCore.props
+C:\Users\vuong\Downloads\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ĐA_PTUDCore.props
+C:\Users\vuong\Downloads\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ĐA_PTUDCore.props
+C:\Users\vuong\Downloads\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\vuong\Downloads\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\obj\Debug\net6.0\scopedcss\bundle\ĐA_PTUDCore.styles.css
+C:\Users\vuong\Downloads\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\obj\Debug\net6.0\ĐA_PTUDCore.csproj.CopyComplete
+C:\Users\vuong\Downloads\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\obj\Debug\net6.0\ĐA_PTUDCore.dll
+C:\Users\vuong\Downloads\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\obj\Debug\net6.0\refint\ĐA_PTUDCore.dll
+C:\Users\vuong\Downloads\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\obj\Debug\net6.0\ĐA_PTUDCore.pdb
+C:\Users\vuong\Downloads\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\obj\Debug\net6.0\ĐA_PTUDCore.genruntimeconfig.cache
+C:\Users\vuong\Downloads\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\obj\Debug\net6.0\ref\ĐA_PTUDCore.dll
+C:\Users\vuong\Downloads\A101_T6_WEBSITEBANHANGDIENTU\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\vuong\Downloads\A101_T6_WEBSITEBANHANGDIENTU\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\appsettings.json
+C:\Users\vuong\Downloads\A101_T6_WEBSITEBANHANGDIENTU\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\Assets\data.json
+C:\Users\vuong\Downloads\A101_T6_WEBSITEBANHANGDIENTU\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\ĐA_PTUDCore.staticwebassets.runtime.json
+C:\Users\vuong\Downloads\A101_T6_WEBSITEBANHANGDIENTU\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\ĐA_PTUDCore.exe
+C:\Users\vuong\Downloads\A101_T6_WEBSITEBANHANGDIENTU\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\ĐA_PTUDCore.deps.json
+C:\Users\vuong\Downloads\A101_T6_WEBSITEBANHANGDIENTU\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\ĐA_PTUDCore.runtimeconfig.json
+C:\Users\vuong\Downloads\A101_T6_WEBSITEBANHANGDIENTU\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\ĐA_PTUDCore.dll
+C:\Users\vuong\Downloads\A101_T6_WEBSITEBANHANGDIENTU\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\ĐA_PTUDCore.pdb
+C:\Users\vuong\Downloads\A101_T6_WEBSITEBANHANGDIENTU\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\System.Web.Mvc.dll
+C:\Users\vuong\Downloads\A101_T6_WEBSITEBANHANGDIENTU\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\System.Web.Razor.dll
+C:\Users\vuong\Downloads\A101_T6_WEBSITEBANHANGDIENTU\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\System.Web.Helpers.dll
+C:\Users\vuong\Downloads\A101_T6_WEBSITEBANHANGDIENTU\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\System.Web.WebPages.Deployment.dll
+C:\Users\vuong\Downloads\A101_T6_WEBSITEBANHANGDIENTU\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\System.Web.WebPages.Razor.dll
+C:\Users\vuong\Downloads\A101_T6_WEBSITEBANHANGDIENTU\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\System.Web.WebPages.dll
+C:\Users\vuong\Downloads\A101_T6_WEBSITEBANHANGDIENTU\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\Microsoft.AspNetCore.SystemWebAdapters.dll
+C:\Users\vuong\Downloads\A101_T6_WEBSITEBANHANGDIENTU\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\Microsoft.AspNetCore.SystemWebAdapters.Abstractions.dll
+C:\Users\vuong\Downloads\A101_T6_WEBSITEBANHANGDIENTU\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\Microsoft.AspNetCore.SystemWebAdapters.CoreServices.dll
+C:\Users\vuong\Downloads\A101_T6_WEBSITEBANHANGDIENTU\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\vuong\Downloads\A101_T6_WEBSITEBANHANGDIENTU\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\Microsoft.Bcl.TimeProvider.dll
+C:\Users\vuong\Downloads\A101_T6_WEBSITEBANHANGDIENTU\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\vuong\Downloads\A101_T6_WEBSITEBANHANGDIENTU\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\vuong\Downloads\A101_T6_WEBSITEBANHANGDIENTU\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\vuong\Downloads\A101_T6_WEBSITEBANHANGDIENTU\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\vuong\Downloads\A101_T6_WEBSITEBANHANGDIENTU\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\vuong\Downloads\A101_T6_WEBSITEBANHANGDIENTU\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\vuong\Downloads\A101_T6_WEBSITEBANHANGDIENTU\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\vuong\Downloads\A101_T6_WEBSITEBANHANGDIENTU\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\vuong\Downloads\A101_T6_WEBSITEBANHANGDIENTU\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\vuong\Downloads\A101_T6_WEBSITEBANHANGDIENTU\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\vuong\Downloads\A101_T6_WEBSITEBANHANGDIENTU\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\vuong\Downloads\A101_T6_WEBSITEBANHANGDIENTU\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\vuong\Downloads\A101_T6_WEBSITEBANHANGDIENTU\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\Microsoft.Web.Infrastructure.dll
+C:\Users\vuong\Downloads\A101_T6_WEBSITEBANHANGDIENTU\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\vuong\Downloads\A101_T6_WEBSITEBANHANGDIENTU\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\vuong\Downloads\A101_T6_WEBSITEBANHANGDIENTU\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\NReco.PdfGenerator.dll
+C:\Users\vuong\Downloads\A101_T6_WEBSITEBANHANGDIENTU\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\vuong\Downloads\A101_T6_WEBSITEBANHANGDIENTU\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\vuong\Downloads\A101_T6_WEBSITEBANHANGDIENTU\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\vuong\Downloads\A101_T6_WEBSITEBANHANGDIENTU\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\System.IO.Hashing.dll
+C:\Users\vuong\Downloads\A101_T6_WEBSITEBANHANGDIENTU\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\vuong\Downloads\A101_T6_WEBSITEBANHANGDIENTU\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\vuong\Downloads\A101_T6_WEBSITEBANHANGDIENTU\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\vuong\Downloads\A101_T6_WEBSITEBANHANGDIENTU\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\vuong\Downloads\A101_T6_WEBSITEBANHANGDIENTU\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\Yarp.ReverseProxy.dll
+C:\Users\vuong\Downloads\A101_T6_WEBSITEBANHANGDIENTU\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\vuong\Downloads\A101_T6_WEBSITEBANHANGDIENTU\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\vuong\Downloads\A101_T6_WEBSITEBANHANGDIENTU\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vuong\Downloads\A101_T6_WEBSITEBANHANGDIENTU\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vuong\Downloads\A101_T6_WEBSITEBANHANGDIENTU\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vuong\Downloads\A101_T6_WEBSITEBANHANGDIENTU\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vuong\Downloads\A101_T6_WEBSITEBANHANGDIENTU\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\vuong\Downloads\A101_T6_WEBSITEBANHANGDIENTU\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\vuong\Downloads\A101_T6_WEBSITEBANHANGDIENTU\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\vuong\Downloads\A101_T6_WEBSITEBANHANGDIENTU\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\vuong\Downloads\A101_T6_WEBSITEBANHANGDIENTU\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\vuong\Downloads\A101_T6_WEBSITEBANHANGDIENTU\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\vuong\Downloads\A101_T6_WEBSITEBANHANGDIENTU\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\obj\Debug\net6.0\NuGet\1C1865300974458D69C0E7FFDD8FFC1B8A3FC3B7\MimeTypes\2.4.1\MimeTypes.cs
+C:\Users\vuong\Downloads\A101_T6_WEBSITEBANHANGDIENTU\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\obj\Debug\net6.0\ĐA_PTUDCore.csproj.AssemblyReference.cache
+C:\Users\vuong\Downloads\A101_T6_WEBSITEBANHANGDIENTU\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\obj\Debug\net6.0\ĐA_PTUDCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vuong\Downloads\A101_T6_WEBSITEBANHANGDIENTU\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\obj\Debug\net6.0\ĐA_PTUDCore.AssemblyInfoInputs.cache
+C:\Users\vuong\Downloads\A101_T6_WEBSITEBANHANGDIENTU\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\obj\Debug\net6.0\ĐA_PTUDCore.AssemblyInfo.cs
+C:\Users\vuong\Downloads\A101_T6_WEBSITEBANHANGDIENTU\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\obj\Debug\net6.0\ĐA_PTUDCore.csproj.CoreCompileInputs.cache
+C:\Users\vuong\Downloads\A101_T6_WEBSITEBANHANGDIENTU\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\obj\Debug\net6.0\ĐA_PTUDCore.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\vuong\Downloads\A101_T6_WEBSITEBANHANGDIENTU\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\obj\Debug\net6.0\ĐA_PTUDCore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vuong\Downloads\A101_T6_WEBSITEBANHANGDIENTU\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\obj\Debug\net6.0\ĐA_PTUDCore.RazorAssemblyInfo.cache
+C:\Users\vuong\Downloads\A101_T6_WEBSITEBANHANGDIENTU\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\obj\Debug\net6.0\ĐA_PTUDCore.RazorAssemblyInfo.cs
+C:\Users\vuong\Downloads\A101_T6_WEBSITEBANHANGDIENTU\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\obj\Debug\net6.0\ĐA_PTUDCore.sourcelink.json
+C:\Users\vuong\Downloads\A101_T6_WEBSITEBANHANGDIENTU\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\vuong\Downloads\A101_T6_WEBSITEBANHANGDIENTU\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\vuong\Downloads\A101_T6_WEBSITEBANHANGDIENTU\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\obj\Debug\net6.0\staticwebassets\msbuild.ĐA_PTUDCore.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\vuong\Downloads\A101_T6_WEBSITEBANHANGDIENTU\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\obj\Debug\net6.0\staticwebassets\msbuild.build.ĐA_PTUDCore.props
+C:\Users\vuong\Downloads\A101_T6_WEBSITEBANHANGDIENTU\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ĐA_PTUDCore.props
+C:\Users\vuong\Downloads\A101_T6_WEBSITEBANHANGDIENTU\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ĐA_PTUDCore.props
+C:\Users\vuong\Downloads\A101_T6_WEBSITEBANHANGDIENTU\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\vuong\Downloads\A101_T6_WEBSITEBANHANGDIENTU\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\obj\Debug\net6.0\scopedcss\bundle\ĐA_PTUDCore.styles.css
+C:\Users\vuong\Downloads\A101_T6_WEBSITEBANHANGDIENTU\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\obj\Debug\net6.0\ĐA_PTUDCore.csproj.CopyComplete
+C:\Users\vuong\Downloads\A101_T6_WEBSITEBANHANGDIENTU\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\obj\Debug\net6.0\ĐA_PTUDCore.dll
+C:\Users\vuong\Downloads\A101_T6_WEBSITEBANHANGDIENTU\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\obj\Debug\net6.0\refint\ĐA_PTUDCore.dll
+C:\Users\vuong\Downloads\A101_T6_WEBSITEBANHANGDIENTU\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\obj\Debug\net6.0\ĐA_PTUDCore.pdb
+C:\Users\vuong\Downloads\A101_T6_WEBSITEBANHANGDIENTU\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\obj\Debug\net6.0\ĐA_PTUDCore.genruntimeconfig.cache
+C:\Users\vuong\Downloads\A101_T6_WEBSITEBANHANGDIENTU\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\obj\Debug\net6.0\ref\ĐA_PTUDCore.dll
+D:\GITSOURCE\thaiduong\A101_T6_WEBSITEBANHANGDIENTU-main\A101_T6_WEBSITEBANHANGDIENTU-main\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\appsettings.Development.json
+D:\GITSOURCE\thaiduong\A101_T6_WEBSITEBANHANGDIENTU-main\A101_T6_WEBSITEBANHANGDIENTU-main\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\appsettings.json
+D:\GITSOURCE\thaiduong\A101_T6_WEBSITEBANHANGDIENTU-main\A101_T6_WEBSITEBANHANGDIENTU-main\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\Assets\data.json
+D:\GITSOURCE\thaiduong\A101_T6_WEBSITEBANHANGDIENTU-main\A101_T6_WEBSITEBANHANGDIENTU-main\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\ĐA_PTUDCore.staticwebassets.runtime.json
+D:\GITSOURCE\thaiduong\A101_T6_WEBSITEBANHANGDIENTU-main\A101_T6_WEBSITEBANHANGDIENTU-main\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\ĐA_PTUDCore.exe
+D:\GITSOURCE\thaiduong\A101_T6_WEBSITEBANHANGDIENTU-main\A101_T6_WEBSITEBANHANGDIENTU-main\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\ĐA_PTUDCore.deps.json
+D:\GITSOURCE\thaiduong\A101_T6_WEBSITEBANHANGDIENTU-main\A101_T6_WEBSITEBANHANGDIENTU-main\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\ĐA_PTUDCore.runtimeconfig.json
+D:\GITSOURCE\thaiduong\A101_T6_WEBSITEBANHANGDIENTU-main\A101_T6_WEBSITEBANHANGDIENTU-main\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\ĐA_PTUDCore.dll
+D:\GITSOURCE\thaiduong\A101_T6_WEBSITEBANHANGDIENTU-main\A101_T6_WEBSITEBANHANGDIENTU-main\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\ĐA_PTUDCore.pdb
+D:\GITSOURCE\thaiduong\A101_T6_WEBSITEBANHANGDIENTU-main\A101_T6_WEBSITEBANHANGDIENTU-main\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\System.Web.Mvc.dll
+D:\GITSOURCE\thaiduong\A101_T6_WEBSITEBANHANGDIENTU-main\A101_T6_WEBSITEBANHANGDIENTU-main\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\System.Web.Razor.dll
+D:\GITSOURCE\thaiduong\A101_T6_WEBSITEBANHANGDIENTU-main\A101_T6_WEBSITEBANHANGDIENTU-main\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\System.Web.Helpers.dll
+D:\GITSOURCE\thaiduong\A101_T6_WEBSITEBANHANGDIENTU-main\A101_T6_WEBSITEBANHANGDIENTU-main\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\System.Web.WebPages.Deployment.dll
+D:\GITSOURCE\thaiduong\A101_T6_WEBSITEBANHANGDIENTU-main\A101_T6_WEBSITEBANHANGDIENTU-main\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\System.Web.WebPages.Razor.dll
+D:\GITSOURCE\thaiduong\A101_T6_WEBSITEBANHANGDIENTU-main\A101_T6_WEBSITEBANHANGDIENTU-main\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\System.Web.WebPages.dll
+D:\GITSOURCE\thaiduong\A101_T6_WEBSITEBANHANGDIENTU-main\A101_T6_WEBSITEBANHANGDIENTU-main\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\Microsoft.AspNetCore.SystemWebAdapters.dll
+D:\GITSOURCE\thaiduong\A101_T6_WEBSITEBANHANGDIENTU-main\A101_T6_WEBSITEBANHANGDIENTU-main\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\Microsoft.AspNetCore.SystemWebAdapters.Abstractions.dll
+D:\GITSOURCE\thaiduong\A101_T6_WEBSITEBANHANGDIENTU-main\A101_T6_WEBSITEBANHANGDIENTU-main\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\Microsoft.AspNetCore.SystemWebAdapters.CoreServices.dll
+D:\GITSOURCE\thaiduong\A101_T6_WEBSITEBANHANGDIENTU-main\A101_T6_WEBSITEBANHANGDIENTU-main\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\GITSOURCE\thaiduong\A101_T6_WEBSITEBANHANGDIENTU-main\A101_T6_WEBSITEBANHANGDIENTU-main\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\Microsoft.Bcl.TimeProvider.dll
+D:\GITSOURCE\thaiduong\A101_T6_WEBSITEBANHANGDIENTU-main\A101_T6_WEBSITEBANHANGDIENTU-main\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\GITSOURCE\thaiduong\A101_T6_WEBSITEBANHANGDIENTU-main\A101_T6_WEBSITEBANHANGDIENTU-main\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\GITSOURCE\thaiduong\A101_T6_WEBSITEBANHANGDIENTU-main\A101_T6_WEBSITEBANHANGDIENTU-main\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\GITSOURCE\thaiduong\A101_T6_WEBSITEBANHANGDIENTU-main\A101_T6_WEBSITEBANHANGDIENTU-main\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\GITSOURCE\thaiduong\A101_T6_WEBSITEBANHANGDIENTU-main\A101_T6_WEBSITEBANHANGDIENTU-main\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\GITSOURCE\thaiduong\A101_T6_WEBSITEBANHANGDIENTU-main\A101_T6_WEBSITEBANHANGDIENTU-main\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\GITSOURCE\thaiduong\A101_T6_WEBSITEBANHANGDIENTU-main\A101_T6_WEBSITEBANHANGDIENTU-main\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\GITSOURCE\thaiduong\A101_T6_WEBSITEBANHANGDIENTU-main\A101_T6_WEBSITEBANHANGDIENTU-main\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\GITSOURCE\thaiduong\A101_T6_WEBSITEBANHANGDIENTU-main\A101_T6_WEBSITEBANHANGDIENTU-main\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\GITSOURCE\thaiduong\A101_T6_WEBSITEBANHANGDIENTU-main\A101_T6_WEBSITEBANHANGDIENTU-main\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\GITSOURCE\thaiduong\A101_T6_WEBSITEBANHANGDIENTU-main\A101_T6_WEBSITEBANHANGDIENTU-main\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\GITSOURCE\thaiduong\A101_T6_WEBSITEBANHANGDIENTU-main\A101_T6_WEBSITEBANHANGDIENTU-main\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\GITSOURCE\thaiduong\A101_T6_WEBSITEBANHANGDIENTU-main\A101_T6_WEBSITEBANHANGDIENTU-main\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\Microsoft.Web.Infrastructure.dll
+D:\GITSOURCE\thaiduong\A101_T6_WEBSITEBANHANGDIENTU-main\A101_T6_WEBSITEBANHANGDIENTU-main\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\GITSOURCE\thaiduong\A101_T6_WEBSITEBANHANGDIENTU-main\A101_T6_WEBSITEBANHANGDIENTU-main\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\GITSOURCE\thaiduong\A101_T6_WEBSITEBANHANGDIENTU-main\A101_T6_WEBSITEBANHANGDIENTU-main\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\NReco.PdfGenerator.dll
+D:\GITSOURCE\thaiduong\A101_T6_WEBSITEBANHANGDIENTU-main\A101_T6_WEBSITEBANHANGDIENTU-main\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\GITSOURCE\thaiduong\A101_T6_WEBSITEBANHANGDIENTU-main\A101_T6_WEBSITEBANHANGDIENTU-main\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\GITSOURCE\thaiduong\A101_T6_WEBSITEBANHANGDIENTU-main\A101_T6_WEBSITEBANHANGDIENTU-main\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\GITSOURCE\thaiduong\A101_T6_WEBSITEBANHANGDIENTU-main\A101_T6_WEBSITEBANHANGDIENTU-main\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\System.IO.Hashing.dll
+D:\GITSOURCE\thaiduong\A101_T6_WEBSITEBANHANGDIENTU-main\A101_T6_WEBSITEBANHANGDIENTU-main\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\GITSOURCE\thaiduong\A101_T6_WEBSITEBANHANGDIENTU-main\A101_T6_WEBSITEBANHANGDIENTU-main\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\GITSOURCE\thaiduong\A101_T6_WEBSITEBANHANGDIENTU-main\A101_T6_WEBSITEBANHANGDIENTU-main\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\GITSOURCE\thaiduong\A101_T6_WEBSITEBANHANGDIENTU-main\A101_T6_WEBSITEBANHANGDIENTU-main\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\GITSOURCE\thaiduong\A101_T6_WEBSITEBANHANGDIENTU-main\A101_T6_WEBSITEBANHANGDIENTU-main\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\Yarp.ReverseProxy.dll
+D:\GITSOURCE\thaiduong\A101_T6_WEBSITEBANHANGDIENTU-main\A101_T6_WEBSITEBANHANGDIENTU-main\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\GITSOURCE\thaiduong\A101_T6_WEBSITEBANHANGDIENTU-main\A101_T6_WEBSITEBANHANGDIENTU-main\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\GITSOURCE\thaiduong\A101_T6_WEBSITEBANHANGDIENTU-main\A101_T6_WEBSITEBANHANGDIENTU-main\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GITSOURCE\thaiduong\A101_T6_WEBSITEBANHANGDIENTU-main\A101_T6_WEBSITEBANHANGDIENTU-main\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GITSOURCE\thaiduong\A101_T6_WEBSITEBANHANGDIENTU-main\A101_T6_WEBSITEBANHANGDIENTU-main\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GITSOURCE\thaiduong\A101_T6_WEBSITEBANHANGDIENTU-main\A101_T6_WEBSITEBANHANGDIENTU-main\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GITSOURCE\thaiduong\A101_T6_WEBSITEBANHANGDIENTU-main\A101_T6_WEBSITEBANHANGDIENTU-main\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\GITSOURCE\thaiduong\A101_T6_WEBSITEBANHANGDIENTU-main\A101_T6_WEBSITEBANHANGDIENTU-main\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\GITSOURCE\thaiduong\A101_T6_WEBSITEBANHANGDIENTU-main\A101_T6_WEBSITEBANHANGDIENTU-main\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\GITSOURCE\thaiduong\A101_T6_WEBSITEBANHANGDIENTU-main\A101_T6_WEBSITEBANHANGDIENTU-main\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\GITSOURCE\thaiduong\A101_T6_WEBSITEBANHANGDIENTU-main\A101_T6_WEBSITEBANHANGDIENTU-main\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\GITSOURCE\thaiduong\A101_T6_WEBSITEBANHANGDIENTU-main\A101_T6_WEBSITEBANHANGDIENTU-main\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\GITSOURCE\thaiduong\A101_T6_WEBSITEBANHANGDIENTU-main\A101_T6_WEBSITEBANHANGDIENTU-main\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\obj\Debug\net6.0\NuGet\5A15BA9FD9148AB4C7F1F974C85B7BFF51D56225\MimeTypes\2.4.1\MimeTypes.cs
+D:\GITSOURCE\thaiduong\A101_T6_WEBSITEBANHANGDIENTU-main\A101_T6_WEBSITEBANHANGDIENTU-main\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\obj\Debug\net6.0\ĐA_PTUDCore.csproj.AssemblyReference.cache
+D:\GITSOURCE\thaiduong\A101_T6_WEBSITEBANHANGDIENTU-main\A101_T6_WEBSITEBANHANGDIENTU-main\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\obj\Debug\net6.0\ĐA_PTUDCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\GITSOURCE\thaiduong\A101_T6_WEBSITEBANHANGDIENTU-main\A101_T6_WEBSITEBANHANGDIENTU-main\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\obj\Debug\net6.0\ĐA_PTUDCore.AssemblyInfoInputs.cache
+D:\GITSOURCE\thaiduong\A101_T6_WEBSITEBANHANGDIENTU-main\A101_T6_WEBSITEBANHANGDIENTU-main\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\obj\Debug\net6.0\ĐA_PTUDCore.AssemblyInfo.cs
+D:\GITSOURCE\thaiduong\A101_T6_WEBSITEBANHANGDIENTU-main\A101_T6_WEBSITEBANHANGDIENTU-main\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\obj\Debug\net6.0\ĐA_PTUDCore.csproj.CoreCompileInputs.cache
+D:\GITSOURCE\thaiduong\A101_T6_WEBSITEBANHANGDIENTU-main\A101_T6_WEBSITEBANHANGDIENTU-main\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\obj\Debug\net6.0\ĐA_PTUDCore.MvcApplicationPartsAssemblyInfo.cs
+D:\GITSOURCE\thaiduong\A101_T6_WEBSITEBANHANGDIENTU-main\A101_T6_WEBSITEBANHANGDIENTU-main\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\obj\Debug\net6.0\ĐA_PTUDCore.MvcApplicationPartsAssemblyInfo.cache
+D:\GITSOURCE\thaiduong\A101_T6_WEBSITEBANHANGDIENTU-main\A101_T6_WEBSITEBANHANGDIENTU-main\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\obj\Debug\net6.0\ĐA_PTUDCore.RazorAssemblyInfo.cache
+D:\GITSOURCE\thaiduong\A101_T6_WEBSITEBANHANGDIENTU-main\A101_T6_WEBSITEBANHANGDIENTU-main\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\obj\Debug\net6.0\ĐA_PTUDCore.RazorAssemblyInfo.cs
+D:\GITSOURCE\thaiduong\A101_T6_WEBSITEBANHANGDIENTU-main\A101_T6_WEBSITEBANHANGDIENTU-main\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\obj\Debug\net6.0\staticwebassets.build.json
+D:\GITSOURCE\thaiduong\A101_T6_WEBSITEBANHANGDIENTU-main\A101_T6_WEBSITEBANHANGDIENTU-main\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\obj\Debug\net6.0\staticwebassets.development.json
+D:\GITSOURCE\thaiduong\A101_T6_WEBSITEBANHANGDIENTU-main\A101_T6_WEBSITEBANHANGDIENTU-main\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\obj\Debug\net6.0\staticwebassets\msbuild.ĐA_PTUDCore.Microsoft.AspNetCore.StaticWebAssets.props
+D:\GITSOURCE\thaiduong\A101_T6_WEBSITEBANHANGDIENTU-main\A101_T6_WEBSITEBANHANGDIENTU-main\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\obj\Debug\net6.0\staticwebassets\msbuild.build.ĐA_PTUDCore.props
+D:\GITSOURCE\thaiduong\A101_T6_WEBSITEBANHANGDIENTU-main\A101_T6_WEBSITEBANHANGDIENTU-main\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ĐA_PTUDCore.props
+D:\GITSOURCE\thaiduong\A101_T6_WEBSITEBANHANGDIENTU-main\A101_T6_WEBSITEBANHANGDIENTU-main\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ĐA_PTUDCore.props
+D:\GITSOURCE\thaiduong\A101_T6_WEBSITEBANHANGDIENTU-main\A101_T6_WEBSITEBANHANGDIENTU-main\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\obj\Debug\net6.0\staticwebassets.pack.json
+D:\GITSOURCE\thaiduong\A101_T6_WEBSITEBANHANGDIENTU-main\A101_T6_WEBSITEBANHANGDIENTU-main\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\obj\Debug\net6.0\scopedcss\bundle\ĐA_PTUDCore.styles.css
+D:\GITSOURCE\thaiduong\A101_T6_WEBSITEBANHANGDIENTU-main\A101_T6_WEBSITEBANHANGDIENTU-main\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\obj\Debug\net6.0\ĐA_PTUDCore.csproj.CopyComplete
+D:\GITSOURCE\thaiduong\A101_T6_WEBSITEBANHANGDIENTU-main\A101_T6_WEBSITEBANHANGDIENTU-main\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\obj\Debug\net6.0\ĐA_PTUDCore.dll
+D:\GITSOURCE\thaiduong\A101_T6_WEBSITEBANHANGDIENTU-main\A101_T6_WEBSITEBANHANGDIENTU-main\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\obj\Debug\net6.0\refint\ĐA_PTUDCore.dll
+D:\GITSOURCE\thaiduong\A101_T6_WEBSITEBANHANGDIENTU-main\A101_T6_WEBSITEBANHANGDIENTU-main\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\obj\Debug\net6.0\ĐA_PTUDCore.pdb
+D:\GITSOURCE\thaiduong\A101_T6_WEBSITEBANHANGDIENTU-main\A101_T6_WEBSITEBANHANGDIENTU-main\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\obj\Debug\net6.0\ĐA_PTUDCore.genruntimeconfig.cache
+D:\GITSOURCE\thaiduong\A101_T6_WEBSITEBANHANGDIENTU-main\A101_T6_WEBSITEBANHANGDIENTU-main\ĐA_PTUDCore\ĐA_PTUDCore\ĐA_PTUDCore\obj\Debug\net6.0\ref\ĐA_PTUDCore.dll
+C:\Users\vuong\Downloads\127\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\vuong\Downloads\127\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\appsettings.json
+C:\Users\vuong\Downloads\127\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\Assets\data.json
+C:\Users\vuong\Downloads\127\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\ĐA_PTUDCore.staticwebassets.runtime.json
+C:\Users\vuong\Downloads\127\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\ĐA_PTUDCore.exe
+C:\Users\vuong\Downloads\127\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\ĐA_PTUDCore.deps.json
+C:\Users\vuong\Downloads\127\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\ĐA_PTUDCore.runtimeconfig.json
+C:\Users\vuong\Downloads\127\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\ĐA_PTUDCore.dll
+C:\Users\vuong\Downloads\127\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\ĐA_PTUDCore.pdb
+C:\Users\vuong\Downloads\127\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\System.Web.Mvc.dll
+C:\Users\vuong\Downloads\127\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\System.Web.Razor.dll
+C:\Users\vuong\Downloads\127\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\System.Web.Helpers.dll
+C:\Users\vuong\Downloads\127\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\System.Web.WebPages.Deployment.dll
+C:\Users\vuong\Downloads\127\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\System.Web.WebPages.Razor.dll
+C:\Users\vuong\Downloads\127\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\System.Web.WebPages.dll
+C:\Users\vuong\Downloads\127\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\Microsoft.AspNetCore.SystemWebAdapters.dll
+C:\Users\vuong\Downloads\127\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\Microsoft.AspNetCore.SystemWebAdapters.Abstractions.dll
+C:\Users\vuong\Downloads\127\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\Microsoft.AspNetCore.SystemWebAdapters.CoreServices.dll
+C:\Users\vuong\Downloads\127\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\vuong\Downloads\127\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\Microsoft.Bcl.TimeProvider.dll
+C:\Users\vuong\Downloads\127\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\vuong\Downloads\127\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\vuong\Downloads\127\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\vuong\Downloads\127\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\vuong\Downloads\127\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\vuong\Downloads\127\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\vuong\Downloads\127\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\vuong\Downloads\127\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\vuong\Downloads\127\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\vuong\Downloads\127\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\vuong\Downloads\127\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\vuong\Downloads\127\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\vuong\Downloads\127\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\Microsoft.Web.Infrastructure.dll
+C:\Users\vuong\Downloads\127\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\vuong\Downloads\127\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\vuong\Downloads\127\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\NReco.PdfGenerator.dll
+C:\Users\vuong\Downloads\127\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\vuong\Downloads\127\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\vuong\Downloads\127\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\vuong\Downloads\127\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\System.IO.Hashing.dll
+C:\Users\vuong\Downloads\127\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\vuong\Downloads\127\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\vuong\Downloads\127\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\vuong\Downloads\127\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\vuong\Downloads\127\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\Yarp.ReverseProxy.dll
+C:\Users\vuong\Downloads\127\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\vuong\Downloads\127\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\vuong\Downloads\127\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vuong\Downloads\127\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vuong\Downloads\127\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vuong\Downloads\127\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vuong\Downloads\127\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\vuong\Downloads\127\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\vuong\Downloads\127\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\vuong\Downloads\127\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\vuong\Downloads\127\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\vuong\Downloads\127\ĐA_PTUDCore\ĐA_PTUDCore\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\vuong\Downloads\127\ĐA_PTUDCore\ĐA_PTUDCore\obj\Debug\net6.0\NuGet\84A04813709768E1C929478365700F6E687368F9\MimeTypes\2.4.1\MimeTypes.cs
+C:\Users\vuong\Downloads\127\ĐA_PTUDCore\ĐA_PTUDCore\obj\Debug\net6.0\ĐA_PTUDCore.csproj.AssemblyReference.cache
+C:\Users\vuong\Downloads\127\ĐA_PTUDCore\ĐA_PTUDCore\obj\Debug\net6.0\ĐA_PTUDCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vuong\Downloads\127\ĐA_PTUDCore\ĐA_PTUDCore\obj\Debug\net6.0\ĐA_PTUDCore.AssemblyInfoInputs.cache
+C:\Users\vuong\Downloads\127\ĐA_PTUDCore\ĐA_PTUDCore\obj\Debug\net6.0\ĐA_PTUDCore.AssemblyInfo.cs
+C:\Users\vuong\Downloads\127\ĐA_PTUDCore\ĐA_PTUDCore\obj\Debug\net6.0\ĐA_PTUDCore.csproj.CoreCompileInputs.cache
+C:\Users\vuong\Downloads\127\ĐA_PTUDCore\ĐA_PTUDCore\obj\Debug\net6.0\ĐA_PTUDCore.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\vuong\Downloads\127\ĐA_PTUDCore\ĐA_PTUDCore\obj\Debug\net6.0\ĐA_PTUDCore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vuong\Downloads\127\ĐA_PTUDCore\ĐA_PTUDCore\obj\Debug\net6.0\ĐA_PTUDCore.RazorAssemblyInfo.cache
+C:\Users\vuong\Downloads\127\ĐA_PTUDCore\ĐA_PTUDCore\obj\Debug\net6.0\ĐA_PTUDCore.RazorAssemblyInfo.cs
+C:\Users\vuong\Downloads\127\ĐA_PTUDCore\ĐA_PTUDCore\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\vuong\Downloads\127\ĐA_PTUDCore\ĐA_PTUDCore\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\vuong\Downloads\127\ĐA_PTUDCore\ĐA_PTUDCore\obj\Debug\net6.0\staticwebassets\msbuild.ĐA_PTUDCore.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\vuong\Downloads\127\ĐA_PTUDCore\ĐA_PTUDCore\obj\Debug\net6.0\staticwebassets\msbuild.build.ĐA_PTUDCore.props
+C:\Users\vuong\Downloads\127\ĐA_PTUDCore\ĐA_PTUDCore\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ĐA_PTUDCore.props
+C:\Users\vuong\Downloads\127\ĐA_PTUDCore\ĐA_PTUDCore\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ĐA_PTUDCore.props
+C:\Users\vuong\Downloads\127\ĐA_PTUDCore\ĐA_PTUDCore\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\vuong\Downloads\127\ĐA_PTUDCore\ĐA_PTUDCore\obj\Debug\net6.0\scopedcss\bundle\ĐA_PTUDCore.styles.css
+C:\Users\vuong\Downloads\127\ĐA_PTUDCore\ĐA_PTUDCore\obj\Debug\net6.0\ĐA_PTUDCore.csproj.CopyComplete
+C:\Users\vuong\Downloads\127\ĐA_PTUDCore\ĐA_PTUDCore\obj\Debug\net6.0\ĐA_PTUDCore.dll
+C:\Users\vuong\Downloads\127\ĐA_PTUDCore\ĐA_PTUDCore\obj\Debug\net6.0\refint\ĐA_PTUDCore.dll
+C:\Users\vuong\Downloads\127\ĐA_PTUDCore\ĐA_PTUDCore\obj\Debug\net6.0\ĐA_PTUDCore.pdb
+C:\Users\vuong\Downloads\127\ĐA_PTUDCore\ĐA_PTUDCore\obj\Debug\net6.0\ĐA_PTUDCore.genruntimeconfig.cache
+C:\Users\vuong\Downloads\127\ĐA_PTUDCore\ĐA_PTUDCore\obj\Debug\net6.0\ref\ĐA_PTUDCore.dll
