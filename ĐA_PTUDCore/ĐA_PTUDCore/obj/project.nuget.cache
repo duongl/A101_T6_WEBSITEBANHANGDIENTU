@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "n1gHvxMCqXLt54UO6Ger9ApnAJSoSIITrFg8wgxWGLFbAyan8qaEBJeNGjpTk5pRYkebTipuPDW8tFIP4RqjLw==",
+  "dgSpecHash": "ExmLvSShR9RHu++EEubbO105TdP9Y0cogUjPMZNvc7ZtsIvCTTu2/iuFD6watT9vgC5tYHh/zQAIr76GThNaDw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\vuong\\Downloads\\127\\ĐA_PTUDCore\\ĐA_PTUDCore\\ĐA_PTUDCore.csproj",
+  "projectFilePath": "C:\\Users\\vuong\\Downloads\\A101_T6_WEBSITEBANHANGDIENTU\\ĐA_PTUDCore\\ĐA_PTUDCore\\ĐA_PTUDCore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vuong\\.nuget\\packages\\microsoft.aspnet.mvc\\5.3.0\\microsoft.aspnet.mvc.5.3.0.nupkg.sha512",
     "C:\\Users\\vuong\\.nuget\\packages\\microsoft.aspnet.razor\\3.3.0\\microsoft.aspnet.razor.3.3.0.nupkg.sha512",

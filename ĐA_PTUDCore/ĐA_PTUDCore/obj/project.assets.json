@@ -2426,11 +2426,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vuong\\Downloads\\127\\ĐA_PTUDCore\\ĐA_PTUDCore\\ĐA_PTUDCore.csproj",
+      "projectUniqueName": "C:\\Users\\vuong\\Downloads\\A101_T6_WEBSITEBANHANGDIENTU\\ĐA_PTUDCore\\ĐA_PTUDCore\\ĐA_PTUDCore.csproj",
       "projectName": "ĐA_PTUDCore",
-      "projectPath": "C:\\Users\\vuong\\Downloads\\127\\ĐA_PTUDCore\\ĐA_PTUDCore\\ĐA_PTUDCore.csproj",
+      "projectPath": "C:\\Users\\vuong\\Downloads\\A101_T6_WEBSITEBANHANGDIENTU\\ĐA_PTUDCore\\ĐA_PTUDCore\\ĐA_PTUDCore.csproj",
       "packagesPath": "C:\\Users\\vuong\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\vuong\\Downloads\\127\\ĐA_PTUDCore\\ĐA_PTUDCore\\obj\\",
+      "outputPath": "C:\\Users\\vuong\\Downloads\\A101_T6_WEBSITEBANHANGDIENTU\\ĐA_PTUDCore\\ĐA_PTUDCore\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
