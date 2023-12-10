@@ -35,4 +35,7 @@ Phát triển ứng dụng phần mềm thông minh
   + Gợi ý nhu cầu gaming, văn phòng, đồ họa
 ### Nguồn tham khảo
 Link: https://gearvn.com/ 
+
+api key:
+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
   
