@@ -37,5 +37,5 @@ Phát triển ứng dụng phần mềm thông minh
 Link: https://gearvn.com/ 
 
 api key:
-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
+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
   
